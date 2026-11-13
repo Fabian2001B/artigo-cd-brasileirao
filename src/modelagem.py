@@ -18,7 +18,10 @@ from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
 from sklearn.tree import DecisionTreeClassifier, export_text
 
-from config import BASE_PROCESSADA, COR_CAMPEAO, FIGURAS, PREDITORAS, SEMENTE, TABELAS
+from sklearn.base import clone
+
+from config import (BASE_PROCESSADA, CENARIOS_ROBUSTEZ, COR_CAMPEAO, FIGURAS,
+                    PREDITORAS, SEMENTE, TABELAS)
 from estilo import BORDA, TINTA, TINTA_2, aplicar_estilo, saida_utf8
 
 NOMES = {
@@ -173,6 +176,28 @@ def main():
     met = pd.DataFrame(linhas)
     met.to_csv(TABELAS / "metricas_modelos.csv", index=False, encoding="utf-8")
 
+    # Robustez: a posição final do adversário só é conhecida ao fim da
+    # temporada. Comparamos com a posição no ano anterior (conhecida antes do
+    # jogo) e com modelos sem nenhuma medida do adversário.
+    rob = []
+    for cenario, cols in CENARIOS_ROBUSTEZ.items():
+        Xc = df[cols]
+        arv_cv, _ = ajustar_arvore(Xc, y, cv5)
+        arv_t, _ = ajustar_arvore(Xc[treino], y[treino], cv5)
+        logit = make_pipeline(StandardScaler(), LogisticRegression(
+            class_weight="balanced", max_iter=1000))
+        for modelo, m_cv, m_t in [("Árvore de decisão", arv_cv, arv_t),
+                                  ("Regressão logística", logit,
+                                   clone(logit).fit(Xc[treino], y[treino]))]:
+            _, _, bal = avaliar_cv(m_cv, Xc, y, cv_rep)
+            pred = m_t.predict(Xc[~treino])
+            rob.append({"cenario": cenario, "modelo": modelo,
+                        "acuracia_balanceada_cv": bal,
+                        "acuracia_balanceada_temporal": balanced_accuracy_score(
+                            y[~treino], pred)})
+    rob = pd.DataFrame(rob)
+    rob.to_csv(TABELAS / "metricas_robustez.csv", index=False, encoding="utf-8")
+
     # Importância das variáveis por permutação, medida no teste temporal
     # (2024-2025) com a floresta treinada em 2020-2023. A importância por
     # redução de impureza favorece variáveis contínuas e não foi usada.
@@ -214,6 +239,7 @@ def main():
 
     print("Parâmetros da árvore:", params)
     print(met.round(3).to_string(index=False))
+    print(rob.round(3).to_string(index=False))
     print(imp.round(3).to_string(index=False))
     print(regras)
     print((TABELAS / "matriz_confusao_temporal.csv").read_text(encoding="utf-8"))

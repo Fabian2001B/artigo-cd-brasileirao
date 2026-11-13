@@ -27,7 +27,7 @@ def main():
         raise FileNotFoundError(
             f"{CLASSIFICACAO} não encontrado; ele faz parte do repositório."
         )
-    print("[ok] classificação final 2020-2025 disponível")
+    print("[ok] classificação final 2019-2025 disponível")
 
 
 if __name__ == "__main__":

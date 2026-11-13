@@ -17,7 +17,9 @@ ARQUIVOS_TCC = [
     "z4-todos-base_detalhada_geral_publico.csv",
 ]
 
-CLASSIFICACAO = DADOS_EXTERNOS / "classificacao_final_2020_2025.csv"
+# Classificação final de 2019 a 2025 (2019 serve para a posição do adversário
+# no ano anterior às temporadas analisadas).
+CLASSIFICACAO = DADOS_EXTERNOS / "classificacao_final_2019_2025.csv"
 BASE_PROCESSADA = DADOS_PROCESSADOS / "partidas_disputa_titulo.csv"
 
 # Campeão (C) e vice-campeão (V) de cada temporada analisada.
@@ -48,6 +50,15 @@ PREDITORAS = [
     "hora",
     "campeao",
 ]
+
+# Análise de robustez: três formas de medir (ou não) a força do adversário.
+PREDITORAS_SEM_ADV = [v for v in PREDITORAS if v != "posicao_adv"]
+CENARIOS_ROBUSTEZ = {
+    "Posição final do adversário": PREDITORAS,
+    "Posição do adversário no ano anterior": PREDITORAS_SEM_ADV + ["posicao_adv_ant",
+                                                                  "adv_promovido"],
+    "Sem medida do adversário": PREDITORAS_SEM_ADV,
+}
 
 SEMENTE = 42
 

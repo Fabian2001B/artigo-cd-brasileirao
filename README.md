@@ -40,7 +40,7 @@ minuto. Cada etapa também pode ser rodada sozinha, de dentro da pasta `src`
 | 1. Obtenção | `src/obter_dados.py` | Baixa os CSVs do TCC a partir de um commit fixo | `data/raw/*.csv` |
 | 2. Preparação | `src/preparar.py` | Recorte, limpeza, variáveis derivadas e validações | `data/processed/partidas_disputa_titulo.csv`, `outputs/tables/validacao.txt` |
 | 3. Exploração | `src/exploratoria.py` | Taxas de vitória e pontos perdidos por fator | `outputs/tables/*.csv`, `outputs/figures/fig1*`, `fig2*` |
-| 4. Modelagem | `src/modelagem.py` | Árvores de decisão, comparação de modelos, importância | `outputs/tables/metricas_modelos.csv`, `fig3*`, `fig4*` |
+| 4. Modelagem | `src/modelagem.py` | Árvores de decisão, comparação de modelos, importância e análise de robustez | `outputs/tables/metricas_modelos.csv`, `metricas_robustez.csv`, `fig3*`, `fig4*` |
 
 ## Dados
 
@@ -48,7 +48,7 @@ minuto. Cada etapa também pode ser rodada sozinha, de dentro da pasta `src`
 | --- | --- | --- |
 | `data/raw/todos-base_detalhada_geral_publico.csv` | [TCC de Luan Santos](https://github.com/AlvesLuan/tcc_scraper_sofascore), commit `23af40d` (coleta no SofaScore e no FBref) | 4.898 partidas dos clubes do Clube dos 13, 2015 a 2025 |
 | `data/raw/z4-todos-base_detalhada_geral_publico.csv` | mesmo repositório | jogos contra equipes do Z4 |
-| `data/external/classificacao_final_2020_2025.csv` | Wikipédia, páginas "20XX Campeonato Brasileiro Série A" (consultadas em 12/11/2026) | posição e pontos finais dos 20 clubes por temporada |
+| `data/external/classificacao_final_2019_2025.csv` | Wikipédia, páginas "20XX Campeonato Brasileiro Série A" (consultadas em 12 e 13/11/2026) | posição e pontos finais dos 20 clubes por temporada; 2019 serve para a posição do adversário no ano anterior |
 | `data/processed/partidas_disputa_titulo.csv` | gerado por `preparar.py` | 456 partidas (12 campanhas x 38 rodadas), base usada na análise |
 
 Os arquivos brutos já estão no repositório. Se forem apagados, `obter_dados.py`
@@ -64,6 +64,8 @@ fins acadêmicos.
 | `resultado` | Vitória, Empate ou Derrota (alvo da versão com três classes) |
 | `mandante` | 1 se a equipe jogou em casa |
 | `posicao_adv` | Posição final do adversário na tabela (1 a 20) |
+| `posicao_adv_ant` | Posição do adversário no ano anterior (18 para recém-promovidos); usada na análise de robustez |
+| `adv_promovido` | 1 se o adversário não disputou a Série A no ano anterior |
 | `adv_z4` | 1 se o adversário terminou entre o 17º e o 20º lugar |
 | `forma_recente` | Média de pontos por jogo nas 5 partidas anteriores (1,5 na 1ª rodada) |
 | `dif_idade`, `dif_altura` | Idade (anos) e altura (cm) médias dos titulares: equipe menos adversário |
@@ -76,7 +78,7 @@ fins acadêmicos.
 ```
 ├── data/
 │   ├── raw/          # dados originais do TCC
-│   ├── external/     # classificação final 2020-2025
+│   ├── external/     # classificação final 2019-2025
 │   └── processed/    # base pronta para análise
 ├── outputs/
 │   ├── figures/      # figuras do artigo (PNG e PDF)
@@ -101,3 +103,7 @@ fins acadêmicos.
   linha de base.
 - Os vice-campeões perderam 33 pontos a mais que os campeões no período,
   sobretudo contra equipes do 5º ao 8º e do 13º ao 16º lugar.
+- Robustez: com a posição do adversário no ano anterior (informação disponível
+  antes do jogo), a acurácia balanceada da árvore cai para 0,56, praticamente o
+  mesmo que sem nenhuma medida do adversário (0,57). O efeito do mando de campo
+  se mantém; o da força do adversário depende de saber como a temporada terminou.

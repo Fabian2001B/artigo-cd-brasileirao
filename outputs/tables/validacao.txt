@@ -1,6 +1,8 @@
 Partidas no recorte: 456 (esperado: 12 x 38 = 456)
 Primeira rodada sem histórico (forma = 1,5 ponto/jogo): 12
 Adversários sem posição final: 0
+Jogos contra recém-promovidos (sem posição no ano anterior): 94
+Correlação entre posição final e posição no ano anterior: 0.41
 Jogos contra Z4: 96; divergências com o arquivo Z4 do TCC: 0
 Campanhas com pontos diferentes da tabela oficial: 0 de 12
 Jogos por campanha: min 38, max 38

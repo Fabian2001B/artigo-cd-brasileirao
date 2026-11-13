@@ -65,6 +65,20 @@ def main():
     )
     log.append(f"Adversários sem posição final: {int(df['posicao_adv'].isna().sum())}")
 
+    # Força do adversário conhecida antes do jogo: posição no ano anterior.
+    # Times recém-promovidos não estavam na Série A e recebem a posição 18,
+    # equivalente à zona de rebaixamento; a coluna adv_promovido os identifica.
+    anterior = classif.assign(temporada=classif["temporada"] + 1).rename(
+        columns={"clube": "adversario", "posicao": "posicao_adv_ant"})
+    df = df.merge(anterior[["temporada", "adversario", "posicao_adv_ant"]],
+                  on=["temporada", "adversario"], how="left")
+    df["adv_promovido"] = df["posicao_adv_ant"].isna().astype(int)
+    df["posicao_adv_ant"] = df["posicao_adv_ant"].fillna(18)
+    log.append(f"Jogos contra recém-promovidos (sem posição no ano anterior): "
+               f"{int(df['adv_promovido'].sum())}")
+    log.append(f"Correlação entre posição final e posição no ano anterior: "
+               f"{df['posicao_adv'].corr(df['posicao_adv_ant']):.2f}")
+
     # Checagem cruzada com o arquivo Z4 do TCC.
     z4_chaves = set(zip(z4["time"], z4["temporada"], z4["rodada"]))
     df["adv_z4_tcc"] = [int(k in z4_chaves)
@@ -114,6 +128,7 @@ def main():
         "temporada", "rodada", "data", "time", "papel", "adversario", "condicao",
         "resultado", "gols_favor", "gols_sofridos", "pontos", "vitoria",
         "mandante", "campeao", "posicao_adv", "pontos_adv", "faixa_adv", "adv_z4",
+        "posicao_adv_ant", "adv_promovido",
         "forma_recente", "dif_idade", "dif_altura", "idade_media_titular_time",
         "altura_media_titular_time", "reta_final", "meio_semana",
         "dia_semana", "hora", "publico", "confronto_direto", "arbitro", "estadio",

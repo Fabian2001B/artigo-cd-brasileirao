@@ -1,0 +1,7 @@
+cenario,modelo,acuracia_balanceada_cv,acuracia_balanceada_temporal
+Posição final do adversário,Árvore de decisão,0.6040112163572938,0.6435777337416682
+Posição final do adversário,Regressão logística,0.6274137448119573,0.6354710862907584
+Posição do adversário no ano anterior,Árvore de decisão,0.5585731291217886,0.5616105206269141
+Posição do adversário no ano anterior,Regressão logística,0.6080587808417997,0.6025941271842912
+Sem medida do adversário,Árvore de decisão,0.5740277671682835,0.5671950999819853
+Sem medida do adversário,Regressão logística,0.6037469762941461,0.5725094577553593
