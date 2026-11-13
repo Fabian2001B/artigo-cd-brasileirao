@@ -4,7 +4,7 @@ Fatores associados ao desempenho de campeões e vice-campeões do Campeonato
 Brasileiro Série A entre 2020 e 2025.
 
 Artigo final da disciplina de Ciência de Dados, IFMG Campus Sabará.
-Integrantes: Luan Kauan, Fabian Bernardes, Nathan Siqueira e Robert Barbosa.
+Integrantes: Luan Santos, Fabian Bernardes, Nathan Siqueira e Robert Barbosa.
 
 ## Objetivo
 
@@ -46,7 +46,7 @@ minuto. Cada etapa também pode ser rodada sozinha, de dentro da pasta `src`
 
 | Arquivo | Origem | Conteúdo |
 | --- | --- | --- |
-| `data/raw/todos-base_detalhada_geral_publico.csv` | [TCC de Luan Kauan](https://github.com/AlvesLuan/tcc_scraper_sofascore), commit `23af40d` (coleta no SofaScore e no FBref) | 4.898 partidas dos clubes do Clube dos 13, 2015 a 2025 |
+| `data/raw/todos-base_detalhada_geral_publico.csv` | [TCC de Luan Santos](https://github.com/AlvesLuan/tcc_scraper_sofascore), commit `23af40d` (coleta no SofaScore e no FBref) | 4.898 partidas dos clubes do Clube dos 13, 2015 a 2025 |
 | `data/raw/z4-todos-base_detalhada_geral_publico.csv` | mesmo repositório | jogos contra equipes do Z4 |
 | `data/external/classificacao_final_2020_2025.csv` | Wikipédia, páginas "20XX Campeonato Brasileiro Série A" (consultadas em 12/11/2026) | posição e pontos finais dos 20 clubes por temporada |
 | `data/processed/partidas_disputa_titulo.csv` | gerado por `preparar.py` | 456 partidas (12 campanhas x 38 rodadas), base usada na análise |
