@@ -1,0 +1,10 @@
+|--- Mandante <= 0.50
+|   |--- Posição do adversário <= 9.50
+|   |   |--- weights: [75.61, 27.74] class: 0
+|   |--- Posição do adversário >  9.50
+|   |   |--- weights: [68.52, 64.15] class: 0
+|--- Mandante >  0.50
+|   |--- Posição do adversário <= 6.50
+|   |   |--- weights: [35.44, 26.01] class: 0
+|   |--- Posição do adversário >  6.50
+|   |   |--- weights: [48.44, 110.10] class: 1

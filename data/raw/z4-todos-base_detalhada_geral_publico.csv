@@ -1,0 +1,1017 @@
+﻿time,temporada,rodada,data,horario,dia_semana,mes,adversario,resultado,gols_favor,gols_sofridos,condicao,arbitro,idade_media_titular_time,desvio_idade_media_time,altura_media_titular_time,desvio_altura_media_time,idade_media_titular_adv,desvio_idade_media_adv,altura_media_titular_adv,desvio_altura_media_adv,estadio,publico
+Atlético Mineiro,2015,4,31/05/2015,16:00,Domingo,5,Vasco da Gama,Vitória,3,0,Mandante,Alisson Sidnei Furtado,26.9,4.7,180.7,7.9,28.3,5.1,179.6,7.8,Arena Independência,17958
+Atlético Mineiro,2015,5,03/06/2015,22:00,Quarta,6,Avaí,Vitória,4,1,Visitante,Pablo Dos Santos Alves,26.5,4.5,180.9,7.6,26.8,5.2,180.8,7.4,Estádio da Ressacada,7101
+Atlético Mineiro,2015,9,28/06/2015,11:00,Domingo,6,Joinville,Vitória,1,0,Mandante,Emerson Luiz Sobral,28.1,4.0,181.8,6.7,26.1,5.9,181.5,4.6,Arena Independência,55987
+Atlético Mineiro,2015,17,09/08/2015,16:00,Domingo,8,Goiás,Empate,0,0,Visitante,Raphael Claus,27.9,4.3,179.6,7.6,25.1,4.3,180.2,4.9,Serra Dourada,7762
+Atlético Mineiro,2015,23,05/09/2015,19:30,Sábado,9,Vasco da Gama,Vitória,2,1,Visitante,Elmo Alves Resende Cunha,29.5,3.4,182.5,6.9,28.7,5.2,181.9,6.5,Estádio do Maracanã,8768
+Atlético Mineiro,2015,24,09/09/2015,19:30,Quarta,9,Avaí,Vitória,2,0,Mandante,Luis Teixeira Rocha,28.6,3.9,180.3,7.7,26.8,3.7,179.9,8.6,Arena Independência,10388
+Atlético Mineiro,2015,28,27/09/2015,16:00,Domingo,9,Joinville,Empate,2,2,Visitante,Raphael Claus,28.2,4.4,180.4,7.6,27.7,5.7,180.0,5.4,Arena Joinville,7486
+Atlético Mineiro,2015,36,22/11/2015,16:00,Domingo,11,Goiás,Empate,2,2,Mandante,Nielson Nogueira Dias,28.3,4.4,180.4,7.6,26.5,4.2,180.5,4.8,Arena Independência,9373
+Corinthians,2015,6,06/06/2015,22:00,Sábado,6,Joinville,Vitória,1,0,Visitante,Dewson Fernando Freitas da Silva,28.0,3.4,180.4,8.6,25.0,3.6,181.3,4.4,Arena Joinville,14131
+Corinthians,2015,11,05/07/2015,16:00,Domingo,7,Goiás,Empate,0,0,Visitante,Heber Roberto Lopes,27.2,3.4,179.4,9.4,25.3,4.0,179.6,5.4,Serra Dourada,9579
+Corinthians,2015,16,29/07/2015,22:00,Quarta,7,Vasco da Gama,Vitória,3,0,Mandante,Leandro Pedro Vuaden,27.3,3.4,178.7,8.5,27.4,5.2,181.1,5.4,Neo Química Arena,30340
+Corinthians,2015,19,16/08/2015,16:00,Domingo,8,Avaí,Vitória,2,1,Visitante,Anderson Daronco,26.5,3.5,179.5,9.0,27.5,4.4,178.1,7.1,Estádio da Ressacada,11389
+Corinthians,2015,25,13/09/2015,11:00,Domingo,9,Joinville,Vitória,3,0,Mandante,Wilton Pereira Sampaio,28.6,2.1,180.6,9.1,24.8,2.8,179.8,5.5,Neo Química Arena,41809
+Corinthians,2015,30,15/10/2015,19:30,Quinta,10,Goiás,Vitória,3,0,Mandante,Reway Wagner,27.9,4.9,180.3,8.3,26.7,4.2,179.9,4.7,Neo Química Arena,40925
+Corinthians,2015,35,19/11/2015,21:00,Quinta,11,Vasco da Gama,Empate,1,1,Visitante,Anderson Daronco,27.6,4.5,180.3,8.9,30.1,4.2,179.5,4.7,Estádio São Januário,19225
+Corinthians,2015,38,06/12/2015,16:00,Domingo,12,Avaí,Empate,1,1,Mandante,Leandro Pedro Vuaden,27.5,3.4,179.9,8.7,25.2,4.0,178.6,8.1,Neo Química Arena,43389
+Cruzeiro,2015,7,13/06/2015,21:00,Sábado,6,Vasco da Gama,Vitória,3,1,Visitante,Leandro Pedro Vuaden,26.6,4.4,178.5,6.7,27.8,5.4,179.2,5.1,Estádio São Januário,5505
+Cruzeiro,2015,13,12/07/2015,16:00,Domingo,7,Goiás,Vitória,1,0,Mandante,Emerson Luiz Sobral,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Governador Magalhães Pinto,10675
+Cruzeiro,2015,14,19/07/2015,18:30,Domingo,7,Avaí,Empate,1,1,Mandante,,27.7,5.0,179.0,6.2,26.4,5.2,179.8,6.8,Governador Magalhães Pinto,7236
+Cruzeiro,2015,18,13/08/2015,21:00,Quinta,8,Joinville,Derrota,0,3,Visitante,Leandro Pedro Vuaden,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Joinville,10498
+Cruzeiro,2015,26,16/09/2015,22:00,Quarta,9,Vasco da Gama,Empate,2,2,Mandante,Thiago Duarte Peixoto,28.3,4.5,178.2,6.6,28.8,4.7,181.8,4.9,Governador Magalhães Pinto,19888
+Cruzeiro,2015,32,25/10/2015,17:00,Domingo,10,Goiás,Vitória,1,0,Visitante,Nielson Nogueira Dias,29.2,4.4,180.5,6.3,25.6,4.1,179.8,4.6,Serra Dourada,13101
+Cruzeiro,2015,33,31/10/2015,18:30,Sábado,10,Avaí,Empate,1,1,Visitante,Raphael Claus,28.7,4.5,179.7,6.0,25.1,3.8,179.5,8.3,Estádio da Ressacada,5345
+Cruzeiro,2015,37,29/11/2015,16:00,Domingo,11,Joinville,Vitória,3,0,Mandante,Rodolpho Toski Marques,29.0,4.4,180.3,6.0,26.2,6.0,180.8,6.2,Governador Magalhães Pinto,24933
+Flamengo,2015,3,24/05/2015,16:00,Domingo,5,Avaí,Derrota,1,2,Visitante,Raphael Claus,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio da Ressacada,11868
+Flamengo,2015,9,28/06/2015,18:30,Domingo,6,Vasco da Gama,Derrota,0,1,Visitante,Heber Roberto Lopes,27.2,4.4,178.9,7.6,27.8,5.1,180.1,4.3,Estádio São Januário,14010
+Flamengo,2015,10,01/07/2015,22:00,Quarta,7,Joinville,Vitória,1,0,Visitante,Leandro Pedro Vuaden,25.8,4.6,180.6,6.4,24.5,4.1,182.5,4.0,Arena Joinville,15731
+Flamengo,2015,15,26/07/2015,16:00,Domingo,7,Goiás,Vitória,1,0,Visitante,Heber Roberto Lopes,26.1,3.8,182.4,6.7,25.3,4.1,180.5,4.4,Serra Dourada,11450
+Flamengo,2015,22,02/09/2015,21:00,Quarta,9,Avaí,Vitória,3,0,Mandante,Thiago Duarte Peixoto,28.1,3.9,178.3,5.7,26.3,3.6,180.5,8.0,Estádio do Maracanã,22825
+Flamengo,2015,28,27/09/2015,16:00,Domingo,9,Vasco da Gama,Derrota,1,2,Mandante,Leandro Pedro Vuaden,27.2,5.0,180.0,6.6,30.8,4.1,181.4,5.8,Estádio do Maracanã,44361
+Flamengo,2015,29,04/10/2015,11:00,Domingo,10,Joinville,Vitória,2,0,Mandante,Luiz Flávio de Oliveira,25.9,3.9,181.2,7.0,27.5,5.9,180.4,5.1,Estádio do Maracanã,52462
+Flamengo,2015,34,08/11/2015,16:00,Domingo,11,Goiás,Vitória,4,1,Mandante,Luiz Flávio de Oliveira,26.9,4.8,179.7,6.0,25.5,3.6,178.6,5.3,Estádio do Maracanã,15421
+Fluminense,2015,1,09/05/2015,21:00,Sábado,5,Joinville,Vitória,1,0,Mandante,Thiago Duarte Peixoto,26.3,5.2,181.5,5.9,28.5,4.3,180.4,4.9,Estádio do Maracanã,19185
+Fluminense,2015,9,28/06/2015,16:00,Domingo,6,Goiás,Vitória,2,1,Visitante,Luiz Flávio de Oliveira,28.4,5.3,180.7,5.9,24.6,3.1,179.3,6.0,Serra Dourada,3053
+Fluminense,2015,14,19/07/2015,16:00,Domingo,7,Vasco da Gama,Derrota,1,2,Mandante,Luiz Flávio de Oliveira,26.8,4.6,180.8,6.9,27.8,4.5,182.7,5.1,Estádio do Maracanã,37687
+Fluminense,2015,17,08/08/2015,18:30,Sábado,8,Avaí,Derrota,0,1,Visitante,Thiago Duarte Peixoto,28.5,6.2,179.3,6.2,28.5,4.5,178.6,7.2,Estádio da Ressacada,11033
+Fluminense,2015,20,23/08/2015,16:00,Domingo,8,Joinville,Derrota,1,2,Visitante,Emerson Luiz Sobral,27.0,4.2,180.2,7.1,25.4,5.5,180.5,4.8,Arena Joinville,12395
+Fluminense,2015,28,26/09/2015,18:30,Sábado,9,Goiás,Vitória,2,0,Mandante,Marielson Alves Silva,27.6,6.1,181.1,5.9,25.7,4.0,179.6,4.8,Estádio do Maracanã,11725
+Fluminense,2015,33,01/11/2015,17:00,Domingo,11,Vasco da Gama,Vitória,1,0,Visitante,Luiz Flávio de Oliveira,27.1,4.9,178.9,6.5,30.9,4.1,181.4,5.8,Estádio Nilton Santos,11957
+Fluminense,2015,36,22/11/2015,18:30,Domingo,11,Avaí,Vitória,3,1,Mandante,Flavio Rodrigues Guerra,27.7,4.7,178.6,6.9,26.5,4.0,180.2,7.8,Estádio Kleber Andrade,9183
+Grêmio,2015,4,31/05/2015,16:00,Domingo,5,Goiás,Empate,1,1,Visitante,Anderson Daronco,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Serra Dourada,4511
+Grêmio,2015,9,27/06/2015,16:00,Sábado,6,Avaí,Vitória,2,1,Visitante,Marcelo de Lima Henrique,24.9,4.5,182.3,6.7,26.5,5.0,180.5,8.0,Estádio da Ressacada,11221
+Grêmio,2015,13,11/07/2015,18:30,Sábado,7,Vasco da Gama,Vitória,2,0,Mandante,Luiz Flávio de Oliveira,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena do Grêmio,34464
+Grêmio,2015,19,16/08/2015,18:30,Domingo,8,Joinville,Vitória,2,1,Mandante,,27.1,3.9,183.5,6.0,25.4,5.5,180.5,4.8,Arena do Grêmio,31183
+Grêmio,2015,23,06/09/2015,16:00,Domingo,9,Goiás,Vitória,2,1,Mandante,Sandro Meira Ricci,25.8,4.6,182.4,6.2,25.4,4.1,179.5,4.8,Arena do Grêmio,29184
+Grêmio,2015,28,26/09/2015,21:00,Sábado,9,Avaí,Vitória,3,1,Mandante,Marcelo Aparecido Ribeiro de Souza,25.1,4.0,182.7,5.5,27.4,2.9,181.0,8.4,Arena do Grêmio,13251
+Grêmio,2015,32,25/10/2015,16:00,Domingo,10,Vasco da Gama,Empate,0,0,Visitante,Marcelo Aparecido Ribeiro de Souza,26.6,4.1,183.5,6.0,30.0,4.4,182.5,5.2,Estádio do Maracanã,20207
+Grêmio,2015,38,06/12/2015,16:00,Domingo,12,Joinville,Vitória,2,0,Visitante,Raphael Claus,25.2,3.7,181.9,7.6,24.3,3.3,181.9,6.4,Arena Joinville,5979
+Internacional,2015,2,17/05/2015,18:30,Domingo,5,Avaí,Vitória,1,0,Mandante,Igor Junio Benevenuto,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio Beira-Rio,13009
+Internacional,2015,3,23/05/2015,18:30,Sábado,5,Vasco da Gama,Empate,1,1,Visitante,Dewson Fernando Freitas da Silva,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio São Januário,5143
+Internacional,2015,13,12/07/2015,16:00,Domingo,7,Joinville,Vitória,2,0,Visitante,Francisco Carlos Do Nascimento,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Joinville,10324
+Internacional,2015,14,18/07/2015,18:30,Sábado,7,Goiás,Vitória,2,1,Mandante,Marcelo de Lima Henrique,28.2,4.4,181.4,6.7,25.3,4.1,180.5,4.4,Estádio Beira-Rio,16782
+Internacional,2015,21,30/08/2015,11:00,Domingo,8,Avaí,Derrota,0,3,Visitante,Pericles Bassols Pegado Cortez,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio da Ressacada,11150
+Internacional,2015,22,02/09/2015,19:30,Quarta,9,Vasco da Gama,Vitória,6,0,Mandante,Ricardo Marques Ribeiro,25.1,4.2,180.8,5.6,29.6,5.2,180.5,6.4,Estádio Beira-Rio,15021
+Internacional,2015,32,24/10/2015,17:30,Sábado,10,Joinville,Vitória,1,0,Mandante,Dewson Fernando Freitas da Silva,26.6,5.2,181.9,6.4,27.4,5.4,182.0,6.1,Estádio Beira-Rio,19138
+Internacional,2015,33,01/11/2015,18:30,Domingo,11,Goiás,Derrota,1,2,Visitante,Marcelo Aparecido Ribeiro de Souza,26.9,4.5,182.0,6.9,25.8,3.9,179.3,5.3,Serra Dourada,6881
+Palmeiras,2015,2,17/05/2015,18:30,Domingo,5,Joinville,Empate,0,0,Visitante,Wilton Pereira Sampaio,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Arena Joinville,100
+Palmeiras,2015,3,24/05/2015,11:00,Domingo,5,Goiás,Derrota,0,1,Mandante,Marcelo de Lima Henrique,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Nubank Parque,37337
+Palmeiras,2015,12,08/07/2015,21:00,Quarta,7,Avaí,Vitória,3,0,Mandante,Igor Junio Benevenuto,28.7,5.6,180.5,8.9,26.3,5.2,178.4,7.4,Nubank Parque,37530
+Palmeiras,2015,15,26/07/2015,18:30,Domingo,7,Vasco da Gama,Vitória,4,1,Visitante,Anderson Daronco,27.7,3.9,179.8,9.3,30.3,4.6,180.7,5.8,Estádio São Januário,15101
+Palmeiras,2015,21,30/08/2015,16:00,Domingo,8,Joinville,Vitória,3,2,Mandante,Bruno Arleu de Araujo,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Nubank Parque,28907
+Palmeiras,2015,22,02/09/2015,22:00,Quarta,9,Goiás,Derrota,0,1,Visitante,Leandro Pedro Vuaden,26.5,5.1,180.8,7.8,25.3,4.2,179.6,4.8,Serra Dourada,15142
+Palmeiras,2015,31,17/10/2015,18:30,Sábado,10,Avaí,Vitória,3,1,Visitante,Marcelo de Lima Henrique,25.8,5.1,180.5,6.2,28.7,4.7,179.8,7.6,Estádio da Ressacada,9254
+Palmeiras,2015,34,08/11/2015,16:00,Domingo,11,Vasco da Gama,Derrota,0,2,Mandante,Anderson Daronco,28.5,6.6,181.9,6.7,30.0,4.2,179.5,4.7,Nubank Parque,28800
+Santos,2015,1,10/05/2015,18:30,Domingo,5,Avaí,Empate,1,1,Visitante,Dewson Fernando Freitas da Silva,28.5,3.9,179.4,6.1,27.0,4.4,182.2,6.5,Estádio da Ressacada,7677
+Santos,2015,12,08/07/2015,19:30,Quarta,7,Goiás,Derrota,1,4,Visitante,Anderson Daronco,25.3,5.0,179.7,7.5,25.2,4.2,179.4,5.8,Serra Dourada,1829
+Santos,2015,15,26/07/2015,11:00,Domingo,7,Joinville,Vitória,2,0,Mandante,Ricardo Marques Ribeiro,25.8,4.8,180.6,6.9,26.4,3.7,179.8,5.0,Estádio Urbano Caldeira,12974
+Santos,2015,18,12/08/2015,21:00,Quarta,8,Vasco da Gama,Vitória,1,0,Mandante,Emerson Luiz Sobral,26.2,5.9,181.1,7.7,29.1,5.1,181.4,5.0,Estádio Urbano Caldeira,12038
+Santos,2015,20,22/08/2015,18:30,Sábado,8,Avaí,Vitória,5,2,Mandante,Leandro Pedro Vuaden,26.2,5.9,181.1,7.7,27.4,4.4,178.5,7.3,Estádio Urbano Caldeira,12036
+Santos,2015,31,18/10/2015,16:00,Domingo,10,Goiás,Vitória,3,1,Mandante,Anderson Daronco,26.0,5.7,179.9,6.6,26.0,4.0,180.4,4.8,Estádio Urbano Caldeira,6198
+Santos,2015,34,08/11/2015,17:00,Domingo,11,Joinville,Empate,0,0,Visitante,Reway Wagner,26.9,5.7,180.3,6.5,26.6,5.5,181.5,5.5,Arena Joinville,9679
+Santos,2015,37,29/11/2015,17:00,Domingo,11,Vasco da Gama,Derrota,0,1,Visitante,Leandro Pedro Vuaden,26.2,3.8,180.2,7.1,31.3,3.3,178.9,5.7,Estádio São Januário,11618
+São Paulo,2015,3,23/05/2015,18:30,Sábado,5,Joinville,Vitória,3,0,Mandante,Reway Wagner,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,MorumBIS,17713
+São Paulo,2015,8,21/06/2015,16:00,Domingo,6,Avaí,Empate,1,1,Mandante,Bruno Arleu de Araujo,26.3,2.9,183.4,5.7,27.0,3.6,180.5,7.6,MorumBIS,21288
+São Paulo,2015,12,08/07/2015,22:00,Quarta,7,Vasco da Gama,Vitória,4,0,Visitante,Leandro Pedro Vuaden,26.5,6.0,181.0,4.1,29.1,4.5,179.3,3.9,Estádio São Januário,15812
+São Paulo,2015,19,15/08/2015,21:00,Sábado,8,Goiás,Derrota,0,3,Mandante,,26.8,3.4,182.9,6.3,25.0,4.3,179.5,4.9,MorumBIS,25452
+São Paulo,2015,22,02/09/2015,19:30,Quarta,9,Joinville,Empate,0,0,Visitante,Rodolpho Toski Marques,26.3,3.5,182.7,5.5,26.7,5.8,179.5,5.6,Arena Joinville,13604
+São Paulo,2015,27,20/09/2015,16:00,Domingo,9,Avaí,Derrota,1,2,Visitante,Jailson Macedo Freitas,23.2,3.5,182.9,5.7,27.9,3.4,182.3,7.5,Estádio da Ressacada,9432
+São Paulo,2015,31,18/10/2015,15:00,Domingo,10,Vasco da Gama,Empate,2,2,Mandante,Dewson Fernando Freitas da Silva,27.2,6.5,183.5,5.1,30.9,4.1,181.4,5.8,MorumBIS,18349
+São Paulo,2015,38,06/12/2015,16:00,Domingo,12,Goiás,Vitória,1,0,Visitante,Ricardo Marques Ribeiro,27.3,3.3,182.4,4.9,26.2,4.4,179.6,5.1,Serra Dourada,34284
+Vasco da Gama,2015,1,10/05/2015,18:30,Domingo,05,Goiás,Empate,0,0,Mandante,Braulio Da Silva Machado,28.7,4.9,180.8,5.1,25.1,3.3,181.2,3.5,Estádio São Januário,7424
+Vasco da Gama,2015,10,01/07/2015,19:30,Quarta,07,Avaí,Vitória,1,0,Mandante,Marcos Andre Gomes da Penha,27.6,5.1,180.4,4.2,25.5,4.1,179.5,7.7,Estádio São Januário,7333
+Vasco da Gama,2015,17,09/08/2015,11:00,Domingo,08,Joinville,Empate,0,0,Mandante,Luiz Flávio de Oliveira,N.A,N.A,N.A,N.A,N.A,N.A,N.A,N.A,Estádio São Januário,48751
+Vasco da Gama,2015,20,22/08/2015,18:30,Sábado,08,Goiás,Derrota,0,3,Visitante,Luiz Flávio de Oliveira,30.7,4.2,180.5,5.5,25.4,4.1,179.5,4.8,Serra Dourada,12154
+Vasco da Gama,2015,29,04/10/2015,11:00,Domingo,10,Avaí,Empate,1,1,Visitante,Luis Teixeira Rocha,31.2,3.4,181.5,5.8,25.6,4.3,181.3,8.5,Estádio da Ressacada,14582
+Vasco da Gama,2015,36,22/11/2015,16:00,Domingo,11,Joinville,Vitória,2,1,Visitante,Marcelo Aparecido Ribeiro de Souza,30.1,3.9,179.3,6.0,24.6,3.8,182.7,5.6,Arena Joinville,7026
+Atlético Mineiro,2016,8,16/06/2016,19:30,Quinta,6,Internacional,Derrota,0,2,Visitante,Pericles Bassols Pegado Cortez,28.2,5.1,180.2,7.2,25.7,4.3,180.5,5.1,Estádio Beira-Rio,21881
+Atlético Mineiro,2016,11,26/06/2016,11:00,Domingo,6,América Mineiro,Vitória,1,0,Visitante,Anderson Daronco,29.1,5.0,180.5,8.5,28.0,3.5,180.3,5.2,Arena Independência,9516
+Atlético Mineiro,2016,13,03/07/2016,19:00,Domingo,7,Figueirense,Empate,1,1,Visitante,Rafael Traci,27.9,5.2,181.5,8.5,26.6,3.4,177.6,7.0,Orlando Scarpelli,5226
+Atlético Mineiro,2016,17,30/07/2016,21:00,Sábado,7,Santa Cruz,Vitória,3,0,Mandante,Dewson Fernando Freitas da Silva,31.3,2.9,182.7,7.5,29.2,5.0,181.7,6.5,Arena Independência,16804
+Atlético Mineiro,2016,27,25/09/2016,18:30,Domingo,9,Internacional,Vitória,3,1,Mandante,Pericles Bassols Pegado Cortez,29.0,5.0,180.1,7.5,27.3,4.9,180.2,5.3,Arena Independência,20311
+Atlético Mineiro,2016,30,13/10/2016,19:30,Quinta,10,América Mineiro,Vitória,3,0,Mandante,Raphael Claus,29.6,4.4,180.7,8.8,28.7,4.1,180.2,5.9,Governador Magalhães Pinto,27737
+Atlético Mineiro,2016,32,23/10/2016,18:30,Domingo,10,Figueirense,Vitória,3,0,Mandante,Grazianni Maciel Rocha,27.2,4.9,178.7,8.5,28.9,2.8,180.5,7.7,Arena Independência,14615
+Atlético Mineiro,2016,36,20/11/2016,18:30,Domingo,11,Santa Cruz,Empate,3,3,Visitante,Wagner do Nascimento Magalhaes,26.5,4.1,179.4,6.7,29.5,5.2,178.8,7.4,Estádio do Arruda,3221
+Botafogo,2016,8,15/06/2016,21:00,Quarta,6,América Mineiro,Vitória,3,1,Mandante,Rodrigo Batista Raposo,27.1,4.5,180.2,6.6,27.5,3.2,179.5,5.9,Estádio Luso Brasileiro,1255
+Botafogo,2016,10,22/06/2016,21:00,Quarta,6,Figueirense,Empate,0,0,Mandante,Emerson De Almeida Ferreira,27.9,4.1,180.2,6.6,27.4,3.4,179.4,8.8,Estádio Luso Brasileiro,3012
+Botafogo,2016,11,26/06/2016,16:00,Domingo,6,Internacional,Vitória,3,2,Visitante,Wilton Pereira Sampaio,27.1,4.8,180.5,6.7,24.1,3.1,180.5,6.9,Estádio Beira-Rio,21562
+Botafogo,2016,13,03/07/2016,16:00,Domingo,7,Santa Cruz,Vitória,2,1,Mandante,Braulio Da Silva Machado,28.2,3.9,179.7,7.0,29.1,5.6,181.4,6.5,Estádio Municipal Radialista Mario Helenio,5423
+Botafogo,2016,27,24/09/2016,21:00,Sábado,9,América Mineiro,Derrota,0,1,Visitante,Luiz Flávio de Oliveira,29.1,4.5,182.3,7.2,28.3,5.3,179.6,7.3,Arena Independência,1789
+Botafogo,2016,29,09/10/2016,17:00,Domingo,10,Figueirense,Vitória,1,0,Visitante,Wilton Pereira Sampaio,26.7,3.9,180.4,7.0,27.5,3.8,179.4,7.7,Orlando Scarpelli,12325
+Botafogo,2016,30,12/10/2016,21:45,Quarta,10,Internacional,Vitória,1,0,Mandante,Marielson Alves Silva,27.0,4.3,181.0,7.2,26.2,5.4,180.5,5.4,Estádio Luso Brasileiro,10176
+Botafogo,2016,32,19/10/2016,20:45,Quarta,10,Santa Cruz,Vitória,1,0,Visitante,Braulio Da Silva Machado,28.0,4.0,180.1,7.5,28.4,4.1,180.7,6.7,Estádio do Arruda,3480
+Corinthians,2016,11,25/06/2016,21:00,Sábado,6,Santa Cruz,Vitória,2,1,Mandante,Wagner do Nascimento Magalhaes,25.8,2.4,180.4,7.1,28.7,4.1,181.1,6.9,Neo Química Arena,25501
+Corinthians,2016,12,29/06/2016,21:45,Quarta,6,América Mineiro,Vitória,2,0,Visitante,Reway Wagner,25.8,2.4,180.4,7.1,28.7,3.6,180.5,5.3,Arena Independência,3386
+Corinthians,2016,16,23/07/2016,16:00,Sábado,7,Figueirense,Empate,1,1,Mandante,Marielson Alves Silva,25.8,2.4,180.8,6.3,26.3,4.1,178.9,7.0,Neo Química Arena,38507
+Corinthians,2016,17,31/07/2016,16:00,Domingo,7,Internacional,Vitória,1,0,Visitante,Elmo Alves Resende Cunha,26.7,2.1,180.0,7.2,27.3,3.2,181.9,5.5,Estádio Beira-Rio,30098
+Corinthians,2016,30,12/10/2016,21:45,Quarta,10,Santa Cruz,Vitória,4,2,Visitante,Grazianni Maciel Rocha,25.8,2.8,179.8,5.5,28.1,5.0,180.7,8.2,Estádio do Arruda,7974
+Corinthians,2016,31,16/10/2016,17:30,Domingo,10,América Mineiro,Vitória,2,0,Mandante,Dewson Fernando Freitas da Silva,26.7,2.6,179.2,6.2,28.7,4.1,180.2,5.9,Neo Química Arena,25741
+Corinthians,2016,35,16/11/2016,20:45,Quarta,11,Figueirense,Empate,1,1,Visitante,Anderson Daronco,25.6,3.9,178.8,6.0,29.4,3.4,181.2,8.6,Orlando Scarpelli,5694
+Corinthians,2016,36,21/11/2016,19:00,Segunda,11,Internacional,Vitória,1,0,Mandante,Rodolpho Toski Marques,26.7,3.3,180.1,6.1,25.7,3.0,181.1,4.9,Neo Química Arena,19493
+Cruzeiro,2016,2,21/05/2016,21:00,Sábado,5,Figueirense,Empate,2,2,Mandante,Reway Wagner,26.4,4.5,178.2,7.8,26.9,3.0,181.2,5.8,Governador Magalhães Pinto,12647
+Cruzeiro,2016,3,25/05/2016,21:45,Quarta,5,Santa Cruz,Derrota,1,4,Visitante,Anderson Daronco,27.3,4.3,180.2,7.1,29.8,4.4,181.2,6.0,Estádio do Arruda,16331
+Cruzeiro,2016,4,28/05/2016,16:00,Sábado,5,América Mineiro,Empate,1,1,Mandante,Dewson Fernando Freitas da Silva,26.6,4.3,179.9,7.1,27.5,4.0,180.3,6.1,Governador Magalhães Pinto,11266
+Cruzeiro,2016,18,04/08/2016,21:00,Quinta,8,Internacional,Vitória,4,2,Mandante,Raphael Claus,28.4,3.8,180.1,6.4,26.7,3.0,180.0,5.9,Arena Independência,12454
+Cruzeiro,2016,21,21/08/2016,18:30,Domingo,8,Figueirense,Vitória,2,1,Visitante,Joao Batista de Arruda,27.2,3.8,178.0,7.3,27.8,4.5,180.5,8.6,Orlando Scarpelli,2578
+Cruzeiro,2016,22,28/08/2016,11:00,Domingo,8,Santa Cruz,Vitória,2,0,Mandante,Sandro Meira Ricci,27.7,3.0,178.5,7.4,29.2,4.9,181.4,7.8,Governador Magalhães Pinto,46591
+Cruzeiro,2016,23,08/09/2016,21:00,Quinta,9,América Mineiro,Vitória,2,0,Visitante,Igor Junio Benevenuto,28.7,2.8,178.9,7.3,26.8,3.0,180.5,5.9,Arena Independência,5651
+Cruzeiro,2016,37,27/11/2016,16:00,Domingo,11,Internacional,Derrota,0,1,Visitante,Marcelo Aparecido Ribeiro de Souza,27.0,2.9,177.9,7.3,27.2,4.0,180.8,5.0,Estádio Beira-Rio,25352
+Flamengo,2016,7,12/06/2016,16:00,Domingo,6,Figueirense,Derrota,0,1,Visitante,Leandro Pedro Vuaden,25.2,4.0,180.5,5.1,28.4,4.0,180.9,8.6,Orlando Scarpelli,10948
+Flamengo,2016,10,22/06/2016,21:00,Quarta,6,Santa Cruz,Vitória,1,0,Visitante,Reway Wagner,25.7,3.8,181.5,6.1,29.5,3.8,178.5,6.9,Estádio do Arruda,12739
+Flamengo,2016,12,29/06/2016,19:30,Quarta,6,Internacional,Vitória,1,0,Mandante,Ricardo Marques Ribeiro,27.2,3.8,182.2,5.6,26.0,3.3,180.2,5.6,Estádio Kleber Andrade,21000
+Flamengo,2016,16,25/07/2016,20:00,Segunda,7,América Mineiro,Vitória,2,1,Mandante,Rodrigo Batista Raposo,29.6,3.7,179.0,7.0,28.7,4.1,180.3,4.5,Estádio Kleber Andrade,16523
+Flamengo,2016,26,18/09/2016,11:00,Domingo,9,Figueirense,Vitória,2,0,Mandante,Luiz Flávio de Oliveira,27.2,3.2,181.1,6.6,25.7,3.1,181.5,6.6,Mercado Livre Arena Pacaembu,29605
+Flamengo,2016,29,09/10/2016,17:00,Domingo,10,Santa Cruz,Vitória,3,0,Mandante,Ricardo Marques Ribeiro,28.1,3.6,179.1,7.1,27.4,5.1,181.5,8.1,Mercado Livre Arena Pacaembu,23272
+Flamengo,2016,31,16/10/2016,16:00,Domingo,10,Internacional,Derrota,1,2,Visitante,Wilton Pereira Sampaio,28.5,3.6,180.6,6.7,27.7,4.9,180.7,5.0,Estádio Beira-Rio,31981
+Flamengo,2016,35,16/11/2016,20:45,Quarta,11,América Mineiro,Vitória,1,0,Visitante,Raphael Claus,29.5,4.2,179.5,6.9,28.4,4.4,181.5,6.2,Governador Magalhães Pinto,7420
+Fluminense,2016,1,15/05/2016,16:00,Domingo,5,América Mineiro,Vitória,1,0,Visitante,Thiago Duarte Peixoto,28.3,4.3,180.8,6.4,28.1,4.0,182.3,4.9,Arena Independência,2078
+Fluminense,2016,2,21/05/2016,18:30,Sábado,5,Santa Cruz,Empate,2,2,Mandante,Jailson Macedo Freitas,29.2,4.4,179.8,6.8,28.9,4.9,181.7,5.9,Estádio Giulite Coutinho,3380
+Fluminense,2016,19,07/08/2016,16:15,Domingo,8,Internacional,Empate,2,2,Visitante,Rafael Traci,27.0,4.2,179.8,7.3,26.7,3.2,180.8,6.3,Estádio Beira-Rio,19552
+Fluminense,2016,20,14/08/2016,11:00,Domingo,8,América Mineiro,Vitória,1,0,Mandante,Diego Almeida Real,26.7,4.1,179.8,7.3,26.4,3.6,179.9,7.2,Estádio Giulite Coutinho,6775
+Fluminense,2016,21,21/08/2016,16:00,Domingo,8,Santa Cruz,Vitória,1,0,Visitante,Luiz Flávio de Oliveira,26.9,3.9,179.9,7.7,29.5,4.8,180.6,7.9,Estádio do Arruda,8279
+Fluminense,2016,18,03/09/2016,16:00,Sábado,9,Figueirense,Vitória,3,2,Mandante,Rodrigo Batista Raposo,27.7,4.5,179.9,6.2,28.1,3.3,180.7,6.2,Estádio Giulite Coutinho,6136
+Fluminense,2016,37,27/11/2016,18:30,Domingo,11,Figueirense,Derrota,0,1,Visitante,Jean Pierre Goncalves Lima,27.2,4.6,179.5,7.6,26.2,4.9,181.0,9.1,Orlando Scarpelli,1842
+Fluminense,2016,38,11/12/2016,16:00,Domingo,12,Internacional,Empate,1,1,Mandante,Heber Roberto Lopes,25.2,3.7,181.6,6.2,26.5,4.1,180.5,5.1,Estádio Giulite Coutinho,3377
+Grêmio,2016,13,03/07/2016,11:00,Domingo,7,Internacional,Vitória,1,0,Visitante,Dewson Fernando Freitas da Silva,26.2,4.5,182.1,6.3,26.2,3.5,180.5,5.3,Estádio Beira-Rio,36229
+Grêmio,2016,14,10/07/2016,11:00,Domingo,7,Figueirense,Vitória,2,1,Mandante,Jailson Macedo Freitas,26.2,4.5,182.1,6.3,27.2,3.4,178.9,7.4,Arena do Grêmio,34013
+Grêmio,2016,17,31/07/2016,18:30,Domingo,7,América Mineiro,Empate,0,0,Visitante,Raphael Claus,27.9,4.0,180.8,6.5,27.8,4.9,179.7,6.6,Arena Independência,1534
+Grêmio,2016,18,04/08/2016,19:30,Quinta,8,Santa Cruz,Empate,0,0,Mandante,Luiz Flávio de Oliveira,27.2,4.2,180.6,6.6,29.2,4.9,180.5,7.1,Arena do Grêmio,16068
+Grêmio,2016,32,23/10/2016,16:00,Domingo,10,Internacional,Empate,0,0,Mandante,Francisco Carlos Do Nascimento,26.8,3.6,180.7,7.2,26.1,4.4,180.5,5.3,Arena do Grêmio,47622
+Grêmio,2016,33,29/10/2016,18:30,Sábado,10,Figueirense,Empate,0,0,Visitante,Eduardo Tomaz de Aquino Valadao,23.8,3.1,178.5,7.1,28.4,3.4,181.5,8.2,Orlando Scarpelli,8431
+Grêmio,2016,36,20/11/2016,16:00,Domingo,11,América Mineiro,Vitória,3,0,Mandante,Wilton Pereira Sampaio,23.8,3.3,178.3,6.8,26.3,4.4,181.4,5.8,Arena do Grêmio,10765
+Grêmio,2016,37,27/11/2016,18:30,Domingo,11,Santa Cruz,Derrota,1,5,Visitante,Ricardo Marques Ribeiro,23.8,2.2,177.5,6.5,29.4,5.3,180.5,7.5,Estádio do Arruda,2227
+Internacional,2016,7,11/06/2016,16:00,Sábado,06,América Mineiro,Vitória,3,1,Mandante,Luiz Flávio de Oliveira,25.8,4.0,180.9,5.6,28.3,4.4,179.7,5.1,Estádio Beira-Rio,15640
+Internacional,2016,9,19/06/2016,16:00,Domingo,06,Figueirense,Derrota,2,3,Visitante,Luiz Flávio de Oliveira,25.7,4.3,180.2,5.2,28.2,3.8,179.6,9.2,Orlando Scarpelli,8741
+Internacional,2016,14,10/07/2016,16:00,Domingo,07,Santa Cruz,Derrota,0,1,Visitante,Sandro Meira Ricci,25.4,3.7,181.6,5.7,27.6,4.4,179.5,6.6,Estádio do Arruda,8749
+Internacional,2016,26,19/09/2016,20:00,Segunda,09,América Mineiro,Derrota,0,1,Visitante,Rafael Traci,25.6,3.3,180.7,5.1,28.7,4.6,180.6,5.5,Arena Independência,1737
+Internacional,2016,28,01/10/2016,21:00,Sábado,10,Figueirense,Vitória,1,0,Mandante,Luiz Cesar de Oliveira Magalhaes,27.7,5.0,180.1,5.2,26.6,3.7,179.3,7.7,Estádio Beira-Rio,30796
+Internacional,2016,33,29/10/2016,17:30,Sábado,10,Santa Cruz,Empate,1,1,Mandante,Wilton Pereira Sampaio,27.4,5.0,180.4,5.2,29.2,5.4,180.2,7.7,Estádio Beira-Rio,35376
+Palmeiras,2016,9,18/06/2016,16:00,Sábado,6,Santa Cruz,Vitória,3,1,Mandante,Eduardo Tomaz de Aquino Valadao,27.9,5.8,179.4,7.2,28.8,4.1,179.2,7.9,Nubank Parque,34162
+Palmeiras,2016,10,21/06/2016,21:30,Terça,6,América Mineiro,Vitória,2,0,Mandante,Pericles Bassols Pegado Cortez,27.9,5.8,179.4,7.2,28.4,4.3,180.1,5.6,Nubank Parque,27429
+Palmeiras,2016,12,30/06/2016,19:30,Quinta,6,Figueirense,Vitória,4,0,Mandante,Gilberto Rodrigues Castro Junior,28.1,7.5,180.1,6.6,27.8,3.7,180.9,8.9,Nubank Parque,32834
+Palmeiras,2016,15,17/07/2016,16:00,Domingo,7,Internacional,Vitória,1,0,Visitante,Andre Luiz de Freitas Castro,28.7,7.3,179.5,6.4,24.7,3.5,179.5,5.6,Estádio Beira-Rio,27293
+Palmeiras,2016,28,03/10/2016,20:00,Segunda,10,Santa Cruz,Vitória,3,2,Visitante,Dewson Fernando Freitas da Silva,28.5,6.8,179.2,5.9,27.6,3.8,182.4,8.6,Estádio do Arruda,7189
+Palmeiras,2016,29,09/10/2016,17:00,Domingo,10,América Mineiro,Vitória,2,0,Visitante,Wagner do Nascimento Magalhaes,29.0,6.3,178.5,6.8,27.9,4.9,178.5,6.8,Arena Independência,27895
+Palmeiras,2016,31,16/10/2016,16:00,Domingo,10,Figueirense,Vitória,2,1,Visitante,Igor Junio Benevenuto,25.9,4.6,180.5,8.1,28.4,3.4,181.0,5.8,Orlando Scarpelli,16467
+Palmeiras,2016,34,06/11/2016,16:00,Domingo,11,Internacional,Vitória,1,0,Mandante,Pericles Bassols Pegado Cortez,27.7,6.7,179.3,7.7,27.8,4.6,181.0,4.8,Nubank Parque,31967
+Santos,2016,3,25/05/2016,19:30,Quarta,5,Figueirense,Empate,2,2,Visitante,Wagner do Nascimento Magalhaes,26.3,5.0,181.1,7.8,27.7,2.9,180.7,6.0,Orlando Scarpelli,5849
+Santos,2016,4,29/05/2016,18:30,Domingo,5,Internacional,Derrota,0,1,Mandante,Andre Luiz de Freitas Castro,26.3,5.1,180.4,6.7,25.1,3.6,179.2,5.4,Estádio Urbano Caldeira,4468
+Santos,2016,7,12/06/2016,19:00,Domingo,6,Santa Cruz,Vitória,2,0,Visitante,Elmo Alves Resende Cunha,25.4,5.2,181.5,7.5,28.8,3.9,178.9,6.9,Estádio do Arruda,16464
+Santos,2016,19,07/08/2016,11:00,Domingo,8,América Mineiro,Derrota,0,1,Visitante,Pablo Dos Santos Alves,26.7,4.8,183.6,6.4,27.8,4.9,179.7,6.6,Arena Independência,2893
+Santos,2016,22,28/08/2016,11:00,Domingo,8,Figueirense,Derrota,0,1,Mandante,Bruno Arleu de Araujo,27.8,5.6,181.5,6.5,28.9,3.6,181.3,8.0,Estádio Urbano Caldeira,11456
+Santos,2016,23,08/09/2016,21:00,Quinta,9,Internacional,Derrota,1,2,Visitante,Rodrigo Batista Raposo,27.6,5.4,182.2,7.5,26.2,3.4,180.5,4.6,Estádio Beira-Rio,29996
+Santos,2016,26,18/09/2016,18:30,Domingo,9,Santa Cruz,Vitória,3,2,Mandante,Francisco Carlos Do Nascimento,27.3,5.7,182.3,7.4,28.2,4.2,179.7,7.9,Estádio Urbano Caldeira,28700
+Santos,2016,38,11/12/2016,16:00,Domingo,12,América Mineiro,Vitória,1,0,Mandante,Leandro Pedro Vuaden,28.0,5.7,181.2,6.2,23.3,3.0,181.0,7.2,Estádio Urbano Caldeira,7531
+São Paulo,2016,2,22/05/2016,16:00,Domingo,5,Internacional,Derrota,1,2,Mandante,Pericles Bassols Pegado Cortez,27.0,4.0,182.9,5.6,25.7,3.3,179.6,5.4,MorumBIS,19509
+São Paulo,2016,5,01/06/2016,21:45,Quarta,6,Figueirense,Derrota,0,1,Visitante,Jean Pierre Goncalves Lima,26.2,4.6,181.8,6.5,27.9,3.9,180.5,9.0,Orlando Scarpelli,5271
+São Paulo,2016,14,10/07/2016,16:00,Domingo,7,América Mineiro,Vitória,3,0,Mandante,Dewson Fernando Freitas da Silva,25.4,3.8,179.1,7.4,29.3,4.4,178.9,4.5,MorumBIS,8198
+São Paulo,2016,19,07/08/2016,16:15,Domingo,8,Santa Cruz,Vitória,2,1,Visitante,Bruno Arleu de Araujo,25.7,2.9,179.5,7.2,29.2,4.9,180.5,7.1,Estádio do Arruda,12705
+São Paulo,2016,21,21/08/2016,16:00,Domingo,8,Internacional,Empate,1,1,Visitante,Gilberto Rodrigues Castro Junior,26.5,3.5,179.8,7.2,26.9,4.5,179.8,5.5,Estádio Beira-Rio,23079
+São Paulo,2016,24,11/09/2016,11:00,Domingo,9,Figueirense,Vitória,3,1,Mandante,Dewson Fernando Freitas da Silva,25.7,3.1,180.0,7.0,27.2,3.3,179.3,5.8,MorumBIS,27365
+São Paulo,2016,33,31/10/2016,19:00,Segunda,10,América Mineiro,Derrota,0,1,Visitante,Joao Batista de Arruda,25.5,2.9,179.7,6.3,26.9,5.2,179.8,8.0,Arena Independência,5014
+São Paulo,2016,38,11/12/2016,16:00,Domingo,12,Santa Cruz,Vitória,5,0,Mandante,Paulo Schleich Vollkopf,26.1,3.1,180.5,7.4,26.6,5.4,180.0,9.7,MorumBIS,16553
+Atlético Mineiro,2017,3,28/05/2017,11:00,Domingo,5,Ponte Preta,Empate,2,2,Mandante,Wagner do Nascimento Magalhaes,30.0,3.6,180.4,7.7,28.7,4.5,181.1,6.7,Arena Independência,19553
+Atlético Mineiro,2017,5,07/06/2017,19:30,Quarta,6,Avaí,Vitória,1,0,Mandante,Bruno Arleu de Araujo,28.4,4.8,180.9,6.9,28.3,5.0,178.4,7.1,Arena Independência,12648
+Atlético Mineiro,2017,14,16/07/2017,16:00,Domingo,7,Atlético Goianiense,Vitória,2,1,Visitante,Pablo Dos Santos Alves,27.0,4.8,180.7,6.6,27.1,1.9,181.9,5.7,Estádio Olímpico Pedro Ludovico,5235
+Atlético Mineiro,2017,17,30/07/2017,16:00,Domingo,7,Coritiba,Vitória,2,0,Visitante,Wagner do Nascimento Magalhaes,29.2,4.9,180.8,7.4,27.1,2.4,179.9,5.7,Estádio Major Antônio Couto Pereira,11564
+Atlético Mineiro,2017,22,27/08/2017,16:00,Domingo,8,Ponte Preta,Vitória,2,1,Visitante,Rodolpho Toski Marques,29.7,5.1,180.5,8.4,28.1,6.0,178.8,8.5,Moisés Lucarelli,5779
+Atlético Mineiro,2017,24,17/09/2017,11:00,Domingo,9,Avaí,Empate,1,1,Visitante,Andre Luiz de Freitas Castro,29.9,4.8,179.5,7.8,27.7,3.0,180.2,6.8,Estádio da Ressacada,9201
+Atlético Mineiro,2017,33,09/11/2017,19:00,Quinta,11,Atlético Goianiense,Vitória,3,2,Mandante,Rodolpho Toski Marques,30.6,4.8,179.7,7.6,26.5,2.6,182.1,5.2,Arena Independência,8204
+Atlético Mineiro,2017,36,19/11/2017,18:00,Domingo,11,Coritiba,Vitória,3,0,Mandante,Sandro Meira Ricci,29.8,5.4,179.1,8.1,27.5,4.0,178.9,7.0,Arena Independência,8184
+Bahia,2017,4,05/06/2017,20:00,Segunda,6,Atlético Goianiense,Vitória,3,0,Mandante,Rodrigo Batista Raposo,26.0,3.1,180.3,6.8,26.6,2.2,182.0,6.3,Arena Fonte Nova,13364
+Bahia,2017,7,15/06/2017,16:00,Quinta,6,Coritiba,Empate,0,0,Visitante,Reway Wagner,25.9,3.1,179.7,7.2,27.4,4.0,178.5,6.1,Estádio Major Antônio Couto Pereira,19534
+Bahia,2017,13,12/07/2017,19:30,Quarta,7,Ponte Preta,Vitória,3,0,Visitante,Rafael Traci,25.6,3.3,180.4,7.2,30.1,5.4,178.9,7.9,Moisés Lucarelli,4181
+Bahia,2017,14,16/07/2017,19:00,Domingo,7,Avaí,Empate,1,1,Mandante,Eduardo Tomaz de Aquino Valadao,24.7,3.6,178.6,6.7,26.8,3.4,179.3,7.7,Arena Fonte Nova,12389
+Bahia,2017,23,11/09/2017,20:00,Segunda,9,Atlético Goianiense,Empate,1,1,Visitante,Thiago Duarte Peixoto,25.4,3.6,180.2,7.3,25.7,2.5,180.6,5.3,Serra Dourada,3818
+Bahia,2017,26,30/09/2017,16:00,Sábado,9,Coritiba,Empate,1,1,Mandante,Pericles Bassols Pegado Cortez,24.5,3.2,181.2,6.2,27.8,2.2,179.1,4.4,Arena Fonte Nova,20860
+Bahia,2017,32,05/11/2017,17:00,Domingo,11,Ponte Preta,Vitória,2,0,Mandante,Wagner do Nascimento Magalhaes,26.1,3.4,178.5,7.2,28.2,5.2,176.9,7.6,Arena Fonte Nova,20539
+Bahia,2017,33,08/11/2017,18:30,Quarta,11,Avaí,Vitória,2,1,Visitante,Pericles Bassols Pegado Cortez,25.7,3.5,177.9,6.6,28.0,5.5,181.0,6.7,Estádio da Ressacada,4412
+Botafogo,2017,2,21/05/2017,18:00,Domingo,5,Ponte Preta,Vitória,2,0,Mandante,Rafael Traci,28.1,3.2,181.0,7.4,27.9,4.2,179.9,7.2,Estádio Nilton Santos,9160
+Botafogo,2017,6,11/06/2017,11:00,Domingo,6,Coritiba,Empate,2,2,Mandante,Flavio Rodrigues De Souza,27.7,4.0,181.5,7.2,27.3,4.0,179.5,6.6,Estádio Nilton Santos,14866
+Botafogo,2017,10,26/06/2017,20:00,Segunda,6,Avaí,Derrota,0,2,Mandante,Caio Max Augusto Vieira,28.0,3.9,179.7,6.5,27.3,4.0,178.8,7.6,Estádio Nilton Santos,22819
+Botafogo,2017,16,23/07/2017,19:00,Domingo,7,Atlético Goianiense,Empate,1,1,Visitante,Caio Max Augusto Vieira,28.2,5.5,181.1,4.1,26.6,2.2,180.1,5.8,Estádio Olímpico Pedro Ludovico,5462
+Botafogo,2017,21,20/08/2017,16:00,Domingo,8,Ponte Preta,Derrota,1,2,Visitante,Dewson Fernando Freitas da Silva,27.6,4.8,180.2,6.9,28.3,5.1,179.9,7.5,Moisés Lucarelli,3208
+Botafogo,2017,25,24/09/2017,16:00,Domingo,9,Coritiba,Vitória,3,2,Visitante,Braulio Da Silva Machado,27.4,4.1,182.1,6.8,28.0,2.3,178.9,4.9,Estádio Major Antônio Couto Pereira,8315
+Botafogo,2017,29,18/10/2017,20:45,Quarta,10,Avaí,Empate,1,1,Visitante,Rafael Traci,25.7,3.6,180.5,6.1,26.2,4.1,180.3,6.6,Estádio da Ressacada,5156
+Botafogo,2017,35,16/11/2017,19:00,Quinta,11,Atlético Goianiense,Derrota,1,2,Mandante,Claudio Francisco Lima E. Silva,26.9,3.5,181.2,7.0,26.4,2.6,181.7,5.1,Estádio Nilton Santos,10076
+Corinthians,2017,3,28/05/2017,16:00,Domingo,5,Atlético Goianiense,Vitória,1,0,Visitante,Paulo Schleich Vollkopf,26.2,4.3,179.3,8.8,26.4,2.5,182.7,5.3,Serra Dourada,15220
+Corinthians,2017,8,18/06/2017,11:00,Domingo,6,Coritiba,Empate,0,0,Visitante,Marcelo de Lima Henrique,26.0,3.3,179.8,8.3,27.3,4.4,180.9,5.8,Estádio Major Antônio Couto Pereira,19534
+Corinthians,2017,12,08/07/2017,19:00,Sábado,7,Ponte Preta,Vitória,2,0,Mandante,Ricardo Marques Ribeiro,26.0,4.3,179.7,8.3,31.1,4.7,178.2,6.8,Neo Química Arena,32877
+Corinthians,2017,15,19/07/2017,21:00,Quarta,7,Avaí,Empate,0,0,Visitante,Wilton Pereira Sampaio,26.7,4.0,179.3,8.8,28.2,3.8,179.0,7.7,Estádio da Ressacada,10671
+Corinthians,2017,22,26/08/2017,19:00,Sábado,8,Atlético Goianiense,Derrota,0,1,Mandante,Pericles Bassols Pegado Cortez,26.5,4.2,178.6,9.4,25.9,2.6,180.1,5.6,Neo Química Arena,40581
+Corinthians,2017,27,11/10/2017,21:00,Quarta,10,Coritiba,Vitória,3,1,Mandante,Claudio Francisco Lima E. Silva,26.3,4.5,180.3,8.0,28.6,2.9,179.3,4.5,Neo Química Arena,36439
+Corinthians,2017,31,29/10/2017,16:00,Domingo,10,Ponte Preta,Derrota,0,1,Visitante,Marcelo Aparecido Ribeiro de Souza,27.0,4.0,179.3,8.8,30.8,5.5,179.7,7.2,Moisés Lucarelli,13121
+Corinthians,2017,34,11/11/2017,18:00,Sábado,11,Avaí,Vitória,1,0,Mandante,Dewson Fernando Freitas da Silva,26.0,3.1,178.4,7.5,28.6,5.5,180.5,6.9,Neo Química Arena,42732
+Cruzeiro,2017,6,11/06/2017,18:30,Domingo,6,Atlético Goianiense,Vitória,2,0,Mandante,Joao Batista de Arruda,28.3,4.7,181.1,7.2,25.6,2.8,182.0,5.8,Governador Magalhães Pinto,9912
+Cruzeiro,2017,9,22/06/2017,19:30,Quinta,6,Ponte Preta,Derrota,0,1,Visitante,Grazianni Maciel Rocha,27.9,4.8,180.0,7.1,30.2,5.4,178.5,7.1,Moisés Lucarelli,4707
+Cruzeiro,2017,10,25/06/2017,16:00,Domingo,6,Coritiba,Vitória,2,0,Mandante,Marcelo Aparecido Ribeiro de Souza,28.3,4.1,179.2,6.6,28.2,3.5,180.5,5.4,Governador Magalhães Pinto,11778
+Cruzeiro,2017,16,23/07/2017,16:00,Domingo,7,Avaí,Derrota,0,1,Visitante,Flavio Rodrigues De Souza,27.7,4.9,179.1,6.6,28.4,3.6,179.1,7.7,Estádio da Ressacada,6590
+Cruzeiro,2017,25,24/09/2017,16:00,Domingo,9,Atlético Goianiense,Vitória,2,1,Visitante,Heber Roberto Lopes,26.7,5.3,179.4,8.4,24.9,3.0,179.6,5.6,Estádio Olímpico Pedro Ludovico,10865
+Cruzeiro,2017,28,07/10/2017,16:00,Sábado,10,Ponte Preta,Vitória,2,1,Mandante,Paulo Roberto Alves Junior,29.1,3.3,179.7,6.3,29.2,5.4,180.3,7.6,Governador Magalhães Pinto,15397
+Cruzeiro,2017,29,18/10/2017,18:30,Quarta,10,Coritiba,Derrota,0,1,Visitante,Marcelo de Lima Henrique,30.1,3.9,179.0,6.1,28.0,2.1,178.8,4.6,Estádio Major Antônio Couto Pereira,6470
+Cruzeiro,2017,35,15/11/2017,18:30,Quarta,11,Avaí,Empate,2,2,Mandante,Leandro Pedro Vuaden,29.2,4.8,179.5,7.6,29.3,4.5,180.5,6.9,Governador Magalhães Pinto,9259
+Flamengo,2017,2,20/05/2017,19:00,Sábado,5,Atlético Goianiense,Vitória,3,0,Visitante,Igor Junio Benevenuto,28.9,2.6,180.7,6.6,26.9,1.7,183.0,5.1,Serra Dourada,10144
+Flamengo,2017,6,11/06/2017,16:00,Domingo,6,Avaí,Empate,1,1,Visitante,Paulo Schleich Vollkopf,28.3,5.8,179.3,6.8,28.6,4.4,178.8,7.0,Estádio da Ressacada,13448
+Flamengo,2017,7,14/06/2017,21:00,Quarta,6,Ponte Preta,Vitória,2,0,Mandante,Ricardo Marques Ribeiro,26.9,4.8,179.4,7.1,28.4,3.9,179.9,7.0,Estádio do Maracanã,13981
+Flamengo,2017,16,22/07/2017,19:00,Sábado,7,Coritiba,Vitória,2,1,Mandante,Braulio Da Silva Machado,28.2,4.5,180.7,5.3,26.8,2.3,180.8,5.2,Estádio Luso Brasileiro,13014
+Flamengo,2017,21,19/08/2017,19:00,Sábado,8,Atlético Goianiense,Vitória,2,0,Mandante,Rodolpho Toski Marques,27.8,5.1,180.9,7.3,27.1,2.2,181.0,6.6,Estádio Luso Brasileiro,7082
+Flamengo,2017,25,23/09/2017,19:00,Sábado,9,Avaí,Empate,1,1,Mandante,Claudio Francisco Lima E. Silva,27.4,4.1,179.1,6.7,26.8,2.3,182.6,3.8,Estádio Luso Brasileiro,9584
+Flamengo,2017,26,02/10/2017,20:00,Segunda,10,Ponte Preta,Derrota,0,1,Visitante,Igor Junio Benevenuto,28.9,4.1,179.5,7.5,29.3,5.5,180.0,7.9,Moisés Lucarelli,11133
+Flamengo,2017,35,16/11/2017,20:00,Quinta,11,Coritiba,Derrota,0,1,Visitante,Raphael Claus,29.9,4.8,177.9,6.5,27.3,3.4,178.1,5.8,Estádio Major Antônio Couto Pereira,14821
+Fluminense,2017,9,21/06/2017,21:45,Quarta,6,Avaí,Vitória,3,0,Visitante,Marielson Alves Silva,24.6,4.0,181.7,6.6,29.5,5.4,178.9,7.2,Estádio da Ressacada,5239
+Fluminense,2017,14,16/07/2017,19:00,Domingo,7,Coritiba,Vitória,2,1,Visitante,Leandro Bizzio Marinho,23.6,3.5,184.1,5.3,27.3,2.8,180.5,5.0,Estádio Major Antônio Couto Pereira,10843
+Fluminense,2017,19,05/08/2017,19:00,Sábado,8,Atlético Goianiense,Vitória,3,1,Mandante,Paulo Roberto Alves Junior,24.5,3.9,180.0,6.3,26.4,2.7,180.5,6.5,Estádio do Maracanã,27278
+Fluminense,2017,17,09/08/2017,20:00,Quarta,8,Ponte Preta,Empate,0,0,Visitante,Heber Roberto Lopes,25.6,3.8,181.5,5.9,27.0,5.4,179.3,7.7,Moisés Lucarelli,5977
+Fluminense,2017,28,15/10/2017,16:00,Domingo,10,Avaí,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,25.8,4.3,180.8,8.9,27.4,4.9,177.9,7.8,Estádio Giulite Coutinho,18006
+Fluminense,2017,33,09/11/2017,20:00,Quinta,11,Coritiba,Empate,2,2,Mandante,Ricardo Marques Ribeiro,26.0,4.4,177.4,7.3,27.4,3.1,178.7,4.7,Estádio Giulite Coutinho,10908
+Fluminense,2017,36,20/11/2017,16:00,Segunda,11,Ponte Preta,Vitória,2,0,Mandante,Anderson Daronco,26.2,4.3,178.5,7.4,28.2,5.0,181.7,7.6,Estádio do Maracanã,19686
+Fluminense,2017,38,03/12/2017,16:00,Domingo,12,Atlético Goianiense,Empate,1,1,Visitante,Anderson Daronco,25.8,4.6,178.8,6.8,25.4,2.4,181.8,5.3,Estádio Olímpico Pedro Ludovico,2996
+Grêmio,2017,9,22/06/2017,21:00,Quinta,6,Coritiba,Vitória,2,0,Mandante,Pericles Bassols Pegado Cortez,27.9,4.0,180.8,6.9,27.3,4.4,180.9,5.8,Arena do Grêmio,19035
+Grêmio,2017,12,09/07/2017,16:00,Domingo,7,Avaí,Derrota,0,2,Mandante,Reway Wagner,27.5,4.0,179.2,7.4,27.3,4.0,178.6,7.4,Arena do Grêmio,27222
+Grêmio,2017,14,16/07/2017,16:00,Domingo,7,Ponte Preta,Vitória,3,1,Mandante,Claudio Francisco Lima E. Silva,27.3,4.0,180.5,7.5,30.1,5.5,177.3,7.2,Arena do Grêmio,19292
+Grêmio,2017,18,02/08/2017,21:45,Quarta,8,Atlético Goianiense,Vitória,1,0,Visitante,Igor Junio Benevenuto,25.6,3.8,177.3,6.0,26.7,2.3,180.5,6.5,Serra Dourada,5253
+Grêmio,2017,28,15/10/2017,18:00,Domingo,10,Coritiba,Vitória,1,0,Visitante,Andre Luiz de Freitas Castro,28.6,4.0,180.2,7.6,27.2,3.4,178.6,5.4,Estádio Major Antônio Couto Pereira,10814
+Grêmio,2017,31,29/10/2017,18:00,Domingo,10,Avaí,Empate,2,2,Visitante,Dewson Fernando Freitas da Silva,26.0,4.6,181.0,5.7,27.4,4.9,180.7,6.6,Estádio da Ressacada,9880
+Grêmio,2017,33,08/11/2017,18:30,Quarta,11,Ponte Preta,Vitória,1,0,Visitante,Sandro Meira Ricci,28.1,5.1,181.4,6.9,28.9,6.2,180.7,6.2,Moisés Lucarelli,6226
+Grêmio,2017,37,26/11/2017,16:00,Domingo,11,Atlético Goianiense,Empate,1,1,Mandante,Bruno Arleu de Araujo,24.4,5.3,179.7,6.1,26.4,2.6,181.7,5.1,Arena do Grêmio,6783
+Palmeiras,2017,5,07/06/2017,19:30,Quarta,6,Coritiba,Derrota,0,1,Visitante,Braulio Da Silva Machado,29.1,4.9,180.5,6.3,27.3,4.0,179.3,6.6,Estádio Major Antônio Couto Pereira,16648
+Palmeiras,2017,9,21/06/2017,21:00,Quarta,6,Atlético Goianiense,Vitória,1,0,Mandante,Antonio Dib Moraes de Sousa,28.6,5.5,180.4,7.7,25.1,3.1,181.5,5.8,Nubank Parque,29014
+Palmeiras,2017,10,25/06/2017,16:00,Domingo,6,Ponte Preta,Vitória,2,1,Visitante,Reway Wagner,25.6,5.7,180.9,7.7,30.2,5.4,178.5,7.1,Moisés Lucarelli,6051
+Palmeiras,2017,17,29/07/2017,19:00,Sábado,7,Avaí,Vitória,2,0,Mandante,Anderson Daronco,27.5,4.4,179.8,7.8,28.2,3.8,179.0,7.7,Nubank Parque,33633
+Palmeiras,2017,24,18/09/2017,20:00,Segunda,9,Coritiba,Vitória,1,0,Mandante,Dewson Fernando Freitas da Silva,29.1,4.9,179.5,7.3,26.9,3.4,179.3,5.4,Mercado Livre Arena Pacaembu,26440
+Palmeiras,2017,28,15/10/2017,16:00,Domingo,10,Atlético Goianiense,Vitória,3,1,Visitante,Rodolpho Toski Marques,29.3,4.8,179.1,7.0,25.6,3.0,179.3,5.6,Serra Dourada,12619
+Palmeiras,2017,29,19/10/2017,19:00,Quinta,10,Ponte Preta,Vitória,2,0,Mandante,Leandro Bizzio Marinho,29.3,4.8,179.1,7.0,28.0,5.2,178.5,7.5,Nubank Parque,19976
+Palmeiras,2017,36,20/11/2017,19:00,Segunda,11,Avaí,Derrota,1,2,Visitante,Ricardo Marques Ribeiro,28.6,4.6,180.5,8.2,28.8,4.5,180.1,6.6,Estádio da Ressacada,11082
+Santos,2017,2,20/05/2017,16:00,Sábado,5,Coritiba,Vitória,1,0,Mandante,Wagner do Nascimento Magalhaes,27.8,5.3,179.5,9.1,27.1,4.0,178.4,6.6,Estádio Urbano Caldeira,5921
+Santos,2017,8,17/06/2017,21:00,Sábado,6,Ponte Preta,Empate,0,0,Mandante,Igor Junio Benevenuto,28.1,4.9,181.8,6.2,29.2,6.0,178.6,6.9,Mercado Livre Arena Pacaembu,19984
+Santos,2017,11,01/07/2017,19:00,Sábado,7,Atlético Goianiense,Empate,1,1,Visitante,Claudio Francisco Lima E. Silva,25.4,4.1,182.0,8.7,25.8,3.1,181.3,5.8,Estádio Olímpico Pedro Ludovico,5898
+Santos,2017,19,06/08/2017,19:00,Domingo,8,Avaí,Empate,0,0,Visitante,Pablo Dos Santos Alves,28.4,5.4,182.1,7.4,28.2,3.8,179.0,7.7,Estádio da Ressacada,5803
+Santos,2017,21,20/08/2017,19:00,Domingo,8,Coritiba,Empate,0,0,Visitante,Sandro Meira Ricci,27.2,3.4,182.0,6.4,28.3,3.9,181.0,5.3,Estádio Major Antônio Couto Pereira,8426
+Santos,2017,27,12/10/2017,17:00,Quinta,10,Ponte Preta,Empate,1,1,Visitante,Raphael Claus,27.2,4.9,183.1,6.2,28.6,5.2,179.3,8.0,Moisés Lucarelli,13892
+Santos,2017,30,22/10/2017,16:00,Domingo,10,Atlético Goianiense,Vitória,1,0,Mandante,Pericles Bassols Pegado Cortez,26.9,5.1,182.0,7.0,26.1,2.6,179.8,5.5,Estádio Urbano Caldeira,4245
+Santos,2017,38,03/12/2017,16:00,Domingo,12,Avaí,Empate,1,1,Mandante,Wagner do Nascimento Magalhaes,28.1,5.0,182.5,6.2,29.4,4.6,180.4,7.1,Estádio Urbano Caldeira,7639
+São Paulo,2017,2,22/05/2017,20:00,Segunda,5,Avaí,Vitória,2,0,Mandante,Caio Max Augusto Vieira,27.3,4.4,180.5,7.4,27.0,4.2,180.2,6.5,MorumBIS,12427
+São Paulo,2017,4,04/06/2017,16:00,Domingo,6,Ponte Preta,Derrota,0,1,Visitante,Rodolpho Toski Marques,26.1,4.2,182.8,5.9,28.9,5.2,179.3,7.0,Moisés Lucarelli,6246
+São Paulo,2017,13,13/07/2017,19:30,Quinta,7,Atlético Goianiense,Empate,2,2,Mandante,Marielson Alves Silva,26.5,2.4,179.2,8.7,26.5,2.3,181.5,6.4,MorumBIS,31333
+São Paulo,2017,18,03/08/2017,19:30,Quinta,8,Coritiba,Derrota,1,2,Mandante,Pericles Bassols Pegado Cortez,27.9,3.1,183.0,6.5,26.7,4.8,180.2,4.9,MorumBIS,53635
+São Paulo,2017,21,20/08/2017,16:00,Domingo,8,Avaí,Empate,1,1,Visitante,Leandro Pedro Vuaden,28.2,3.5,179.5,6.6,27.4,3.2,180.5,8.1,Estádio da Ressacada,9006
+São Paulo,2017,23,09/09/2017,19:00,Sábado,9,Ponte Preta,Empate,2,2,Mandante,Marcelo de Lima Henrique,27.0,4.8,182.3,4.8,28.5,5.4,180.2,7.5,MorumBIS,42724
+São Paulo,2017,32,04/11/2017,18:00,Sábado,11,Atlético Goianiense,Vitória,1,0,Visitante,Braulio Da Silva Machado,27.8,4.0,181.0,6.2,26.2,2.6,180.5,5.1,Serra Dourada,17697
+São Paulo,2017,37,26/11/2017,16:00,Domingo,11,Coritiba,Vitória,2,1,Visitante,Anderson Daronco,25.0,5.0,180.3,6.2,26.8,3.9,178.3,5.6,Estádio Major Antônio Couto Pereira,32739
+Vasco da Gama,2017,8,17/06/2017,19:00,Sábado,6,Avaí,Vitória,1,0,Mandante,Rafael Traci,27.2,6.1,180.7,6.4,28.6,4.7,178.2,7.5,Estádio São Januário,10993
+Vasco da Gama,2017,10,25/06/2017,11:00,Domingo,6,Atlético Goianiense,Vitória,1,0,Mandante,Dyorgines Jose Padovani de Andrade,27.2,6.1,180.7,6.4,25.2,3.1,182.4,5.4,Estádio São Januário,20658
+Vasco da Gama,2017,11,02/07/2017,19:00,Domingo,7,Coritiba,Empate,2,2,Visitante,Emerson De Almeida Ferreira,25.9,5.5,180.7,6.4,27.9,3.0,179.5,5.8,Estádio Major Antônio Couto Pereira,8020
+Vasco da Gama,2017,19,06/08/2017,19:00,Domingo,8,Ponte Preta,Empate,0,0,Visitante,Sandro Meira Ricci,23.5,4.7,180.2,7.0,29.7,5.4,178.7,7.1,Moisés Lucarelli,6310
+Vasco da Gama,2017,27,11/10/2017,21:45,Quarta,10,Avaí,Vitória,2,1,Visitante,Reway Wagner,28.9,4.7,179.9,5.0,26.7,4.2,180.2,6.8,Estádio da Ressacada,8952
+Vasco da Gama,2017,29,18/10/2017,18:30,Quarta,10,Atlético Goianiense,Vitória,1,0,Visitante,Claudio Francisco Lima E. Silva,27.8,4.6,180.4,6.7,25.3,2.5,179.7,5.3,Serra Dourada,9046
+Vasco da Gama,2017,30,21/10/2017,16:00,Sábado,10,Coritiba,Empate,1,1,Mandante,Raphael Claus,27.9,4.5,179.8,6.2,27.7,2.2,179.3,4.1,Estádio do Maracanã,30351
+Vasco da Gama,2017,38,03/12/2017,16:00,Domingo,12,Ponte Preta,Vitória,2,1,Mandante,Rafael Traci,27.4,5.5,179.8,5.2,28.3,5.0,181.6,7.6,Estádio São Januário,22076
+Atlético Mineiro,2018,2,22/04/2018,16:00,Domingo,4,Vitória,Vitória,2,1,Mandante,Grazianni Maciel Rocha,28.1,5.4,179.1,7.8,25.9,3.7,181.4,8.8,Arena Independência,10423
+Atlético Mineiro,2018,8,30/05/2018,19:30,Quarta,5,Sport Recife,Derrota,2,3,Visitante,Wagner do Nascimento Magalhaes,27.3,6.0,180.4,7.0,29.3,5.0,180.5,5.4,Ilha do Retiro,15605
+Atlético Mineiro,2018,10,07/06/2018,21:00,Quinta,6,América Mineiro,Vitória,3,1,Visitante,Braulio Da Silva Machado,29.0,5.9,180.5,7.9,27.0,4.5,182.0,6.2,Arena Independência,7776
+Atlético Mineiro,2018,15,25/07/2018,21:00,Quarta,7,Paraná Clube,Vitória,2,0,Mandante,Leandro Pedro Vuaden,29.7,6.1,180.4,8.7,26.0,2.6,180.5,4.7,Arena Independência,18948
+Atlético Mineiro,2018,21,26/08/2018,16:00,Domingo,8,Vitória,Derrota,0,1,Visitante,Leandro Bizzio Marinho,27.8,6.0,180.0,8.0,23.4,2.5,178.4,8.1,Estádio Manoel Barradas,5954
+Atlético Mineiro,2018,27,30/09/2018,16:00,Domingo,9,Sport Recife,Vitória,5,2,Mandante,Leandro Bizzio Marinho,29.8,6.3,180.4,9.2,30.9,5.5,182.0,5.0,Arena Independência,21654
+Atlético Mineiro,2018,29,14/10/2018,19:00,Domingo,10,América Mineiro,Empate,0,0,Mandante,Flavio Rodrigues De Souza,31.0,5.6,180.3,8.9,28.6,4.2,178.8,9.0,Arena Independência,20526
+Atlético Mineiro,2018,34,14/11/2018,20:00,Quarta,11,Paraná Clube,Vitória,1,0,Visitante,Wagner do Nascimento Magalhaes,28.1,6.3,180.7,8.6,24.9,3.9,180.7,3.7,Durival Britto e Silva,1140
+Bahia,2018,4,06/05/2018,19:00,Domingo,5,Sport Recife,Derrota,0,2,Visitante,Grazianni Maciel Rocha,26.8,3.6,179.8,7.6,26.6,2.8,181.4,6.2,Ilha do Retiro,15165
+Bahia,2018,10,07/06/2018,20:00,Quinta,6,Paraná Clube,Derrota,0,1,Visitante,Marcelo de Lima Henrique,27.1,3.4,180.5,7.9,25.8,3.8,179.8,6.4,Durival Britto e Silva,4153
+Bahia,2018,14,22/07/2018,16:00,Domingo,7,Vitória,Vitória,4,1,Mandante,Wagner do Nascimento Magalhaes,28.4,3.7,182.6,6.2,25.8,4.4,177.7,8.0,Arena Fonte Nova,24312
+Bahia,2018,18,11/08/2018,19:00,Sábado,8,América Mineiro,Vitória,1,0,Mandante,Pericles Bassols Pegado Cortez,28.3,3.9,182.3,6.4,31.0,3.0,180.4,7.9,Arena Fonte Nova,19100
+Bahia,2018,23,05/09/2018,19:30,Quarta,9,Sport Recife,Vitória,2,0,Mandante,Marcelo Aparecido Ribeiro de Souza,26.7,4.5,179.8,8.0,29.3,5.6,179.4,5.4,Arena Fonte Nova,13816
+Bahia,2018,29,13/10/2018,21:00,Sábado,10,Paraná Clube,Vitória,2,0,Mandante,Jean Pierre Goncalves Lima,26.8,4.4,181.6,7.6,26.8,2.6,181.1,3.3,Estádio de Pituaçu,29215
+Bahia,2018,33,11/11/2018,16:00,Domingo,11,Vitória,Empate,2,2,Visitante,Luiz Flávio de Oliveira,26.7,4.9,181.5,8.5,24.4,3.7,179.1,7.3,Estádio Manoel Barradas,21714
+Bahia,2018,37,25/11/2018,18:00,Domingo,11,América Mineiro,Derrota,0,1,Visitante,Marcelo Aparecido Ribeiro de Souza,26.9,4.4,182.0,7.6,28.9,4.4,179.5,9.4,Arena Independência,7409
+Botafogo,2018,2,23/04/2018,20:00,Segunda,4,Sport Recife,Empate,1,1,Visitante,Rafael Traci,26.4,4.2,181.0,7.6,26.8,3.1,180.2,7.0,Ilha do Retiro,7083
+Botafogo,2018,6,20/05/2018,16:00,Domingo,5,América Mineiro,Derrota,0,1,Visitante,Rodolpho Toski Marques,26.1,4.9,182.0,5.8,27.7,4.3,181.9,5.9,Arena Independência,6052
+Botafogo,2018,7,27/05/2018,16:00,Domingo,5,Vitória,Empate,1,1,Mandante,Flavio Rodrigues De Souza,25.0,4.7,181.9,4.6,25.1,3.2,178.5,8.0,Estádio Nilton Santos,5857
+Botafogo,2018,18,12/08/2018,11:00,Domingo,8,Paraná Clube,Empate,1,1,Visitante,Raphael Claus,25.2,3.7,182.4,7.1,27.3,2.8,180.5,3.7,Durival Britto e Silva,4831
+Botafogo,2018,21,25/08/2018,21:00,Sábado,8,Sport Recife,Vitória,2,0,Mandante,Savio Pereira Sampaio,24.7,4.0,181.2,7.3,30.7,4.6,179.9,5.3,Estádio Nilton Santos,6031
+Botafogo,2018,25,16/09/2018,11:00,Domingo,9,América Mineiro,Vitória,1,0,Mandante,Rodrigo Batista Raposo,25.8,3.6,181.6,7.3,30.3,4.5,178.7,8.8,Estadio Nilton Santos,25382
+Botafogo,2018,26,23/09/2018,18:00,Domingo,9,Vitória,Vitória,4,3,Visitante,Vinicius Goncalves Dias Araujo,25.3,3.7,182.1,6.5,23.4,2.4,179.5,7.5,Estádio Manoel Barradas,9481
+Botafogo,2018,37,26/11/2018,19:00,Segunda,11,Paraná Clube,Vitória,2,1,Mandante,Igor Junio Benevenuto,25.4,4.0,179.5,6.4,23.5,3.6,180.3,5.1,Estadio Nilton Santos,28972
+Corinthians,2018,2,22/04/2018,11:00,Domingo,4,Paraná Clube,Vitória,4,0,Visitante,Pericles Bassols Pegado Cortez,28.0,3.7,178.2,8.0,24.2,3.2,179.0,5.0,Durival Britto e Silva,15714
+Corinthians,2018,6,20/05/2018,16:00,Domingo,5,Sport Recife,Empate,1,1,Visitante,Wilton Pereira Sampaio,26.1,5.1,180.1,6.3,28.6,5.5,180.6,5.6,Arena de Pernambuco,28942
+Corinthians,2018,8,31/05/2018,18:00,Quinta,5,América Mineiro,Vitória,1,0,Mandante,Grazianni Maciel Rocha,27.0,4.8,177.6,6.4,26.5,3.7,182.3,6.1,Neo Química Arena,34921
+Corinthians,2018,11,09/06/2018,21:00,Sábado,6,Vitória,Empate,0,0,Mandante,Pericles Bassols Pegado Cortez,25.6,4.8,179.0,5.9,26.3,4.5,179.6,8.3,Neo Química Arena,27744
+Corinthians,2018,21,25/08/2018,19:00,Sábado,8,Paraná Clube,Vitória,1,0,Mandante,Andre Luiz de Freitas Castro,28.4,5.1,178.8,9.3,25.6,2.8,180.7,3.4,Neo Química Arena,28136
+Corinthians,2018,25,16/09/2018,19:00,Domingo,9,Sport Recife,Vitória,2,1,Mandante,Rodrigo D'alonso Ferreira,28.9,5.1,179.8,8.2,29.1,5.9,180.5,5.4,Neo Química Arena,20901
+Corinthians,2018,27,29/09/2018,19:00,Sábado,9,América Mineiro,Empate,0,0,Visitante,Marcelo de Lima Henrique,25.1,5.1,179.0,8.1,30.3,4.2,181.7,6.3,Arena Independência,8012
+Corinthians,2018,30,21/10/2018,16:00,Domingo,10,Vitória,Empate,2,2,Visitante,Rafael Traci,29.1,6.2,178.5,8.4,25.7,3.9,178.7,8.5,Estádio Manoel Barradas,17982
+Cruzeiro,2018,5,13/05/2018,11:00,Domingo,5,Sport Recife,Vitória,2,0,Mandante,Bruno Arleu de Araujo,29.6,4.5,177.6,8.0,28.4,4.6,180.4,3.9,Governador Magalhães Pinto,20095
+Cruzeiro,2018,12,13/06/2018,19:30,Quarta,6,Paraná Clube,Empate,1,1,Visitante,Dewson Fernando Freitas da Silva,28.3,4.5,179.4,7.0,26.2,2.9,181.4,5.3,Durival Britto e Silva,5131
+Cruzeiro,2018,13,19/07/2018,19:30,Quinta,7,América Mineiro,Vitória,3,1,Mandante,Raphael Claus,31.7,3.2,181.7,6.7,29.8,4.1,181.6,6.7,Governador Magalhães Pinto,17956
+Cruzeiro,2018,17,05/08/2018,16:00,Domingo,8,Vitória,Empate,1,1,Visitante,Eduardo Tomaz de Aquino Valadao,27.3,3.8,180.3,6.5,25.7,2.9,178.2,8.7,Estádio Manoel Barradas,7193
+Cruzeiro,2018,24,08/09/2018,16:00,Sábado,9,Sport Recife,Empate,0,0,Visitante,Vinicius Goncalves Dias Araujo,31.1,3.7,179.5,6.4,29.7,5.5,180.6,5.3,Ilha do Retiro,9525
+Cruzeiro,2018,31,27/10/2018,21:00,Sábado,10,Paraná Clube,Vitória,3,1,Mandante,Marcelo de Lima Henrique,30.0,4.3,180.0,6.8,24.3,3.6,180.6,4.5,Governador Magalhães Pinto,18755
+Cruzeiro,2018,32,04/11/2018,16:00,Domingo,11,América Mineiro,Vitória,2,1,Visitante,Heber Roberto Lopes,32.0,3.2,181.7,6.7,29.0,3.1,180.0,7.9,Arena Independência,9423
+Cruzeiro,2018,36,21/11/2018,20:45,Quarta,11,Vitória,Vitória,3,0,Mandante,Leandro Bizzio Marinho,28.3,4.4,178.4,7.6,25.5,3.4,179.6,7.3,Governador Magalhães Pinto,4038
+Flamengo,2018,1,14/04/2018,19:00,Sábado,4,Vitória,Empate,2,2,Visitante,Reway Wagner,28.3,5.9,179.3,6.0,26.3,4.2,182.1,7.7,Estádio Manoel Barradas,12669
+Flamengo,2018,2,21/04/2018,19:00,Sábado,4,América Mineiro,Vitória,2,0,Mandante,Leandro Bizzio Marinho,26.4,5.5,180.1,5.5,27.6,4.2,181.5,7.9,Estádio Luso Brasileiro,52106
+Flamengo,2018,11,10/06/2018,19:00,Domingo,6,Paraná Clube,Vitória,2,0,Mandante,Marcelo Aparecido Ribeiro de Souza,25.5,5.1,178.8,5.0,25.7,3.7,178.9,6.2,Estádio do Maracanã,59488
+Flamengo,2018,16,29/07/2018,16:00,Domingo,7,Sport Recife,Vitória,4,1,Mandante,Marcelo Aparecido Ribeiro de Souza,27.5,4.5,178.9,6.1,30.4,4.8,181.0,4.7,Estádio do Maracanã,58817
+Flamengo,2018,20,23/08/2018,19:30,Quinta,8,Vitória,Vitória,1,0,Mandante,Wilton Pereira Sampaio,27.7,4.2,179.5,6.0,24.3,3.6,178.9,9.0,Estádio do Maracanã,51878
+Flamengo,2018,21,26/08/2018,16:00,Domingo,8,América Mineiro,Empate,2,2,Visitante,Jean Pierre Goncalves Lima,27.7,4.2,179.5,6.0,32.0,2.4,180.9,7.0,Arena Independência,12887
+Flamengo,2018,30,21/10/2018,19:00,Domingo,10,Paraná Clube,Vitória,4,0,Visitante,Braulio Da Silva Machado,27.3,3.8,180.5,6.7,26.6,3.3,180.5,4.5,Durival Britto e Silva,4271
+Flamengo,2018,35,18/11/2018,16:00,Domingo,11,Sport Recife,Vitória,1,0,Visitante,Raphael Claus,26.9,3.6,182.6,7.1,27.3,4.3,182.7,6.2,Ilha do Retiro,26005
+Fluminense,2018,4,06/05/2018,16:00,Domingo,5,Vitória,Vitória,2,1,Visitante,Rodrigo D'alonso Ferreira,25.0,3.1,180.9,8.8,26.4,3.9,181.6,9.7,Estádio Manoel Barradas,6652
+Fluminense,2018,9,04/06/2018,20:00,Segunda,6,Paraná Clube,Derrota,1,2,Visitante,Leandro Bizzio Marinho,26.0,3.3,180.5,9.7,27.1,2.8,180.0,6.0,Durival Britto e Silva,3491
+Fluminense,2018,14,22/07/2018,16:00,Domingo,7,Sport Recife,Vitória,2,1,Visitante,Braulio Da Silva Machado,25.7,4.0,179.1,9.6,30.5,4.8,180.5,5.1,Ilha do Retiro,11119
+Fluminense,2018,19,19/08/2018,19:00,Domingo,8,América Mineiro,Empate,0,0,Visitante,Caio Max Augusto Vieira,25.3,4.3,181.6,8.3,30.9,3.3,180.9,8.2,Arena Independência,4851
+Fluminense,2018,23,06/09/2018,19:00,Quinta,9,Vitória,Empate,0,0,Mandante,Jean Pierre Goncalves Lima,26.6,4.0,180.4,8.1,22.8,2.5,181.6,8.0,Estádio do Maracanã,8952
+Fluminense,2018,28,08/10/2018,20:00,Segunda,10,Paraná Clube,Vitória,4,0,Mandante,Marcelo Aparecido Ribeiro de Souza,26.2,3.9,180.5,8.5,26.8,3.0,180.0,4.0,Estádio do Maracanã,6715
+Fluminense,2018,33,11/11/2018,18:00,Domingo,11,Sport Recife,Empate,0,0,Mandante,Flavio Rodrigues De Souza,26.3,3.2,180.8,8.1,27.5,4.4,182.1,6.3,Estádio do Maracanã,12256
+Fluminense,2018,38,02/12/2018,16:00,Domingo,12,América Mineiro,Vitória,1,0,Mandante,Rafael Traci,27.5,3.5,181.1,7.6,29.7,4.2,179.5,8.8,Estádio do Maracanã,38870
+Grêmio,2018,6,20/05/2018,16:00,Domingo,5,Paraná Clube,Empate,0,0,Visitante,Rodrigo Batista Raposo,29.1,4.6,181.2,5.6,25.2,3.5,179.7,6.0,Durival Britto e Silva,7776
+Grêmio,2018,11,10/06/2018,16:00,Domingo,6,América Mineiro,Vitória,1,0,Mandante,Rodrigo D'alonso Ferreira,28.0,5.3,180.2,4.6,26.8,4.0,181.3,6.5,Arena do Grêmio,12953
+Grêmio,2018,12,13/06/2018,19:30,Quarta,6,Sport Recife,Empate,0,0,Visitante,Ricardo Marques Ribeiro,28.3,5.3,179.9,5.9,28.6,3.1,181.5,7.0,Ilha do Retiro,14430
+Grêmio,2018,18,12/08/2018,19:00,Domingo,8,Vitória,Vitória,4,0,Mandante,Bruno Arleu de Araujo,27.8,5.0,180.0,5.8,24.8,3.3,178.8,8.2,Arena do Grêmio,16146
+Grêmio,2018,25,15/09/2018,16:00,Sábado,9,Paraná Clube,Vitória,2,0,Mandante,Igor Junio Benevenuto,27.5,6.5,178.5,5.0,26.6,2.9,180.5,4.4,Arena do Grêmio,19278
+Grêmio,2018,30,20/10/2018,16:00,Sábado,10,América Mineiro,Empate,1,1,Visitante,Luiz Flávio de Oliveira,25.6,4.3,180.8,4.8,28.6,4.2,179.8,8.7,Arena Independência,5821
+Grêmio,2018,31,27/10/2018,16:30,Sábado,10,Sport Recife,Derrota,3,4,Mandante,Dewson Fernando Freitas da Silva,26.4,4.9,180.5,4.6,27.1,4.3,182.0,6.4,Arena do Grêmio,12165
+Grêmio,2018,37,25/11/2018,16:00,Domingo,11,Vitória,Empate,0,0,Visitante,Raphael Claus,29.5,5.3,179.8,6.2,24.5,3.4,178.8,6.4,Estádio Manoel Barradas,4283
+Internacional,2018,8,30/05/2018,19:30,Quarta,5,Vitória,Vitória,3,2,Visitante,Raphael Claus,27.3,2.5,179.9,6.6,26.7,4.4,178.8,8.0,Estádio Manoel Barradas,5591
+Internacional,2018,9,02/06/2018,16:00,Sábado,6,Sport Recife,Empate,0,0,Mandante,Marcelo Aparecido Ribeiro de Souza,26.9,3.0,181.6,6.0,31.0,4.6,180.5,5.1,Estádio Beira-Rio,28320
+Internacional,2018,15,26/07/2018,20:00,Quinta,7,América Mineiro,Derrota,1,2,Visitante,Flavio Rodrigues De Souza,26.5,2.7,180.9,5.8,30.8,3.3,180.5,8.1,Arena Independência,4625
+Internacional,2018,19,19/08/2018,11:00,Domingo,8,Paraná Clube,Vitória,1,0,Mandante,Leandro Bizzio Marinho,26.6,3.2,182.5,4.4,25.3,3.4,179.9,4.6,Estádio Beira-Rio,40894
+Internacional,2018,27,30/09/2018,16:00,Domingo,9,Vitória,Vitória,2,1,Mandante,Savio Pereira Sampaio,27.5,4.3,182.6,4.8,23.3,2.3,179.1,7.8,Estádio Beira-Rio,33347
+Internacional,2018,28,05/10/2018,19:00,Sexta,10,Sport Recife,Derrota,1,2,Visitante,Andre Luiz de Freitas Castro,26.1,3.2,181.2,5.7,28.8,5.5,180.3,4.3,Ilha do Retiro,9979
+Internacional,2018,34,15/11/2018,20:00,Quinta,11,América Mineiro,Vitória,2,0,Mandante,Wilton Pereira Sampaio,27.4,3.0,182.2,6.0,30.2,4.4,180.7,7.8,Estádio Beira-Rio,26476
+Internacional,2018,38,02/12/2018,16:00,Domingo,12,Paraná Clube,Empate,1,1,Visitante,Rodrigo Carvalhaes de Miranda,28.5,3.2,178.8,6.6,23.1,3.7,179.5,5.5,Durival Britto e Silva,2228
+Palmeiras,2018,7,26/05/2018,19:00,Sábado,5,Sport Recife,Derrota,2,3,Mandante,Dewson Fernando Freitas da Silva,30.3,4.2,179.3,6.8,29.1,5.0,181.8,4.3,Nubank Parque,25947
+Palmeiras,2018,16,29/07/2018,11:00,Domingo,7,Paraná Clube,Vitória,3,0,Mandante,Reway Wagner,26.7,3.2,179.1,7.6,25.7,2.7,181.1,4.0,Nubank Parque,35776
+Palmeiras,2018,17,05/08/2018,16:00,Domingo,8,América Mineiro,Empate,0,0,Visitante,Andre Luiz de Freitas Castro,27.3,2.7,180.5,5.4,30.4,3.1,179.9,7.5,Arena Independência,8077
+Palmeiras,2018,19,19/08/2018,16:00,Domingo,8,Vitória,Vitória,3,0,Visitante,Rodrigo Batista Raposo,27.4,1.9,179.9,6.1,24.0,2.5,178.9,8.9,Estádio Manoel Barradas,8822
+Palmeiras,2018,26,23/09/2018,18:00,Domingo,9,Sport Recife,Vitória,1,0,Visitante,Paulo Roberto Alves Junior,28.8,4.1,180.4,5.1,29.2,5.5,180.1,5.3,Ilha do Retiro,18681
+Palmeiras,2018,35,18/11/2018,16:00,Domingo,11,Paraná Clube,Empate,1,1,Visitante,Bruno Arleu de Araujo,29.1,3.9,181.5,6.6,24.4,3.5,180.7,4.7,Durival Britto e Silva,25076
+Palmeiras,2018,36,21/11/2018,20:45,Quarta,11,América Mineiro,Vitória,4,0,Mandante,Paulo Roberto Alves Junior,27.7,2.2,179.6,6.2,28.4,4.6,179.2,9.6,Nubank Parque,39429
+Palmeiras,2018,38,02/12/2018,16:00,Domingo,12,Vitória,Vitória,3,2,Mandante,Heber Roberto Lopes,28.8,4.1,181.0,6.4,23.8,3.2,180.2,5.8,Nubank Parque,41256
+Santos,2018,5,13/05/2018,19:00,Domingo,5,Paraná Clube,Vitória,3,1,Mandante,Reway Wagner,25.2,4.2,181.3,7.9,25.6,3.0,179.2,5.9,Mercado Livre Arena Pacaembu,3971
+Santos,2018,9,03/06/2018,16:00,Domingo,6,Vitória,Vitória,5,2,Mandante,Rodrigo D'alonso Ferreira,27.3,5.8,179.4,7.0,27.4,3.6,179.7,8.0,Estádio Urbano Caldeira,3887
+Santos,2018,16,29/07/2018,19:00,Domingo,7,América Mineiro,Derrota,0,1,Mandante,Rafael Traci,26.6,4.3,181.5,7.5,30.4,3.1,179.5,7.6,Estádio Urbano Caldeira,8691
+Santos,2018,19,18/08/2018,16:00,Sábado,8,Sport Recife,Vitória,3,0,Mandante,Dewson Fernando Freitas da Silva,27.7,4.2,181.4,8.5,29.4,4.4,181.5,5.0,Estádio Urbano Caldeira,17047
+Santos,2018,24,09/09/2018,19:00,Domingo,9,Paraná Clube,Vitória,2,0,Visitante,Dewson Fernando Freitas da Silva,26.9,4.1,182.5,7.4,25.5,3.5,179.7,5.2,Durival Britto e Silva,4504
+Santos,2018,28,05/10/2018,21:30,Sexta,10,Vitória,Vitória,1,0,Visitante,Daniel Nobre Bins,27.5,3.8,181.1,8.1,24.0,3.2,178.7,7.3,Estádio Manoel Barradas,7478
+Santos,2018,35,18/11/2018,16:00,Domingo,11,América Mineiro,Derrota,1,2,Visitante,Dewson Fernando Freitas da Silva,26.3,4.7,181.8,6.9,28.4,4.6,179.3,9.5,Arena Independência,4652
+Santos,2018,38,02/12/2018,16:00,Domingo,12,Sport Recife,Derrota,1,2,Visitante,Anderson Daronco,25.3,5.1,181.8,7.9,25.8,3.6,181.2,7.7,Ilha do Retiro,23451
+São Paulo,2018,1,16/04/2018,20:00,Segunda,4,Paraná Clube,Vitória,1,0,Mandante,Braulio Da Silva Machado,25.8,4.9,179.8,5.9,25.6,2.9,179.5,4.7,MorumBIS,11327
+São Paulo,2018,7,27/05/2018,19:00,Domingo,5,América Mineiro,Vitória,3,1,Visitante,Bruno Arleu de Araujo,29.1,4.8,182.3,4.7,28.9,4.5,182.9,6.5,Arena Independência,4360
+São Paulo,2018,12,12/06/2018,21:30,Terça,6,Vitória,Vitória,3,0,Mandante,Igor Junio Benevenuto,29.2,4.7,181.4,4.9,24.7,3.7,177.6,6.9,MorumBIS,20456
+São Paulo,2018,18,12/08/2018,16:00,Domingo,8,Sport Recife,Vitória,3,1,Visitante,Anderson Daronco,31.0,3.0,181.2,5.2,29.4,4.8,182.5,5.1,Ilha do Retiro,16050
+São Paulo,2018,20,22/08/2018,19:30,Quarta,8,Paraná Clube,Empate,1,1,Visitante,Pericles Bassols Pegado Cortez,31.0,3.0,181.2,5.2,25.8,2.6,180.3,3.8,Durival Britto e Silva,7635
+São Paulo,2018,26,22/09/2018,16:00,Sábado,9,América Mineiro,Empate,1,1,Mandante,Wilton Pereira Sampaio,29.2,5.1,181.6,5.2,30.6,4.3,179.0,7.7,MorumBIS,47846
+São Paulo,2018,31,26/10/2018,19:30,Sexta,10,Vitória,Vitória,1,0,Visitante,Leandro Pedro Vuaden,27.6,4.1,181.6,6.3,24.3,3.2,179.5,7.7,Estádio Manoel Barradas,11283
+São Paulo,2018,37,26/11/2018,19:00,Segunda,11,Sport Recife,Empate,0,0,Mandante,Andre Luiz de Freitas Castro,27.3,5.4,180.7,5.0,26.6,4.3,182.6,6.7,MorumBIS,15235
+Vasco da Gama,2018,4,05/05/2018,19:00,Sábado,5,América Mineiro,Vitória,4,1,Mandante,Flavio Rodrigues De Souza,28.0,3.6,179.1,5.5,29.0,3.5,180.6,7.6,Estádio São Januário,3683
+Vasco da Gama,2018,5,13/05/2018,16:00,Domingo,5,Vitória,Derrota,2,3,Mandante,Jean Pierre Goncalves Lima,28.3,3.7,179.7,6.0,27.7,4.0,179.5,9.0,Estádio São Januário,3542
+Vasco da Gama,2018,8,30/05/2018,19:30,Quarta,5,Paraná Clube,Vitória,1,0,Mandante,Leandro Pedro Vuaden,25.7,4.4,179.5,5.6,25.2,3.5,179.7,6.0,Estádio São Januário,4584
+Vasco da Gama,2018,11,09/06/2018,19:00,Sábado,6,Sport Recife,Vitória,3,2,Mandante,Savio Pereira Sampaio,26.3,4.2,179.4,6.0,30.3,4.1,180.5,5.1,Estádio São Januário,8418
+Vasco da Gama,2018,23,06/09/2018,20:00,Quinta,9,América Mineiro,Derrota,1,2,Visitante,Heber Roberto Lopes,28.8,4.2,178.9,5.4,31.2,3.5,181.0,7.2,Arena Independência,5061
+Vasco da Gama,2018,24,09/09/2018,19:00,Domingo,9,Vitória,Derrota,0,1,Visitante,Paulo Roberto Alves Junior,29.0,4.3,179.5,4.6,23.0,2.4,179.0,7.9,Estádio Manoel Barradas,10092
+Vasco da Gama,2018,27,01/10/2018,20:00,Segunda,10,Paraná Clube,Empate,1,1,Visitante,Flavio Rodrigues De Souza,28.4,4.3,180.2,5.5,27.2,3.1,180.4,4.5,Durival Britto e Silva,3210
+Vasco da Gama,2018,30,20/10/2018,19:00,Sábado,10,Sport Recife,Derrota,1,2,Visitante,Wilton Pereira Sampaio,28.8,4.4,181.7,6.2,27.1,4.3,182.0,6.4,Ilha do Retiro,13860
+Atlético Mineiro,2019,1,27/04/2019,19:00,Sábado,4,Avaí,Vitória,2,1,Mandante,Rodolpho Toski Marques,31.1,5.9,180.3,9.0,28.6,4.2,180.3,8.5,Arena Independência,10531
+Atlético Mineiro,2019,7,02/06/2019,19:00,Domingo,6,CSA,Vitória,4,0,Mandante,Diego Pombo Lopez,29.9,4.8,179.2,8.8,28.5,3.4,178.9,6.9,Arena Independência,14116
+Atlético Mineiro,2019,10,14/07/2019,19:00,Domingo,7,Chapecoense,Vitória,2,1,Visitante,Marcelo Aparecido Ribeiro de Souza,27.5,6.1,181.1,8.3,29.0,4.4,178.5,6.1,Arena Condá,2600
+Atlético Mineiro,2019,13,04/08/2019,19:00,Domingo,8,Cruzeiro,Vitória,2,0,Mandante,Leandro Pedro Vuaden,29.8,5.0,179.5,7.9,31.7,4.2,182.5,5.1,Arena Independência,13181
+Atlético Mineiro,2019,20,23/09/2019,20:00,Segunda,9,Avaí,Derrota,0,1,Visitante,Caio Max Augusto Vieira,25.1,5.5,180.5,7.3,26.4,4.2,180.4,6.4,Estádio da Ressacada,7463
+Atlético Mineiro,2019,26,16/10/2019,19:15,Quarta,10,CSA,Empate,2,2,Visitante,Savio Pereira Sampaio,29.0,6.3,181.7,9.2,30.3,3.9,179.4,8.3,Estádio Rei Pelé,13075
+Atlético Mineiro,2019,29,30/10/2019,19:30,Quarta,10,Chapecoense,Derrota,0,2,Mandante,Diego Pombo Lopez,30.1,6.6,180.5,9.0,29.4,3.8,178.7,5.3,Arena Independência,19058
+Atlético Mineiro,2019,32,10/11/2019,16:00,Domingo,11,Cruzeiro,Empate,0,0,Visitante,Jean Pierre Goncalves Lima,28.1,4.0,180.5,9.5,29.3,6.2,181.5,6.0,Governador Magalhães Pinto,43205
+Bahia,2019,3,05/05/2019,19:00,Domingo,5,Avaí,Vitória,1,0,Mandante,Bruno Arleu de Araujo,27.0,4.8,178.1,7.9,28.9,4.5,183.8,7.8,Arena Fonte Nova,18673
+Bahia,2019,11,20/07/2019,17:00,Sábado,7,Cruzeiro,Empate,0,0,Mandante,Luiz Flávio de Oliveira,26.5,4.2,180.0,7.2,24.2,4.2,181.4,6.8,Arena Fonte Nova,24864
+Bahia,2019,12,28/07/2019,11:00,Domingo,7,Chapecoense,Empate,0,0,Visitante,Dewson Fernando Freitas da Silva,26.3,4.2,180.5,7.0,29.4,3.8,179.0,5.9,Arena Condá,12787
+Bahia,2019,17,31/08/2019,17:00,Sábado,8,CSA,Vitória,1,0,Mandante,Vinicius Gomes do Amara,28.4,4.4,179.5,7.9,29.1,4.3,179.0,8.4,Arena Fonte Nova,32483
+Bahia,2019,22,30/09/2019,20:00,Segunda,9,Avaí,Vitória,2,0,Visitante,Jean Pierre Goncalves Lima,28.2,4.4,178.8,8.4,26.4,4.2,180.6,6.9,Estádio da Ressacada,7052
+Bahia,2019,30,03/11/2019,19:00,Domingo,11,Cruzeiro,Empate,1,1,Visitante,Reway Wagner,27.2,4.6,179.9,9.2,29.3,6.2,181.5,3.8,Governador Magalhães Pinto,21933
+Bahia,2019,31,06/11/2019,21:30,Quarta,11,Chapecoense,Empate,1,1,Mandante,Vinicius Furlan,27.4,4.5,180.1,9.2,29.9,3.6,180.1,5.5,Arena Fonte Nova,16836
+Bahia,2019,36,01/12/2019,18:00,Domingo,12,CSA,Vitória,2,1,Visitante,Vinicius Furlan,26.4,3.8,180.1,7.4,29.6,3.2,181.6,7.0,Estádio Rei Pelé,7371
+Botafogo,2019,8,09/06/2019,19:00,Domingo,6,CSA,Vitória,2,1,Visitante,Jean Pierre Goncalves Lima,28.7,5.4,181.0,6.3,29.0,2.8,178.4,7.3,Estádio Rei Pelé,11602
+Botafogo,2019,10,14/07/2019,16:00,Domingo,7,Cruzeiro,Empate,0,0,Visitante,Leandro Pedro Vuaden,27.5,4.3,180.2,7.0,29.9,5.3,181.7,5.6,Governador Magalhães Pinto,18012
+Botafogo,2019,13,04/08/2019,16:00,Domingo,8,Avaí,Vitória,2,0,Visitante,Vinicius Furlan,28.4,4.6,179.8,5.2,28.2,4.4,180.5,8.4,Estádio da Ressacada,7140
+Botafogo,2019,16,26/08/2019,20:00,Segunda,8,Chapecoense,Empate,0,0,Mandante,Edina Alves Batista,27.3,4.6,179.5,8.0,29.3,4.7,178.4,5.3,Estadio Nilton Santos,8241
+Botafogo,2019,27,21/10/2019,20:00,Segunda,10,CSA,Vitória,2,1,Mandante,Leandro Pedro Vuaden,27.8,4.2,178.7,6.2,29.9,4.7,180.1,7.2,Estadio Nilton Santos,18199
+Botafogo,2019,29,31/10/2019,21:30,Quinta,10,Cruzeiro,Derrota,0,2,Mandante,Caio Max Augusto Vieira,27.6,4.0,179.3,7.7,29.1,6.4,182.3,4.9,Estadio Nilton Santos,20690
+Botafogo,2019,32,11/11/2019,20:00,Segunda,11,Avaí,Vitória,2,0,Mandante,Savio Pereira Sampaio,26.6,4.9,178.8,8.0,27.1,4.3,181.4,6.2,Estadio Nilton Santos,19075
+Botafogo,2019,35,27/11/2019,19:30,Quarta,11,Chapecoense,Vitória,1,0,Visitante,Anderson Daronco,26.3,5.2,180.0,6.1,31.0,2.5,179.4,5.9,Arena Condá,3582
+Corinthians,2019,2,01/05/2019,16:00,Quarta,5,Chapecoense,Vitória,1,0,Mandante,Ricardo Marques Ribeiro,27.3,4.8,177.5,9.7,27.8,4.6,179.7,5.8,Neo Química Arena,30442
+Corinthians,2019,8,08/06/2019,19:00,Sábado,6,Cruzeiro,Empate,0,0,Visitante,Marcelo de Lima Henrique,29.7,3.7,179.3,8.4,30.5,4.2,179.9,7.4,Governador Magalhães Pinto,21370
+Corinthians,2019,10,14/07/2019,16:00,Domingo,7,CSA,Vitória,1,0,Mandante,Reway Wagner,29.6,4.1,178.4,9.6,31.1,3.0,182.6,6.8,Neo Química Arena,33952
+Corinthians,2019,16,25/08/2019,19:00,Domingo,8,Avaí,Empate,1,1,Visitante,Ricardo Marques Ribeiro,28.5,4.6,180.4,8.9,28.1,4.6,181.0,8.4,Estádio da Ressacada,9753
+Corinthians,2019,21,02/10/2019,19:15,Quarta,10,Chapecoense,Vitória,1,0,Visitante,Daniel Nobre Bins,29.4,4.6,179.2,8.9,29.7,4.6,178.5,5.4,Arena Condá,5036
+Corinthians,2019,27,19/10/2019,19:00,Sábado,10,Cruzeiro,Derrota,1,2,Mandante,Bruno Arleu de Araujo,26.4,4.9,177.7,9.3,30.7,5.6,182.1,6.7,Neo Química Arena,31631
+Corinthians,2019,29,30/10/2019,21:30,Quarta,10,CSA,Derrota,1,2,Visitante,Rafael Traci,29.0,3.9,179.9,9.8,28.8,4.0,180.5,7.5,Estádio Rei Pelé,15428
+Corinthians,2019,35,27/11/2019,21:30,Quarta,11,Avaí,Vitória,3,0,Mandante,Wagner do Nascimento Magalhaes,27.9,4.0,178.3,10.7,27.6,4.3,181.6,8.8,Neo Química Arena,17441
+Cruzeiro,2019,6,26/05/2019,19:00,Domingo,05,Chapecoense,Derrota,1,2,Mandante,Dewson Fernando Freitas da Silva,32.2,3.4,179.6,7.2,28.5,4.4,179.0,6.2,Governador Magalhães Pinto,18039
+Cruzeiro,2019,14,11/08/2019,16:00,Domingo,08,Avaí,Empate,2,2,Visitante,Paulo Roberto Alves Junior,30.5,4.2,180.4,6.4,28.8,4.3,180.5,8.4,Estádio da Ressacada,4921
+Cruzeiro,2019,16,25/08/2019,19:00,Domingo,08,CSA,Empate,1,1,Visitante,Marcelo de Lima Henrique,29.4,5.8,181.1,6.0,29.4,4.0,179.8,8.3,Estádio Rei Pelé,8715
+Cruzeiro,2019,25,13/10/2019,19:00,Domingo,10,Chapecoense,Empate,1,1,Visitante,Caio Max Augusto Vieira,30.8,5.6,182.6,5.8,28.6,4.6,179.7,5.3,Arena Condá,4399
+Cruzeiro,2019,33,18/11/2019,20:00,Segunda,11,Avaí,Empate,0,0,Mandante,Diego Pombo Lopez,27.7,5.9,181.3,5.3,26.5,4.8,183.5,7.1,Governador Magalhães Pinto,21217
+Cruzeiro,2019,35,28/11/2019,21:30,Quinta,11,CSA,Derrota,0,1,Mandante,Vinicius Goncalves Dias Araujo,29.3,6.6,180.8,5.4,29.6,3.2,180.8,7.6,Governador Magalhães Pinto,34920
+Flamengo,2019,1,27/04/2019,21:00,Sábado,4,Cruzeiro,Vitória,3,1,Mandante,Anderson Daronco,26.8,2.9,179.3,6.2,30.0,4.8,180.3,7.0,Estádio do Maracanã,35016
+Flamengo,2019,4,12/05/2019,11:00,Domingo,5,Chapecoense,Vitória,2,1,Mandante,Jean Pierre Goncalves Lima,26.1,4.7,179.2,4.4,27.6,4.3,179.4,5.7,Estádio do Maracanã,61023
+Flamengo,2019,9,12/06/2019,21:30,Quarta,6,CSA,Vitória,2,0,Visitante,Douglas Marques das Flores,26.1,2.6,180.4,5.7,29.7,3.5,180.7,6.4,Arena BRB Mané Garrincha,37673
+Flamengo,2019,18,07/09/2019,17:00,Sábado,9,Avaí,Vitória,3,0,Visitante,Edina Alves Batista,27.9,5.4,182.3,6.3,27.3,4.0,181.6,8.0,Arena BRB Mané Garrincha,47575
+Flamengo,2019,20,21/09/2019,17:00,Sábado,9,Cruzeiro,Vitória,2,1,Visitante,Raphael Claus,28.0,4.1,181.2,5.5,28.2,6.2,181.3,5.6,Governador Magalhães Pinto,40333
+Flamengo,2019,23,06/10/2019,11:00,Domingo,10,Chapecoense,Vitória,1,0,Visitante,Vinicius Goncalves Dias Araujo,27.3,4.6,181.3,5.8,28.1,4.9,179.4,4.6,Arena Condá,12152
+Flamengo,2019,28,27/10/2019,19:00,Domingo,10,CSA,Vitória,1,0,Mandante,Rodolpho Toski Marques,28.0,4.7,180.3,5.0,29.6,4.0,181.5,7.3,Estádio do Maracanã,69846
+Flamengo,2019,37,05/12/2019,20:00,Quinta,12,Avaí,Vitória,6,1,Mandante,Jefferson Ferreira de Moraes,27.4,5.1,179.5,7.6,25.6,5.1,183.4,7.4,Estádio do Maracanã,64648
+Fluminense,2019,5,18/05/2019,18:00,Sábado,5,Cruzeiro,Vitória,4,1,Mandante,Flavio Rodrigues De Souza,25.8,3.7,181.2,5.6,30.1,3.7,180.2,7.5,Estádio do Maracanã,11437
+Fluminense,2019,9,13/06/2019,20:00,Quinta,6,Chapecoense,Empate,1,1,Visitante,Ricardo Marques Ribeiro,23.1,3.8,180.4,5.5,28.8,5.0,178.8,5.9,Arena Condá,6257
+Fluminense,2019,15,18/08/2019,16:00,Domingo,8,CSA,Derrota,0,1,Mandante,Reway Wagner,24.0,4.1,181.2,5.7,30.1,3.7,179.9,7.6,Estádio do Maracanã,25049
+Fluminense,2019,17,02/09/2019,20:00,Segunda,9,Avaí,Derrota,0,1,Mandante,Raphael Claus,26.8,5.5,180.5,6.9,27.2,4.0,181.6,8.0,Estádio do Maracanã,16811
+Fluminense,2019,24,09/10/2019,21:30,Quarta,10,Cruzeiro,Empate,0,0,Visitante,Jean Pierre Goncalves Lima,26.4,5.2,182.8,4.4,30.8,4.9,180.5,7.5,Governador Magalhães Pinto,38113
+Fluminense,2019,28,26/10/2019,19:30,Sábado,10,Chapecoense,Empate,1,1,Mandante,Savio Pereira Sampaio,26.5,5.4,180.4,7.2,31.9,2.8,178.1,5.1,Estádio do Maracanã,18751
+Fluminense,2019,34,25/11/2019,20:00,Segunda,11,CSA,Vitória,1,0,Visitante,Luiz Flávio de Oliveira,24.8,3.5,182.1,5.5,28.8,2.9,180.8,7.2,Estádio Rei Pelé,8916
+Fluminense,2019,36,01/12/2019,16:00,Domingo,12,Avaí,Empate,1,1,Visitante,Daniel Nobre Bins,25.2,4.8,181.0,5.9,25.4,5.2,181.8,8.1,Estádio da Ressacada,3237
+Grêmio,2019,2,01/05/2019,19:15,Quarta,5,Avaí,Empate,1,1,Visitante,Wagner do Nascimento Magalhaes,27.1,4.6,180.3,5.5,27.6,4.9,182.8,7.4,Estádio da Ressacada,12181
+Grêmio,2019,12,29/07/2019,20:00,Segunda,7,CSA,Empate,0,0,Visitante,Caio Max Augusto Vieira,29.2,5.8,181.2,6.0,29.6,2.7,180.2,8.3,Estádio Rei Pelé,11918
+Grêmio,2019,13,05/08/2019,20:00,Segunda,8,Chapecoense,Empate,3,3,Mandante,Felipe Fernandes de Lima,27.8,4.7,181.0,5.1,29.3,4.7,178.4,5.3,Arena do Grêmio,13418
+Grêmio,2019,18,08/09/2019,11:00,Domingo,9,Cruzeiro,Vitória,4,1,Visitante,Rafael Traci,28.4,4.5,180.2,5.2,31.0,5.2,180.1,5.1,Arena Independência,14208
+Grêmio,2019,21,26/09/2019,20:00,Quinta,9,Avaí,Vitória,6,1,Mandante,Rodolpho Toski Marques,28.7,3.8,180.3,4.2,26.0,4.2,181.8,5.1,Arena do Grêmio,14861
+Grêmio,2019,31,07/11/2019,21:00,Quinta,11,CSA,Vitória,2,1,Mandante,Jose Mendonca da Silva Junior,30.6,5.4,180.3,5.1,29.4,4.6,179.2,8.5,Arena do Grêmio,11334
+Grêmio,2019,32,10/11/2019,19:00,Domingo,11,Chapecoense,Vitória,1,0,Visitante,Marcelo de Lima Henrique,27.2,4.4,179.2,5.1,30.4,3.8,179.1,5.8,Arena Condá,13335
+Grêmio,2019,37,05/12/2019,19:15,Quinta,12,Cruzeiro,Vitória,2,0,Mandante,Andre Luiz de Freitas Castro,28.6,4.2,179.8,4.5,30.0,6.2,182.3,3.7,Arena do Grêmio,18306
+Internacional,2019,1,27/04/2019,19:00,Sábado,4,Chapecoense,Derrota,0,2,Visitante,Raphael Claus,28.2,4.8,179.8,6.7,28.4,4.2,179.0,6.0,Arena Condá,8231
+Internacional,2019,4,12/05/2019,16:00,Domingo,5,Cruzeiro,Vitória,3,1,Mandante,Raphael Claus,29.2,5.0,180.2,6.0,30.2,4.5,180.3,6.9,Estádio Beira-Rio,21483
+Internacional,2019,5,19/05/2019,16:00,Domingo,5,CSA,Vitória,2,0,Mandante,Rodrigo Carvalhaes de Miranda,29.2,5.0,180.2,6.0,29.7,3.2,178.8,8.6,Estádio Beira-Rio,24220
+Internacional,2019,7,02/06/2019,19:00,Domingo,6,Avaí,Vitória,2,0,Mandante,Rodrigo Nunes De Sa,29.3,4.8,179.6,5.6,26.2,4.1,180.2,7.0,Estádio Beira-Rio,19789
+Internacional,2019,20,22/09/2019,11:00,Domingo,9,Chapecoense,Vitória,1,0,Mandante,Diego Pombo Lopez,30.6,2.9,181.6,6.1,30.3,4.9,177.7,5.2,Estádio Beira-Rio,21349
+Internacional,2019,23,05/10/2019,21:00,Sábado,10,Cruzeiro,Empate,1,1,Visitante,Wagner do Nascimento Magalhaes,27.7,5.2,180.7,5.5,28.5,6.3,181.1,6.4,Governador Magalhães Pinto,22561
+Internacional,2019,24,09/10/2019,19:15,Quarta,10,CSA,Derrota,0,1,Visitante,Vinicius Furlan,27.4,3.9,178.5,6.0,29.1,3.0,179.3,7.5,Estádio Rei Pelé,9927
+Internacional,2019,26,17/10/2019,19:15,Quinta,10,Avaí,Vitória,2,0,Visitante,Thiago Duarte Peixoto,26.8,5.3,179.6,6.1,26.5,4.4,181.6,5.5,Estádio da Ressacada,6377
+Palmeiras,2019,2,01/05/2019,16:00,Quarta,5,CSA,Empate,1,1,Visitante,Caio Max Augusto Vieira,29.2,4.5,181.6,5.1,29.8,2.6,179.9,8.7,Estádio Rei Pelé,15735
+Palmeiras,2019,7,02/06/2019,19:00,Domingo,6,Chapecoense,Vitória,2,1,Visitante,Rodolpho Toski Marques,28.8,2.9,180.6,6.6,28.1,4.7,179.5,5.6,Arena Condá,10615
+Palmeiras,2019,9,13/06/2019,20:00,Quinta,6,Avaí,Vitória,2,0,Mandante,Marcelo de Lima Henrique,29.9,3.8,180.8,6.8,26.2,4.6,181.9,6.3,Nubank Parque,31946
+Palmeiras,2019,19,14/09/2019,19:00,Sábado,9,Cruzeiro,Vitória,1,0,Mandante,Rodolpho Toski Marques,29.9,3.1,179.8,6.4,27.7,6.3,181.5,3.8,Nubank Parque,35578
+Palmeiras,2019,21,26/09/2019,19:15,Quinta,9,CSA,Vitória,6,2,Mandante,Diego Pombo Lopez,30.2,3.2,179.3,6.9,29.6,4.0,179.8,8.3,Nubank Parque,21537
+Palmeiras,2019,26,16/10/2019,21:00,Quarta,10,Chapecoense,Vitória,1,0,Mandante,Vinicius Gomes do Amara,28.9,3.0,180.3,6.0,31.3,2.7,179.9,6.2,Nubank Parque,22738
+Palmeiras,2019,28,27/10/2019,18:00,Domingo,10,Avaí,Vitória,2,1,Visitante,Wilton Pereira Sampaio,29.3,3.4,179.6,7.0,28.4,5.4,182.6,7.5,Estádio da Ressacada,8815
+Palmeiras,2019,38,08/12/2019,16:00,Domingo,12,Cruzeiro,Vitória,2,0,Visitante,Marcelo de Lima Henrique,27.6,2.9,179.9,6.7,27.4,5.7,178.8,6.0,Governador Magalhães Pinto,24035
+Santos,2019,3,05/05/2019,16:00,Domingo,5,CSA,Empate,0,0,Visitante,Rodolpho Toski Marques,26.0,4.4,181.9,8.7,28.8,3.3,179.2,9.0,Estádio Rei Pelé,10313
+Santos,2019,12,28/07/2019,16:00,Domingo,7,Avaí,Vitória,3,1,Mandante,Reway Wagner,27.2,3.4,179.2,10.2,28.2,4.4,180.8,8.8,Estádio Urbano Caldeira,12787
+Santos,2019,15,18/08/2019,16:00,Domingo,8,Cruzeiro,Derrota,0,2,Visitante,Anderson Daronco,26.7,4.0,178.6,10.0,29.5,5.0,181.7,5.9,Governador Magalhães Pinto,43604
+Santos,2019,17,31/08/2019,19:00,Sábado,8,Chapecoense,Vitória,1,0,Visitante,Bruno Arleu de Araujo,26.8,3.4,179.8,10.1,30.0,4.9,178.8,5.4,Arena Condá,9052
+Santos,2019,22,29/09/2019,16:00,Domingo,9,CSA,Vitória,2,0,Mandante,Wagner do Nascimento Magalhaes,27.8,3.8,178.7,10.0,29.2,3.1,179.7,8.6,Estádio Urbano Caldeira,6615
+Santos,2019,31,06/11/2019,21:00,Quarta,11,Avaí,Vitória,2,1,Visitante,Marcelo de Lima Henrique,27.4,4.1,177.8,10.4,27.6,4.6,182.9,6.3,Estádio da Ressacada,4820
+Santos,2019,34,23/11/2019,21:00,Sábado,11,Cruzeiro,Vitória,4,1,Mandante,Leandro Pedro Vuaden,28.2,4.3,178.0,10.2,28.4,6.2,180.9,5.9,Estádio Urbano Caldeira,7905
+Santos,2019,36,01/12/2019,19:00,Domingo,12,Chapecoense,Vitória,2,0,Mandante,Marielson Alves Silva,27.9,4.3,179.9,8.3,30.3,4.5,179.3,6.8,Estádio Urbano Caldeira,6961
+São Paulo,2019,7,02/06/2019,16:00,Domingo,6,Cruzeiro,Empate,1,1,Mandante,Braulio Da Silva Machado,27.7,4.3,180.2,4.4,32.3,3.4,180.5,7.5,MorumBIS,8517
+São Paulo,2019,8,08/06/2019,21:00,Sábado,6,Avaí,Empate,0,0,Visitante,Caio Max Augusto Vieira,27.4,4.0,179.6,4.7,26.0,4.2,181.5,6.6,Estádio da Ressacada,8084
+São Paulo,2019,11,22/07/2019,20:00,Segunda,7,Chapecoense,Vitória,4,0,Mandante,Savio Pereira Sampaio,26.4,4.4,179.3,5.5,28.9,4.9,179.2,6.0,MorumBIS,35558
+São Paulo,2019,19,15/09/2019,19:00,Domingo,9,CSA,Empate,1,1,Mandante,Heber Roberto Lopes,28.4,4.6,179.2,5.9,29.3,4.3,179.6,8.2,MorumBIS,29779
+São Paulo,2019,26,16/10/2019,21:00,Quarta,10,Cruzeiro,Derrota,0,1,Visitante,Wilton Pereira Sampaio,28.9,5.1,179.1,5.6,31.1,5.6,182.3,6.4,Governador Magalhães Pinto,30969
+São Paulo,2019,27,20/10/2019,16:00,Domingo,10,Avaí,Vitória,1,0,Mandante,Dewson Fernando Freitas da Silva,26.3,4.7,179.4,5.9,27.4,4.3,181.4,5.6,MorumBIS,20763
+São Paulo,2019,30,02/11/2019,21:00,Sábado,11,Chapecoense,Vitória,3,0,Visitante,Anderson Daronco,27.2,4.6,180.7,5.5,29.8,4.0,178.2,5.3,Arena Condá,14206
+São Paulo,2019,38,08/12/2019,16:00,Domingo,12,CSA,Vitória,2,1,Visitante,Alisson Sidnei Furtado,21.0,1.5,179.6,6.8,27.4,4.0,180.0,8.8,Estádio Rei Pelé,7810
+Vasco da Gama,2019,5,19/05/2019,19:00,Domingo,5,Avaí,Empate,1,1,Mandante,Ricardo Marques Ribeiro,27.1,5.2,180.5,7.2,26.5,3.8,179.8,6.8,Estádio São Januário,13924
+Vasco da Gama,2019,13,04/08/2019,19:00,Domingo,8,CSA,Empate,0,0,Mandante,Marielson Alves Silva,27.3,5.3,182.5,6.6,31.6,2.5,179.7,8.1,Estádio São Januário,9631
+Vasco da Gama,2019,17,01/09/2019,19:00,Domingo,9,Cruzeiro,Derrota,0,1,Visitante,Heber Roberto Lopes,25.5,4.5,182.6,6.9,29.9,5.0,181.1,6.7,Governador Magalhães Pinto,26052
+Vasco da Gama,2019,19,14/09/2019,19:00,Sábado,9,Chapecoense,Vitória,2,1,Visitante,Flavio Rodrigues De Souza,26.6,4.7,183.5,5.6,29.9,4.0,179.4,3.7,Arena Condá,8808
+Vasco da Gama,2019,24,10/10/2019,19:15,Quinta,10,Avaí,Empate,0,0,Visitante,Paulo Roberto Alves Junior,25.7,4.4,182.3,6.8,28.4,4.9,179.1,6.5,Estádio da Ressacada,7401
+Vasco da Gama,2019,32,10/11/2019,19:00,Domingo,11,CSA,Vitória,3,0,Visitante,Rodrigo D'alonso Ferreira,26.5,3.5,181.9,6.7,29.8,3.0,180.5,7.2,Estádio Rei Pelé,14690
+Vasco da Gama,2019,36,02/12/2019,20:00,Segunda,12,Cruzeiro,Vitória,1,0,Mandante,Wilton Pereira Sampaio,27.5,4.7,181.5,7.5,28.3,5.9,181.7,3.7,Estádio São Januário,19796
+Vasco da Gama,2019,38,08/12/2019,16:00,Domingo,12,Chapecoense,Empate,1,1,Mandante,Pablo Ramon Goncalves Pinheiro,28.0,4.5,180.6,6.8,30.2,4.7,178.3,6.5,Estádio São Januário,61021
+Atlético Mineiro,2020,4,19/08/2020,21:30,Quarta,8,Botafogo,Derrota,1,2,Visitante,Flavio Rodrigues De Souza,25.0,3.5,178.9,7.7,25.4,4.0,182.5,6.4,Estadio Nilton Santos,0
+Atlético Mineiro,2020,8,06/09/2020,20:30,Domingo,9,Coritiba,Vitória,1,0,Visitante,Diego Pombo Lopez,26.2,3.1,177.6,7.4,28.0,3.8,180.2,4.1,Estádio Major Antônio Couto Pereira,0
+Atlético Mineiro,2020,13,04/10/2020,20:30,Domingo,10,Vasco da Gama,Vitória,4,1,Mandante,Leandro Pedro Vuaden,26.9,4.1,178.5,7.6,26.0,5.6,179.4,6.2,Arena Independência,0
+Atlético Mineiro,2020,15,10/10/2020,21:00,Sábado,10,Goiás,Vitória,3,0,Mandante,Vinicius Goncalves Dias Araujo,26.5,4.9,179.6,7.5,26.7,4.9,181.8,5.4,Arena Independência,0
+Atlético Mineiro,2020,23,25/11/2020,21:30,Quarta,11,Botafogo,Vitória,2,1,Mandante,Savio Pereira Sampaio,26.3,3.2,178.2,7.5,25.9,4.5,180.1,6.0,Governador Magalhães Pinto,0
+Atlético Mineiro,2020,27,26/12/2020,17:00,Sábado,12,Coritiba,Vitória,2,0,Mandante,Dyorgines Jose Padovani de Andrade,27.5,4.2,178.1,7.8,28.7,5.6,177.7,7.5,Governador Magalhães Pinto,0
+Atlético Mineiro,2020,32,23/01/2021,21:00,Sábado,1,Vasco da Gama,Derrota,2,3,Visitante,Vinicius Goncalves Dias Araujo,26.8,3.0,177.3,6.5,28.3,5.7,179.1,7.1,Estádio São Januário,0
+Atlético Mineiro,2020,34,03/02/2021,21:30,Quarta,2,Goiás,Derrota,0,1,Visitante,Bruno Arleu de Araujo,27.5,3.9,178.5,7.8,24.9,4.9,183.4,6.3,Serra Dourada,0
+Bahia,2020,2,12/08/2020,20:30,Quarta,8,Coritiba,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,28.0,3.9,177.2,7.3,26.7,5.1,179.5,5.3,Arena Fonte Nova,0
+Bahia,2020,1,30/09/2020,21:30,Quarta,9,Botafogo,Vitória,2,1,Visitante,Savio Pereira Sampaio,29.0,5.2,177.5,8.3,26.6,5.4,182.1,6.0,Estadio Nilton Santos,0
+Bahia,2020,14,07/10/2020,19:15,Quarta,10,Vasco da Gama,Vitória,3,0,Mandante,Jean Pierre Goncalves Lima,29.0,4.1,179.1,8.1,26.8,5.8,178.7,6.5,Arena Fonte Nova,0
+Bahia,2020,16,16/10/2020,20:00,Sexta,10,Goiás,Empate,1,1,Visitante,Rodrigo Carvalhaes de Miranda,29.3,4.3,177.6,8.5,28.3,4.7,180.6,8.9,Serra Dourada,0
+Bahia,2020,20,08/11/2020,18:15,Domingo,11,Botafogo,Vitória,1,0,Mandante,Jefferson Ferreira de Moraes,29.4,4.7,177.6,8.0,25.6,2.8,179.9,6.1,Arena Fonte Nova,0
+Bahia,2020,21,16/11/2020,18:00,Segunda,11,Coritiba,Vitória,2,1,Visitante,Igor Junio Benevenuto,28.5,4.9,179.0,7.5,27.5,4.0,179.0,6.4,Estádio Major Antônio Couto Pereira,0
+Bahia,2020,33,31/01/2021,16:00,Domingo,1,Vasco da Gama,Empate,0,0,Visitante,Wilton Pereira Sampaio,27.6,4.5,179.8,6.6,28.3,5.7,179.5,7.7,Estádio São Januário,0
+Bahia,2020,35,06/02/2021,19:00,Sábado,2,Goiás,Empate,3,3,Mandante,Rafael Traci,29.1,5.2,178.9,7.0,25.0,4.8,182.7,7.7,Arena Fonte Nova,0
+Botafogo,2020,7,02/09/2020,20:30,Quarta,09,Coritiba,Empate,0,0,Mandante,Felipe Fernandes de Lima,27.6,5.2,182.0,5.5,27.6,3.7,179.2,5.7,Estadio Nilton Santos,0
+Botafogo,2020,10,13/09/2020,20:30,Domingo,09,Vasco da Gama,Derrota,2,3,Mandante,Wilton Pereira Sampaio,26.5,5.2,180.5,6.2,27.6,5.0,179.8,6.2,Estadio Nilton Santos,0
+Botafogo,2020,17,19/10/2020,20:00,Segunda,10,Goiás,Empate,0,0,Mandante,Edina Alves Batista,26.7,5.2,180.5,6.2,27.1,4.2,179.7,8.4,Estadio Nilton Santos,0
+Botafogo,2020,26,19/12/2020,21:00,Sábado,12,Coritiba,Vitória,2,1,Visitante,Luiz Flávio de Oliveira,27.6,5.7,180.9,6.0,29.6,4.9,179.4,7.7,Estádio Major Antônio Couto Pereira,0
+Botafogo,2020,29,10/01/2021,20:30,Domingo,01,Vasco da Gama,Derrota,0,3,Visitante,Raphael Claus,25.2,5.5,181.2,8.1,27.3,6.1,178.0,6.8,Estádio São Januário,0
+Botafogo,2020,36,13/02/2021,17:00,Sábado,02,Goiás,Derrota,0,2,Visitante,Felipe Fernandes de Lima,21.2,2.4,181.3,6.6,26.1,6.1,183.2,5.4,Serra Dourada,0
+Corinthians,2020,4,19/08/2020,21:30,Quarta,8,Coritiba,Vitória,3,1,Mandante,Braulio Da Silva Machado,29.0,3.5,179.6,9.0,28.2,4.3,179.5,7.2,Neo Química Arena,0
+Corinthians,2020,7,02/09/2020,19:15,Quarta,9,Goiás,Vitória,2,1,Visitante,Jose Mendonca da Silva Junior,28.9,4.2,180.1,9.0,27.0,3.4,178.2,7.9,Serra Dourada,0
+Corinthians,2020,8,05/09/2020,19:00,Sábado,9,Botafogo,Empate,2,2,Mandante,Rafael Traci,28.5,4.5,179.5,9.2,27.8,4.9,181.4,6.0,Neo Química Arena,0
+Corinthians,2020,18,21/10/2020,21:30,Quarta,10,Vasco da Gama,Vitória,2,1,Visitante,Caio Max Augusto Vieira,27.4,5.4,178.6,8.6,25.0,5.3,179.9,6.2,Estádio São Januário,0
+Corinthians,2020,23,25/11/2020,21:30,Quarta,11,Coritiba,Vitória,1,0,Visitante,Leandro Pedro Vuaden,27.9,5.7,179.8,7.2,29.1,5.2,180.0,7.3,Estádio Major Antônio Couto Pereira,0
+Corinthians,2020,26,21/12/2020,20:00,Segunda,12,Goiás,Vitória,2,1,Mandante,Bruno Arleu de Araujo,29.6,4.3,177.2,10.3,25.7,5.4,184.5,7.1,Neo Química Arena,0
+Corinthians,2020,27,27/12/2020,16:00,Domingo,12,Botafogo,Vitória,2,0,Visitante,Heber Roberto Lopes,30.2,3.4,176.5,9.4,27.0,5.4,180.4,5.9,Estadio Nilton Santos,0
+Corinthians,2020,37,21/02/2021,16:00,Domingo,2,Vasco da Gama,Empate,0,0,Mandante,Anderson Daronco,28.5,4.4,177.5,8.9,27.8,5.8,179.5,6.0,Neo Química Arena,0
+Flamengo,2020,3,15/08/2020,19:30,Sábado,8,Coritiba,Vitória,1,0,Visitante,Rodrigo D'alonso Ferreira,27.3,3.6,182.1,5.8,27.9,4.9,181.6,5.3,Estádio Major Antônio Couto Pereira,0
+Flamengo,2020,5,23/08/2020,11:00,Domingo,8,Botafogo,Empate,1,1,Mandante,Leandro Pedro Vuaden,28.8,4.9,179.9,5.5,26.3,4.9,181.1,5.9,Estádio do Maracanã,0
+Flamengo,2020,15,10/10/2020,17:00,Sábado,10,Vasco da Gama,Vitória,2,1,Visitante,Flavio Rodrigues De Souza,26.7,5.0,183.9,8.0,26.4,5.4,179.5,5.7,Estádio São Januário,0
+Flamengo,2020,11,13/10/2020,18:00,Terça,10,Goiás,Vitória,2,1,Mandante,Paulo Roberto Alves Junior,25.2,4.4,183.2,9.0,27.5,4.9,179.9,8.6,Estádio do Maracanã,0
+Flamengo,2020,22,21/11/2020,19:00,Sábado,11,Coritiba,Vitória,3,1,Mandante,Ricardo Marques Ribeiro,28.2,3.9,180.6,5.4,27.9,4.0,180.4,4.9,Estádio do Maracanã,0
+Flamengo,2020,24,05/12/2020,17:00,Sábado,12,Botafogo,Vitória,1,0,Visitante,Anderson Daronco,29.3,4.0,182.4,6.0,27.1,5.0,180.0,5.7,Estadio Nilton Santos,0
+Flamengo,2020,30,18/01/2021,20:00,Segunda,1,Goiás,Vitória,3,0,Visitante,Rodolpho Toski Marques,29.4,4.2,181.6,8.1,27.7,5.4,183.7,6.3,Serra Dourada,0
+Flamengo,2020,34,04/02/2021,21:00,Quinta,2,Vasco da Gama,Vitória,2,0,Mandante,Raphael Claus,29.1,4.4,181.8,8.2,27.5,5.3,178.4,7.2,Estádio do Maracanã,0
+Fluminense,2020,6,29/08/2020,19:00,Sábado,8,Vasco da Gama,Vitória,2,1,Mandante,Braulio Da Silva Machado,25.8,5.9,180.5,6.1,27.8,4.8,178.9,6.2,Estádio do Maracanã,0
+Fluminense,2020,12,28/09/2020,20:00,Segunda,9,Coritiba,Vitória,4,0,Mandante,Vinicius Goncalves Dias Araujo,30.3,5.4,181.0,7.2,27.0,4.9,180.0,4.4,Estádio do Maracanã,0
+Fluminense,2020,13,04/10/2020,11:00,Domingo,10,Botafogo,Empate,1,1,Visitante,Anderson Daronco,29.7,5.9,181.5,6.6,26.6,5.3,180.5,6.3,Estadio Nilton Santos,0
+Fluminense,2020,14,07/10/2020,20:30,Quarta,10,Goiás,Vitória,4,2,Visitante,Luiz Flávio de Oliveira,29.6,5.6,180.8,6.6,26.2,5.4,178.6,6.4,Serra Dourada,0
+Fluminense,2020,25,13/12/2020,20:30,Domingo,12,Vasco da Gama,Empate,1,1,Visitante,Rodolpho Toski Marques,29.2,5.6,180.9,5.7,28.8,4.9,179.8,6.3,Estádio São Januário,0
+Fluminense,2020,31,20/01/2021,20:30,Quarta,1,Coritiba,Empate,3,3,Visitante,Felipe Fernandes de Lima,27.4,6.4,180.2,5.7,25.2,5.1,179.5,6.3,Estádio Major Antônio Couto Pereira,0
+Fluminense,2020,32,24/01/2021,20:30,Domingo,1,Botafogo,Vitória,2,0,Mandante,Edina Alves Batista,26.0,6.6,179.2,5.6,25.7,5.1,181.4,5.5,Estádio do Maracanã,0
+Fluminense,2020,33,31/01/2021,20:30,Domingo,1,Goiás,Vitória,3,0,Mandante,Raphael Claus,28.3,7.0,180.7,5.1,27.0,5.8,185.1,4.9,Estádio do Maracanã,0
+Grêmio,2020,5,23/08/2020,16:00,Domingo,8,Vasco da Gama,Empate,0,0,Visitante,Savio Pereira Sampaio,27.4,4.3,180.3,4.4,26.8,5.5,179.8,5.7,Estádio São Januário,0
+Grêmio,2020,14,07/10/2020,19:15,Quarta,10,Coritiba,Vitória,2,1,Mandante,Ramon Abatti Abel,29.9,4.7,180.9,6.7,26.3,4.9,181.7,4.9,Arena do Grêmio,0
+Grêmio,2020,16,14/10/2020,19:15,Quarta,10,Botafogo,Vitória,3,1,Mandante,Luiz Flávio de Oliveira,30.3,5.1,181.3,7.5,25.3,5.2,181.4,7.8,Arena do Grêmio,0
+Grêmio,2020,6,30/11/2020,18:00,Segunda,11,Goiás,Vitória,2,1,Mandante,Rodrigo D'alonso Ferreira,29.1,5.8,182.9,6.1,26.3,4.7,182.1,9.1,Arena do Grêmio,0
+Grêmio,2020,24,06/12/2020,16:00,Domingo,12,Vasco da Gama,Vitória,4,0,Mandante,Raphael Claus,30.3,4.9,181.2,5.4,27.0,5.5,182.4,6.1,Arena do Grêmio,0
+Grêmio,2020,25,12/12/2020,21:00,Sábado,12,Goiás,Empate,0,0,Visitante,Edina Alves Batista,27.4,4.6,181.2,6.3,27.2,5.6,185.9,5.9,Serra Dourada,0
+Grêmio,2020,33,31/01/2021,16:00,Domingo,1,Coritiba,Empate,1,1,Visitante,Vinicius Goncalves Dias Araujo,27.2,5.1,179.6,5.3,25.9,4.9,178.7,5.7,Estádio Major Antônio Couto Pereira,0
+Grêmio,2020,35,08/02/2021,20:00,Segunda,2,Botafogo,Vitória,5,2,Visitante,Rodrigo D'alonso Ferreira,28.9,5.4,180.7,5.3,21.4,2.4,180.4,6.4,Estadio Nilton Santos,0
+Internacional,2020,1,08/08/2020,19:30,Sábado,8,Coritiba,Vitória,1,0,Visitante,Bruno Arleu de Araujo,27.7,5.1,182.5,5.2,28.1,4.5,180.5,4.4,Estádio Major Antônio Couto Pereira,0
+Internacional,2020,6,29/08/2020,17:00,Sábado,8,Botafogo,Vitória,2,0,Visitante,Thiago Duarte Peixoto,29.5,4.7,180.2,4.9,26.0,4.1,181.8,7.3,Estadio Nilton Santos,0
+Internacional,2020,10,13/09/2020,18:00,Domingo,9,Goiás,Derrota,0,1,Visitante,Flavio Rodrigues De Souza,28.8,5.9,181.2,5.6,28.0,5.0,179.9,8.9,Serra Dourada,0
+Internacional,2020,17,18/10/2020,18:15,Domingo,10,Vasco da Gama,Vitória,2,0,Mandante,Braulio Da Silva Machado,29.6,3.3,180.4,5.0,27.0,5.2,179.2,6.1,Estádio Beira-Rio,0
+Internacional,2020,20,08/11/2020,16:00,Domingo,11,Coritiba,Empate,2,2,Mandante,Dyorgines Jose Padovani de Andrade,27.2,4.8,180.8,5.2,28.9,5.2,179.5,5.2,Estádio Beira-Rio,0
+Internacional,2020,25,12/12/2020,19:00,Sábado,12,Botafogo,Vitória,2,1,Mandante,Caio Max Augusto Vieira,29.2,4.0,181.0,5.3,26.3,5.1,181.2,6.6,Estádio Beira-Rio,0
+Internacional,2020,29,10/01/2021,18:15,Domingo,1,Goiás,Vitória,1,0,Mandante,Edina Alves Batista,27.5,4.9,181.7,5.5,27.6,5.4,183.7,6.3,Estádio Beira-Rio,0
+Internacional,2020,36,14/02/2021,16:00,Domingo,2,Vasco da Gama,Vitória,2,0,Visitante,Flavio Rodrigues De Souza,25.5,5.3,181.9,5.9,28.2,5.7,179.4,6.1,Estádio São Januário,0
+Palmeiras,2020,3,15/08/2020,21:30,Sábado,8,Goiás,Empate,1,1,Mandante,Paulo Roberto Alves Junior,28.2,5.0,180.1,5.1,26.0,4.0,179.5,5.6,Nubank Parque,0
+Palmeiras,2020,14,07/10/2020,21:30,Quarta,10,Botafogo,Derrota,1,2,Visitante,Rodolpho Toski Marques,29.3,5.7,178.0,5.6,26.4,5.2,181.6,6.8,Estadio Nilton Santos,0
+Palmeiras,2020,16,14/10/2020,18:00,Quarta,10,Coritiba,Derrota,1,3,Mandante,Jefferson Ferreira de Moraes,26.1,6.6,179.1,4.9,26.0,5.4,180.0,5.0,Nubank Parque,0
+Palmeiras,2020,20,08/11/2020,16:00,Domingo,11,Vasco da Gama,Vitória,1,0,Visitante,Anderson Daronco,27.1,5.5,179.6,6.0,27.5,5.8,180.6,5.7,Estádio São Januário,0
+Palmeiras,2020,22,21/11/2020,21:00,Sábado,11,Goiás,Derrota,0,1,Visitante,Bruno Arleu de Araujo,27.4,5.6,179.9,6.3,27.0,4.2,180.1,9.7,Serra Dourada,0
+Palmeiras,2020,1,26/01/2021,20:00,Terça,1,Vasco da Gama,Empate,1,1,Mandante,Anderson Daronco,27.1,6.5,180.1,4.7,27.4,5.5,179.2,7.5,Nubank Parque,0
+Palmeiras,2020,33,02/02/2021,16:00,Terça,2,Botafogo,Empate,1,1,Mandante,Felipe Fernandes de Lima,28.1,5.3,180.5,4.9,24.2,6.2,181.7,6.4,Nubank Parque,0
+Palmeiras,2020,35,17/02/2021,19:30,Quarta,2,Coritiba,Derrota,0,1,Visitante,Ramon Abatti Abel,25.7,5.1,179.5,6.9,27.5,5.6,181.8,7.2,Estádio Major Antônio Couto Pereira,0
+Santos,2020,7,02/09/2020,21:30,Quarta,9,Vasco da Gama,Empate,2,2,Mandante,Rodrigo Dalonso Ferreira,27.4,4.2,177.0,8.4,26.4,4.8,179.3,7.3,Estádio Urbano Caldeira,0
+Santos,2020,11,20/09/2020,18:15,Domingo,9,Botafogo,Empate,0,0,Visitante,Jose Mendonca da Silva Junior,27.4,4.3,177.9,7.3,25.2,4.5,181.2,6.3,Estadio Nilton Santos,0
+Santos,2020,13,04/10/2020,18:15,Domingo,10,Goiás,Vitória,3,2,Visitante,Marielson Alves Silva,25.9,4.1,179.9,6.4,28.0,5.0,179.9,8.9,Serra Dourada,0
+Santos,2020,17,17/10/2020,19:00,Sábado,10,Coritiba,Vitória,2,1,Visitante,Bruno Arleu de Araujo,25.2,2.8,180.4,8.6,25.7,5.3,179.8,4.7,Estádio Major Antônio Couto Pereira,0
+Santos,2020,26,20/12/2020,16:00,Domingo,12,Vasco da Gama,Derrota,0,1,Visitante,Ricardo Marques Ribeiro,24.0,3.6,181.5,7.5,28.0,5.6,179.3,6.0,Estádio São Januário,0
+Santos,2020,30,17/01/2021,16:00,Domingo,1,Botafogo,Vitória,2,1,Mandante,Leandro Pedro Vuaden,25.7,5.1,178.4,9.3,24.7,1.8,181.4,6.4,Estádio Urbano Caldeira,0
+Santos,2020,32,24/01/2021,18:15,Domingo,1,Goiás,Derrota,3,4,Mandante,Wagner do Nascimento Magalhaes,25.4,4.6,178.8,10.1,25.3,5.6,184.8,6.2,Estádio Urbano Caldeira,0
+Santos,2020,36,13/02/2021,19:00,Sábado,2,Coritiba,Vitória,2,0,Mandante,Bruno Arleu de Araujo,25.7,4.6,178.8,9.1,26.1,5.5,180.6,6.5,Estádio Urbano Caldeira,0
+São Paulo,2020,3,16/08/2020,16:00,Domingo,8,Vasco da Gama,Derrota,1,2,Visitante,Wilton Pereira Sampaio,28.5,4.9,179.8,5.8,26.4,5.7,179.1,5.8,Estádio São Januário,0
+São Paulo,2020,13,04/10/2020,16:00,Domingo,10,Coritiba,Empate,1,1,Visitante,Wagner do Nascimento Magalhaes,27.8,5.3,180.6,4.6,27.2,4.3,182.3,4.0,Estádio Major Antônio Couto Pereira,0
+São Paulo,2020,20,07/11/2020,19:00,Sábado,11,Goiás,Vitória,2,1,Mandante,Gilberto Rodrigues Castro Junior,26.1,4.9,180.7,4.2,27.6,4.8,182.8,6.3,MorumBIS,0
+São Paulo,2020,22,22/11/2020,16:00,Domingo,11,Vasco da Gama,Empate,1,1,Mandante,Braulio Da Silva Machado,27.4,5.7,179.6,4.7,25.5,4.1,178.3,6.5,MorumBIS,0
+São Paulo,2020,1,03/12/2020,19:00,Quinta,12,Goiás,Vitória,3,0,Visitante,Caio Max Augusto Vieira,27.9,5.6,180.0,5.1,26.1,4.8,180.3,10.4,Serra Dourada,0
+São Paulo,2020,18,09/12/2020,21:30,Quarta,12,Botafogo,Vitória,4,0,Mandante,Ricardo Marques Ribeiro,27.0,4.7,180.3,4.7,27.1,5.0,180.3,7.0,MorumBIS,0
+São Paulo,2020,32,23/01/2021,19:00,Sábado,1,Coritiba,Empate,1,1,Mandante,Rodrigo D'alonso Ferreira,28.6,5.2,179.7,5.3,26.7,6.0,178.5,5.5,MorumBIS,0
+São Paulo,2020,37,22/02/2021,20:00,Segunda,2,Botafogo,Derrota,0,1,Visitante,Braulio Da Silva Machado,27.3,4.6,180.4,4.7,22.1,2.2,178.1,6.6,Estadio Nilton Santos,0
+Vasco da Gama,2020,10,13/09/2020,20:30,Domingo,09,Botafogo,Vitória,3,2,Visitante,Wilton Pereira Sampaio,27.6,5.0,179.8,6.2,26.5,5.2,180.5,6.2,Estadio Nilton Santos,0
+Vasco da Gama,2020,11,20/09/2020,16:00,Domingo,09,Coritiba,Derrota,0,1,Visitante,Luiz Flávio de Oliveira,25.8,5.4,181.7,6.6,26.3,4.9,180.2,4.3,Estádio Major Antônio Couto Pereira,0
+Vasco da Gama,2020,19,01/11/2020,20:30,Domingo,11,Goiás,Empate,1,1,Visitante,Igor Junio Benevenuto,25.6,5.5,179.6,6.3,26.8,5.0,181.0,9.1,Serra Dourada,0
+Vasco da Gama,2020,29,10/01/2021,20:30,Domingo,01,Botafogo,Vitória,3,0,Mandante,Raphael Claus,27.3,6.1,178.0,6.8,25.2,5.5,181.2,8.1,Estádio São Januário,0
+Vasco da Gama,2020,30,16/01/2021,21:00,Sábado,01,Coritiba,Derrota,0,1,Mandante,Flavio Rodrigues De Souza,28.5,6.1,178.8,6.7,24.8,4.9,180.0,6.3,Estádio São Januário,0
+Vasco da Gama,2020,38,25/02/2021,21:30,Quinta,02,Goiás,Vitória,3,2,Mandante,Leandro Pedro Vuaden,27.8,5.8,179.5,6.0,26.2,5.6,182.9,6.9,Estádio São Januário,0
+Atlético Mineiro,2021,2,06/06/2021,20:30,Domingo,6,Sport Recife,Vitória,1,0,Visitante,Raphael Claus,29.8,4.2,180.3,7.6,27.3,4.0,181.4,8.0,Ilha do Retiro,0
+Atlético Mineiro,2021,5,21/06/2021,20:00,Segunda,6,Chapecoense,Empate,1,1,Mandante,Rodolpho Toski Marques,28.7,4.2,178.9,6.9,26.1,4.5,181.9,6.9,Governador Magalhães Pinto,0
+Atlético Mineiro,2021,13,25/07/2021,11:00,Domingo,7,Bahia,Vitória,3,0,Mandante,Antonio Dib Moraes de Sousa,27.7,4.9,179.3,6.0,27.9,5.0,179.9,6.7,Governador Magalhães Pinto,0
+Atlético Mineiro,2021,21,18/09/2021,19:00,Sábado,9,Sport Recife,Vitória,3,0,Mandante,Vinicius Goncalves Dias Araujo,28.1,4.1,178.9,6.8,28.0,3.9,182.0,7.9,Governador Magalhães Pinto,0
+Atlético Mineiro,2021,24,06/10/2021,19:00,Quarta,10,Chapecoense,Empate,2,2,Visitante,Andre Luiz de Freitas Castro,27.8,4.4,180.0,6.3,26.2,3.6,181.3,7.1,Arena Condá,733
+Atlético Mineiro,2021,19,03/11/2021,21:00,Quarta,11,Grêmio,Vitória,2,1,Mandante,Luiz Flávio de Oliveira,29.3,4.6,180.5,7.5,29.1,5.1,181.1,6.3,Governador Magalhães Pinto,55624
+Atlético Mineiro,2021,32,02/12/2021,18:00,Quinta,12,Bahia,Vitória,3,2,Visitante,Flavio Rodrigues De Souza,29.9,4.0,179.1,5.9,29.0,4.6,180.3,8.7,Arena Fonte Nova,29415
+Atlético Mineiro,2021,38,09/12/2021,21:30,Quinta,12,Grêmio,Derrota,3,4,Visitante,Raphael Claus,26.3,4.3,178.0,7.0,28.0,5.3,180.4,7.3,Arena do Grêmio,33577
+Bahia,2021,9,04/07/2021,11:00,Domingo,07,Chapecoense,Vitória,2,0,Visitante,Edina Alves Batista,27.1,4.2,181.1,6.7,26.8,4.3,181.4,5.7,Arena Condá,0
+Bahia,2021,14,01/08/2021,18:15,Domingo,08,Sport Recife,Derrota,0,1,Mandante,Jefferson Ferreira de Moraes,28.9,4.4,180.4,8.1,26.4,2.0,181.7,8.0,Arena Fonte Nova,0
+Bahia,2021,17,21/08/2021,19:00,Sábado,08,Grêmio,Derrota,0,2,Visitante,Caio Max Augusto Vieira,27.2,4.4,181.1,8.1,27.3,4.9,179.9,6.8,Arena do Grêmio,0
+Bahia,2021,28,24/10/2021,20:30,Domingo,10,Chapecoense,Vitória,3,0,Mandante,Wilton Pereira Sampaio,28.3,5.2,180.2,8.4,26.2,3.5,183.4,5.7,Arena Fonte Nova,8058
+Bahia,2021,33,18/11/2021,21:00,Quinta,11,Sport Recife,Derrota,0,1,Visitante,Flavio Rodrigues De Souza,28.1,4.3,180.4,8.5,26.5,4.8,181.5,7.7,Arena de Pernambuco,8096
+Bahia,2021,36,26/11/2021,19:00,Sexta,11,Grêmio,Vitória,3,1,Mandante,Bruno Arleu de Araujo,28.3,5.0,180.1,8.5,27.6,5.2,181.2,5.8,Arena Fonte Nova,29576
+Corinthians,2021,5,20/06/2021,16:00,Domingo,6,Bahia,Empate,0,0,Visitante,Bruno Arleu de Araujo,29.4,4.8,179.8,9.2,26.1,3.7,180.5,6.1,Arena Fonte Nova,0
+Corinthians,2021,6,24/06/2021,19:00,Quinta,6,Sport Recife,Vitória,2,1,Mandante,Paulo Roberto Alves Junior,28.9,5.1,180.1,8.9,25.3,4.0,184.2,7.8,Neo Química Arena,0
+Corinthians,2021,10,08/07/2021,21:00,Quinta,7,Chapecoense,Vitória,1,0,Visitante,Ricardo Marques Ribeiro,29.0,5.1,180.1,8.9,26.7,4.4,182.0,6.8,Arena Condá,0
+Corinthians,2021,18,28/08/2021,21:00,Sábado,8,Grêmio,Vitória,1,0,Visitante,Ricardo Marques Ribeiro,29.0,5.2,179.9,8.8,25.6,4.8,179.3,7.2,Arena do Grêmio,0
+Corinthians,2021,24,05/10/2021,21:30,Terça,10,Bahia,Vitória,3,1,Mandante,Denis da Silva Ribeiro Serafim,28.8,5.3,180.7,8.0,26.7,4.4,182.1,8.2,Neo Química Arena,10470
+Corinthians,2021,25,09/10/2021,16:30,Sábado,10,Sport Recife,Derrota,0,1,Visitante,Savio Pereira Sampaio,30.3,5.1,182.3,7.9,25.1,3.7,181.1,7.8,Arena de Pernambuco,2697
+Corinthians,2021,29,01/11/2021,21:30,Segunda,11,Chapecoense,Vitória,1,0,Mandante,Paulo Cesar Zanovelli da Silva,27.9,5.8,179.0,7.5,27.4,3.4,182.9,5.5,Neo Química Arena,39897
+Corinthians,2021,37,05/12/2021,16:00,Domingo,12,Grêmio,Empate,1,1,Mandante,Bruno Arleu de Araujo,30.1,5.5,182.3,7.4,29.0,5.7,180.8,6.8,Neo Química Arena,44187
+Flamengo,2021,11,11/07/2021,18:15,Domingo,7,Chapecoense,Vitória,2,1,Mandante,Paulo Cesar Zanovelli da Silva,28.7,4.9,182.4,6.3,26.0,4.6,182.5,6.4,Estádio do Maracanã,0
+Flamengo,2021,12,18/07/2021,18:15,Domingo,7,Bahia,Vitória,5,0,Visitante,Wilton Pereira Sampaio,30.4,4.3,179.5,8.0,28.0,4.9,180.2,6.8,Arena Fonte Nova,0
+Flamengo,2021,16,15/08/2021,16:00,Domingo,8,Sport Recife,Vitória,2,0,Mandante,Raphael Claus,29.2,4.7,181.4,5.4,26.2,4.4,182.2,7.0,Estádio Raulino de Oliveira,0
+Flamengo,2021,21,19/09/2021,20:30,Domingo,9,Grêmio,Derrota,0,1,Mandante,Marielson Alves Silva,29.0,3.5,178.5,6.1,26.4,4.6,180.5,6.3,Estádio do Maracanã,0
+Flamengo,2021,30,08/11/2021,20:00,Segunda,11,Chapecoense,Empate,2,2,Visitante,Denis da Silva Ribeiro Serafim,25.9,4.0,178.5,6.5,27.1,3.0,182.5,5.8,Arena Condá,3834
+Flamengo,2021,31,11/11/2021,19:00,Quinta,11,Bahia,Vitória,3,0,Mandante,Andre Luiz de Freitas Castro,27.5,4.6,181.9,8.2,28.0,4.4,180.1,8.5,Estádio do Maracanã,3488
+Flamengo,2021,2,23/11/2021,21:00,Terça,11,Grêmio,Empate,2,2,Visitante,Braulio Da Silva Machado,26.8,4.3,182.5,8.4,28.7,6.2,181.1,7.1,Arena do Grêmio,0
+Flamengo,2021,35,03/12/2021,20:00,Sexta,12,Sport Recife,Empate,1,1,Visitante,Leandro Pedro Vuaden,27.9,4.6,180.2,8.9,26.5,4.8,181.5,7.7,Arena de Pernambuco,10733
+Fluminense,2021,11,10/07/2021,19:00,Sábado,7,Sport Recife,Vitória,2,1,Visitante,Antonio Dib Moraes de Sousa,29.2,6.3,180.2,6.4,28.9,3.6,182.7,7.1,Ilha do Retiro,0
+Fluminense,2021,12,17/07/2021,21:00,Sábado,7,Grêmio,Derrota,0,1,Mandante,Paulo Roberto Alves Junior,27.6,6.0,179.2,6.2,26.5,6.3,181.6,6.3,Estádio do Maracanã,0
+Fluminense,2021,18,30/08/2021,19:00,Segunda,8,Bahia,Vitória,2,0,Mandante,Edina Alves Batista,27.4,5.1,179.1,7.2,28.1,4.3,180.1,8.2,Estádio do Maracanã,0
+Fluminense,2021,19,07/09/2021,21:30,Terça,9,Chapecoense,Vitória,2,1,Visitante,Savio Pereira Sampaio,26.7,4.8,179.7,6.4,27.2,4.6,181.8,6.5,Arena Condá,0
+Fluminense,2021,30,06/11/2021,21:00,Sábado,11,Sport Recife,Vitória,1,0,Mandante,Jefferson Ferreira de Moraes,25.8,6.0,179.1,7.4,27.9,4.3,181.2,8.1,Estádio do Maracanã,3870
+Fluminense,2021,31,09/11/2021,21:30,Terça,11,Grêmio,Derrota,0,1,Visitante,Vinicius Goncalves Dias Araujo,24.2,4.6,178.5,6.6,26.7,6.0,180.8,7.0,Arena do Grêmio,0
+Fluminense,2021,37,05/12/2021,16:00,Domingo,12,Bahia,Derrota,0,2,Visitante,Luiz Flávio de Oliveira,28.2,5.1,179.9,6.5,28.4,4.8,179.7,8.7,Arena Fonte Nova,26048
+Fluminense,2021,38,09/12/2021,21:30,Quinta,12,Chapecoense,Vitória,3,0,Mandante,Leandro Pedro Vuaden,26.9,5.2,177.8,6.9,22.5,2.7,183.8,5.5,Estádio do Maracanã,48198
+Grêmio,2021,4,17/06/2021,19:00,Quinta,06,Sport Recife,Derrota,0,1,Visitante,Denis da Silva Ribeiro Serafim,30.1,5.4,180.5,5.2,27.0,2.5,182.7,8.6,Ilha do Retiro,0
+Grêmio,2021,15,09/08/2021,20:00,Segunda,08,Chapecoense,Vitória,2,1,Mandante,Marcelo de Lima Henrique,27.3,5.3,180.5,6.9,27.0,4.4,181.5,4.3,Arena do Grêmio,0
+Grêmio,2021,17,21/08/2021,19:00,Sábado,08,Bahia,Vitória,2,0,Mandante,Caio Max Augusto Vieira,27.3,4.9,179.9,6.8,27.2,4.4,181.1,8.1,Arena do Grêmio,0
+Grêmio,2021,23,03/10/2021,20:30,Domingo,10,Sport Recife,Derrota,1,2,Mandante,Felipe Fernandes de Lima,26.6,4.8,179.6,6.7,26.5,4.8,181.6,7.5,Arena do Grêmio,0
+Grêmio,2021,34,20/11/2021,19:00,Sábado,11,Chapecoense,Vitória,3,1,Visitante,Rodolpho Toski Marques,29.5,5.9,180.7,6.8,26.7,3.1,181.3,5.4,Arena Condá,2830
+Grêmio,2021,36,26/11/2021,19:00,Sexta,11,Bahia,Derrota,1,3,Visitante,Bruno Arleu de Araujo,27.6,5.2,181.2,5.8,28.3,5.0,180.1,8.5,Arena Fonte Nova,29576
+Internacional,2021,1,30/05/2021,20:30,Domingo,5,Sport Recife,Empate,2,2,Mandante,Vinicius Goncalves Dias Araujo,27.4,5.5,180.5,5.9,27.9,4.0,181.8,7.6,Estádio Beira-Rio,0
+Internacional,2021,3,13/06/2021,20:30,Domingo,6,Bahia,Vitória,1,0,Visitante,Wagner do Nascimento Magalhaes,26.3,5.4,181.1,6.0,26.1,3.7,180.5,6.1,Arena Fonte Nova,0
+Internacional,2021,6,24/06/2021,19:00,Quinta,6,Chapecoense,Vitória,2,1,Visitante,Alexandre Vargas Tavares de Jesus,24.9,4.5,181.0,6.1,25.6,4.5,181.2,7.2,Arena Condá,0
+Internacional,2021,11,10/07/2021,16:30,Sábado,7,Grêmio,Empate,0,0,Visitante,Flavio Rodrigues De Souza,27.1,4.4,180.6,5.5,28.9,6.0,180.9,6.6,Arena do Grêmio,0
+Internacional,2021,20,13/09/2021,20:00,Segunda,9,Sport Recife,Vitória,1,0,Visitante,Andre Luiz de Freitas Castro,26.5,4.7,180.5,5.0,26.6,3.0,183.4,7.1,Ilha do Retiro,0
+Internacional,2021,22,26/09/2021,16:00,Domingo,9,Bahia,Vitória,2,0,Mandante,Bruno Arleu de Araujo,27.1,5.1,180.6,5.3,30.3,4.4,180.9,8.6,Estádio Beira-Rio,0
+Internacional,2021,25,10/10/2021,11:00,Domingo,10,Chapecoense,Vitória,5,2,Mandante,Alisson Sidnei Furtado,27.3,4.5,181.3,5.2,25.6,4.2,180.5,6.3,Estádio Beira-Rio,11976
+Internacional,2021,30,06/11/2021,19:00,Sábado,11,Grêmio,Vitória,1,0,Mandante,Marcelo de Lima Henrique,29.1,4.5,181.3,5.0,29.9,4.7,180.7,6.1,Estádio Beira-Rio,23015
+Palmeiras,2021,2,06/06/2021,18:15,Domingo,6,Chapecoense,Vitória,3,1,Mandante,Leo Simao Holanda,27.4,5.5,179.3,5.3,26.0,3.6,180.2,4.9,Nubank Parque,0
+Palmeiras,2021,7,27/06/2021,20:00,Domingo,6,Bahia,Vitória,3,2,Mandante,Denis da Silva Ribeiro Serafim,28.4,5.1,179.7,5.4,27.4,4.5,179.8,7.4,Nubank Parque,0
+Palmeiras,2021,9,04/07/2021,16:00,Domingo,7,Sport Recife,Vitória,1,0,Visitante,Caio Max Augusto Vieira,28.7,6.1,180.3,4.3,27.9,3.3,181.4,8.3,Ilha do Retiro,0
+Palmeiras,2021,10,07/07/2021,19:00,Quarta,7,Grêmio,Vitória,2,0,Mandante,Felipe Fernandes de Lima,26.5,5.1,178.2,5.5,28.1,5.9,179.9,6.3,Nubank Parque,0
+Palmeiras,2021,21,18/09/2021,17:00,Sábado,9,Chapecoense,Vitória,2,0,Visitante,Paulo Roberto Alves Junior,29.0,5.1,180.3,6.0,26.2,4.1,182.5,6.5,Arena Condá,0
+Palmeiras,2021,26,12/10/2021,21:30,Terça,10,Bahia,Empate,0,0,Visitante,Ramon Abatti Abel,28.9,6.0,179.4,6.7,27.7,4.6,180.5,8.5,Arena Fonte Nova,4509
+Palmeiras,2021,28,25/10/2021,21:30,Segunda,10,Sport Recife,Vitória,2,1,Mandante,Wagner do Nascimento Magalhaes,29.4,5.0,179.3,7.0,24.8,3.5,182.4,7.6,Nubank Parque,13367
+Palmeiras,2021,29,31/10/2021,16:00,Domingo,10,Grêmio,Vitória,3,1,Visitante,Savio Pereira Sampaio,29.5,4.0,178.5,7.0,29.1,5.4,180.6,5.8,Arena do Grêmio,13799
+Santos,2021,1,29/05/2021,20:00,Sábado,5,Bahia,Derrota,0,3,Visitante,Bruno Arleu de Araujo,25.3,5.1,179.2,7.1,26.5,3.5,181.1,7.0,Arena Fonte Nova,0
+Santos,2021,6,24/06/2021,21:30,Quinta,6,Grêmio,Empate,2,2,Visitante,Caio Max Augusto Vieira,26.5,4.5,178.3,7.4,28.1,5.9,181.0,6.5,Arena do Grêmio,0
+Santos,2021,8,30/06/2021,20:30,Quarta,6,Sport Recife,Empate,0,0,Mandante,Douglas Schwengber da Silva,26.2,4.5,179.5,6.9,27.9,3.3,181.4,8.3,Estádio Urbano Caldeira,0
+Santos,2021,14,01/08/2021,18:15,Domingo,8,Chapecoense,Vitória,1,0,Visitante,Rodolpho Toski Marques,26.3,5.2,179.4,6.1,26.8,4.6,180.8,5.3,Arena Condá,0
+Santos,2021,20,11/09/2021,21:00,Sábado,9,Bahia,Empate,0,0,Mandante,Paulo Cesar Zanovelli da Silva,27.0,5.4,179.6,8.0,29.2,4.1,181.2,8.8,Estádio Urbano Caldeira,0
+Santos,2021,25,10/10/2021,16:00,Domingo,10,Grêmio,Vitória,1,0,Mandante,Bruno Arleu de Araujo,27.2,4.6,179.5,6.3,28.4,5.3,180.5,6.3,Estádio Urbano Caldeira,4165
+Santos,2021,27,17/10/2021,20:30,Domingo,10,Sport Recife,Empate,0,0,Visitante,Anderson Daronco,27.2,4.5,180.0,6.2,25.4,3.7,181.2,7.7,Arena de Pernambuco,5272
+Santos,2021,33,17/11/2021,19:00,Quarta,11,Chapecoense,Vitória,2,0,Mandante,Paulo Cesar Zanovelli da Silva,28.6,4.8,179.5,6.0,26.4,3.5,181.8,4.7,Estádio Urbano Caldeira,11574
+São Paulo,2021,4,16/06/2021,19:00,Quarta,6,Chapecoense,Empate,1,1,Mandante,Dyorgines Jose Padovani de Andrade,27.8,4.3,178.5,4.8,26.5,4.7,182.4,5.7,MorumBIS,0
+São Paulo,2021,11,10/07/2021,19:00,Sábado,7,Bahia,Vitória,1,0,Mandante,Marcelo de Lima Henrique,25.8,3.9,181.0,5.0,28.4,4.7,180.5,7.0,MorumBIS,0
+São Paulo,2021,16,14/08/2021,21:00,Sábado,8,Grêmio,Vitória,2,1,Mandante,Braulio Da Silva Machado,26.2,5.3,179.7,6.0,27.8,5.1,181.5,6.3,MorumBIS,0
+São Paulo,2021,17,22/08/2021,20:30,Domingo,8,Sport Recife,Vitória,1,0,Visitante,Paulo Roberto Alves Junior,29.4,5.0,180.3,5.8,27.5,4.1,180.7,7.5,Ilha do Retiro,0
+São Paulo,2021,23,03/10/2021,16:00,Domingo,10,Chapecoense,Empate,1,1,Visitante,Marielson Alves Silva,27.5,5.3,179.4,6.4,27.0,4.4,181.7,6.1,Arena Condá,0
+São Paulo,2021,30,07/11/2021,18:15,Domingo,11,Bahia,Derrota,0,1,Visitante,Savio Pereira Sampaio,28.0,4.3,181.7,4.0,27.8,4.6,180.5,8.5,Arena Fonte Nova,18178
+São Paulo,2021,36,27/11/2021,21:30,Sábado,11,Sport Recife,Vitória,2,0,Mandante,Heber Roberto Lopes,27.8,4.6,181.0,4.9,26.5,4.8,181.5,7.7,MorumBIS,35679
+São Paulo,2021,35,02/12/2021,20:00,Quinta,12,Grêmio,Derrota,0,3,Visitante,Savio Pereira Sampaio,26.9,4.7,180.3,5.8,29.8,5.3,180.2,7.3,Arena do Grêmio,8517
+Atlético Mineiro,2022,6,14/05/2022,19:00,Sábado,5,Atlético Goianiense,Vitória,2,0,Mandante,Anderson Daronco,28.4,4.0,178.7,6.3,26.1,2.5,180.1,6.0,Governador Magalhães Pinto,20749
+Atlético Mineiro,2022,8,29/05/2022,19:00,Domingo,5,Avaí,Vitória,2,1,Mandante,Jefferson Ferreira de Moraes,30.6,4.5,180.3,6.9,28.1,4.1,180.5,6.3,Governador Magalhães Pinto,31551
+Atlético Mineiro,2022,12,15/06/2022,19:00,Quarta,6,Ceará,Empate,0,0,Visitante,Luiz Flávio de Oliveira,29.1,4.9,180.0,5.4,29.3,3.6,182.2,9.1,Estádio Governador Plácido Castelo,26774
+Atlético Mineiro,2022,15,02/07/2022,16:30,Sábado,7,Juventude,Vitória,2,1,Visitante,Flavio Rodrigues De Souza,29.0,4.8,179.0,8.1,29.5,3.0,179.2,7.4,Estádio Alfredo Jaconi,6565
+Atlético Mineiro,2022,25,04/09/2022,18:00,Domingo,9,Atlético Goianiense,Vitória,2,0,Visitante,Luiz Flávio de Oliveira,30.8,4.5,180.0,6.9,27.9,3.1,181.7,4.7,Estádio Antônio Accioly,7083
+Atlético Mineiro,2022,27,17/09/2022,16:30,Sábado,9,Avaí,Derrota,0,1,Visitante,Andre Luiz de Freitas Castro,28.7,3.9,178.5,6.0,30.5,5.1,180.4,6.8,Estádio da Ressacada,5081
+Atlético Mineiro,2022,31,09/10/2022,18:00,Domingo,10,Ceará,Empate,0,0,Mandante,Flavio Rodrigues De Souza,29.4,3.2,177.8,6.6,30.3,4.5,182.2,7.6,Governador Magalhães Pinto,34718
+Atlético Mineiro,2022,34,27/10/2022,19:30,Quinta,10,Juventude,Vitória,1,0,Mandante,Savio Pereira Sampaio,29.5,2.8,178.2,6.8,28.4,3.3,179.3,6.3,Governador Magalhães Pinto,18298
+Botafogo,2022,2,17/04/2022,19:00,Domingo,4,Ceará,Vitória,3,1,Visitante,Raphael Claus,26.6,2.7,180.5,5.8,30.7,3.0,181.3,8.2,Estádio Governador Plácido Castelo,33734
+Botafogo,2022,3,24/04/2022,18:30,Domingo,4,Atlético Goianiense,Empate,1,1,Visitante,Luiz Flávio de Oliveira,26.6,2.2,180.5,5.9,27.1,3.1,180.9,6.4,Estádio Antônio Accioly,4427
+Botafogo,2022,4,01/05/2022,11:00,Domingo,5,Juventude,Empate,1,1,Mandante,Braulio Da Silva Machado,28.4,3.6,180.7,6.2,29.0,3.1,179.2,7.1,Estádio Nilton Santos,34734
+Botafogo,2022,11,13/06/2022,19:00,Segunda,6,Avaí,Derrota,0,1,Mandante,Flavio Rodrigues De Souza,27.7,4.3,179.0,6.0,29.3,5.1,180.0,6.0,Estádio Nilton Santos,12627
+Botafogo,2022,21,06/08/2022,16:30,Sábado,8,Ceará,Empate,1,1,Mandante,Raphael Claus,28.0,4.5,181.3,5.9,29.8,3.8,181.3,7.8,Estádio Nilton Santos,21657
+Botafogo,2022,22,13/08/2022,21:00,Sábado,8,Atlético Goianiense,Empate,0,0,Mandante,Edina Alves Batista,28.8,4.8,181.0,6.6,28.4,3.3,181.5,5.4,Estádio Nilton Santos,12230
+Botafogo,2022,23,21/08/2022,11:00,Domingo,8,Juventude,Empate,2,2,Visitante,Raphael Claus,29.3,3.9,181.5,5.3,28.9,3.1,180.5,6.0,Estádio Alfredo Jaconi,3095
+Botafogo,2022,30,06/10/2022,20:00,Quinta,10,Avaí,Vitória,2,1,Visitante,Paulo Cesar Zanovelli da Silva,30.3,3.7,182.6,5.9,30.0,5.2,181.3,6.3,Estádio da Ressacada,6097
+Corinthians,2022,2,16/04/2022,19:00,Sábado,4,Avaí,Vitória,3,0,Mandante,Bruno Arleu de Araujo,26.7,5.2,179.8,7.7,30.2,4.8,180.0,6.8,Neo Química Arena,30497
+Corinthians,2022,9,04/06/2022,20:30,Sábado,6,Atlético Goianiense,Vitória,1,0,Visitante,Bruno Arleu de Araujo,28.2,6.1,180.2,7.6,27.4,3.2,181.7,5.6,Estádio Antônio Accioly,12089
+Corinthians,2022,11,11/06/2022,16:30,Sábado,6,Juventude,Vitória,2,0,Mandante,Ramon Abatti Abel,29.8,5.5,180.1,8.3,28.3,3.2,180.8,6.0,Neo Química Arena,34617
+Corinthians,2022,17,16/07/2022,21:00,Sábado,7,Ceará,Derrota,1,3,Visitante,Leandro Pedro Vuaden,26.7,5.4,179.7,7.3,30.5,3.2,181.8,9.2,Estádio Governador Plácido Castelo,28683
+Corinthians,2022,21,06/08/2022,19:00,Sábado,8,Avaí,Empate,1,1,Visitante,Wilton Pereira Sampaio,29.3,4.9,179.9,8.2,30.3,4.5,180.3,5.8,Estádio da Ressacada,12648
+Corinthians,2022,28,28/09/2022,19:00,Quarta,9,Atlético Goianiense,Vitória,2,1,Mandante,Leandro Pedro Vuaden,28.8,6.0,180.8,8.1,27.8,3.6,180.4,5.4,Neo Química Arena,32398
+Corinthians,2022,30,04/10/2022,21:30,Terça,10,Juventude,Empate,2,2,Visitante,Wagner do Nascimento Magalhaes,28.8,5.8,181.8,7.8,27.5,4.1,177.9,6.8,Estádio Alfredo Jaconi,3159
+Corinthians,2022,36,05/11/2022,20:30,Sábado,11,Ceará,Vitória,1,0,Mandante,Bruno Arleu de Araujo,27.4,6.1,179.9,8.7,30.5,4.8,180.8,8.1,Neo Química Arena,41335
+Flamengo,2022,1,09/04/2022,19:00,Sábado,4,Atlético Goianiense,Empate,1,1,Visitante,Braulio Da Silva Machado,26.7,4.0,181.5,7.8,27.2,3.2,180.0,5.6,Estádio Antônio Accioly,10496
+Flamengo,2022,6,14/05/2022,16:30,Sábado,5,Ceará,Empate,2,2,Visitante,Luiz Flávio de Oliveira,28.9,4.4,181.7,7.4,27.0,4.3,179.5,7.2,Estádio Governador Plácido Castelo,52139
+Flamengo,2022,18,20/07/2022,20:30,Quarta,7,Juventude,Vitória,4,0,Mandante,Paulo Cesar Zanovelli da Silva,29.1,4.6,180.7,5.9,28.7,3.1,177.3,8.7,Estádio do Maracanã,65392
+Flamengo,2022,19,24/07/2022,11:00,Domingo,7,Avaí,Vitória,2,1,Visitante,Raphael Claus,28.0,4.8,179.9,7.0,28.7,4.6,179.8,6.6,Estádio da Ressacada,17557
+Flamengo,2022,20,30/07/2022,20:30,Sábado,7,Atlético Goianiense,Vitória,4,1,Mandante,Caio Max Augusto Vieira,27.9,6.0,180.0,7.2,26.7,3.8,180.5,6.2,Estádio do Maracanã,64040
+Flamengo,2022,25,04/09/2022,11:00,Domingo,9,Ceará,Empate,1,1,Mandante,Paulo Cesar Zanovelli da Silva,28.9,5.1,180.1,7.2,30.5,3.8,181.3,8.6,Estádio do Maracanã,64387
+Flamengo,2022,37,09/11/2022,21:30,Quarta,11,Juventude,Empate,2,2,Visitante,Rodrigo Jose Pereira de Lima,25.0,4.2,182.6,8.1,26.6,2.9,179.5,6.3,Estádio Alfredo Jaconi,N.A
+Flamengo,2022,38,12/11/2022,16:00,Sábado,11,Avaí,Derrota,1,2,Mandante,Edina Alves Batista,30.6,5.3,179.1,6.4,28.1,5.1,180.2,7.4,Estádio do Maracanã,N.A
+Fluminense,2022,9,05/06/2022,11:00,Domingo,6,Juventude,Derrota,0,1,Visitante,Jefferson Ferreira de Moraes,30.6,6.0,178.5,6.3,27.5,3.4,181.3,6.1,Estádio Alfredo Jaconi,2573
+Fluminense,2022,11,11/06/2022,19:00,Sábado,6,Atlético Goianiense,Derrota,0,2,Mandante,Luiz Flávio de Oliveira,30.8,6.1,177.2,6.7,27.9,2.8,181.7,5.6,Estádio do Maracanã,27859
+Fluminense,2022,13,19/06/2022,19:00,Domingo,6,Avaí,Vitória,2,0,Mandante,Rodolpho Toski Marques,28.5,6.2,179.1,6.9,29.0,5.0,180.3,5.8,Estádio do Maracanã,15530
+Fluminense,2022,16,09/07/2022,19:00,Sábado,7,Ceará,Vitória,2,1,Mandante,Luiz Flávio de Oliveira,28.4,6.5,178.8,6.8,30.4,2.7,182.5,7.0,Estádio do Maracanã,63707
+Fluminense,2022,28,28/09/2022,19:00,Quarta,9,Juventude,Vitória,4,0,Mandante,Edina Alves Batista,29.3,7.3,178.5,6.6,28.7,3.4,180.2,6.7,Estádio do Maracanã,23396
+Fluminense,2022,30,05/10/2022,19:00,Quarta,10,Atlético Goianiense,Derrota,2,3,Visitante,Anderson Daronco,28.9,7.1,178.8,5.9,27.3,3.5,181.1,4.7,Estádio Antônio Accioly,6075
+Fluminense,2022,32,16/10/2022,19:00,Domingo,10,Avaí,Vitória,3,0,Visitante,Anderson Daronco,29.6,6.7,177.3,6.8,29.5,4.1,178.7,6.7,Estádio da Ressacada,79
+Fluminense,2022,35,31/10/2022,20:00,Segunda,10,Ceará,Vitória,1,0,Visitante,Raphael Claus,29.5,6.0,178.0,6.7,29.5,4.9,181.5,8.6,Estádio Governador Plácido Castelo,N.A
+Internacional,2022,4,01/05/2022,19:00,Domingo,5,Avaí,Empate,0,0,Mandante,Wilton Pereira Sampaio,27.8,3.9,177.7,6.6,28.7,4.9,181.1,5.6,Estádio Beira-Rio,20808
+Internacional,2022,5,08/05/2022,19:00,Domingo,5,Juventude,Empate,1,1,Visitante,Bruno Arleu de Araujo,27.0,3.0,179.3,6.1,27.7,3.2,179.9,6.4,Estádio Alfredo Jaconi,7341
+Internacional,2022,8,30/05/2022,20:00,Segunda,5,Atlético Goianiense,Empate,1,1,Mandante,Marcelo de Lima Henrique,27.1,3.8,180.0,7.1,27.7,3.0,182.0,5.8,Estádio Beira-Rio,11050
+Internacional,2022,15,02/07/2022,19:00,Sábado,7,Ceará,Empate,1,1,Visitante,Rodolpho Toski Marques,25.1,5.1,182.5,8.1,27.6,3.8,182.4,7.8,Estádio Governador Plácido Castelo,23283
+Internacional,2022,23,22/08/2022,20:00,Segunda,8,Avaí,Vitória,1,0,Visitante,Edina Alves Batista,26.8,4.3,178.5,7.2,31.3,5.0,180.6,6.0,Estádio da Ressacada,13911
+Internacional,2022,24,29/08/2022,20:00,Segunda,8,Juventude,Vitória,4,0,Mandante,Bruno Arleu de Araujo,27.1,4.3,178.1,6.4,28.4,3.1,179.5,6.4,Estádio Beira-Rio,16518
+Internacional,2022,27,19/09/2022,20:00,Segunda,9,Atlético Goianiense,Vitória,2,1,Visitante,Edina Alves Batista,28.4,4.4,177.9,6.8,27.4,3.4,181.2,5.4,Estádio Antônio Accioly,5185
+Internacional,2022,34,26/10/2022,21:45,Quarta,10,Ceará,Vitória,2,1,Mandante,Ramon Abatti Abel,29.3,4.0,180.8,6.0,29.9,4.5,180.5,8.6,Estádio Beira-Rio,N.A
+Palmeiras,2022,1,09/04/2022,21:00,Sábado,4,Ceará,Derrota,2,3,Mandante,Caio Max Augusto Vieira,28.2,3.6,178.3,7.2,30.6,3.1,181.1,7.9,Nubank Parque,27100
+Palmeiras,2022,7,21/05/2022,19:00,Sábado,5,Juventude,Vitória,3,0,Visitante,Marcelo de Lima Henrique,27.6,4.0,178.9,7.3,28.0,2.9,180.4,6.7,Estádio Alfredo Jaconi,5513
+Palmeiras,2022,12,16/06/2022,18:00,Quinta,6,Atlético Goianiense,Vitória,4,2,Mandante,Ramon Abatti Abel,27.1,4.1,179.1,7.4,27.9,2.8,181.7,5.6,Nubank Parque,38888
+Palmeiras,2022,14,26/06/2022,16:00,Domingo,6,Avaí,Empate,2,2,Visitante,Wagner do Nascimento Magalhaes,27.3,3.6,180.5,4.7,29.1,5.0,180.3,5.8,Estádio da Ressacada,15233
+Palmeiras,2022,20,30/07/2022,16:30,Sábado,7,Ceará,Vitória,2,1,Visitante,Anderson Daronco,27.7,4.2,180.1,6.7,29.5,3.3,181.7,8.0,Estádio Governador Plácido Castelo,40912
+Palmeiras,2022,26,10/09/2022,21:00,Sábado,9,Juventude,Vitória,2,1,Mandante,Jefferson Ferreira de Moraes,28.2,3.8,178.1,7.1,28.8,3.2,179.0,7.3,Nubank Parque,39337
+Palmeiras,2022,31,10/10/2022,18:30,Segunda,10,Atlético Goianiense,Empate,1,1,Visitante,Bruno Arleu de Araujo,28.7,3.8,178.4,7.1,28.2,3.3,181.0,5.5,Estádio Antônio Accioly,12089
+Palmeiras,2022,33,22/10/2022,21:00,Sábado,10,Avaí,Vitória,3,0,Mandante,Bruno Arleu de Araujo,29.1,3.6,178.2,6.8,29.3,4.0,180.5,5.2,Nubank Parque,N.A
+Santos,2022,7,21/05/2022,18:30,Sábado,5,Ceará,Empate,0,0,Mandante,Savio Pereira Sampaio,26.0,4.2,181.2,6.4,28.8,3.3,182.0,7.3,Estádio Urbano Caldeira,25797
+Santos,2022,12,14/06/2022,21:30,Terça,6,Juventude,Vitória,2,1,Visitante,Rodolpho Toski Marques,26.1,3.5,180.7,7.9,28.7,3.5,180.5,6.5,Estádio Alfredo Jaconi,3025
+Santos,2022,16,10/07/2022,18:00,Domingo,7,Atlético Goianiense,Vitória,1,0,Mandante,Braulio Da Silva Machado,27.5,5.0,181.0,6.3,27.7,3.2,182.5,4.8,Estádio Urbano Caldeira,8588
+Santos,2022,17,16/07/2022,19:00,Sábado,7,Avaí,Derrota,0,1,Visitante,Paulo Roberto Alves Junior,27.6,4.9,181.4,5.1,29.9,4.2,180.6,5.3,Estádio da Ressacada,8674
+Santos,2022,26,10/09/2022,16:30,Sábado,9,Ceará,Derrota,1,2,Visitante,Braulio Da Silva Machado,27.1,4.3,180.5,7.9,29.1,4.0,181.1,8.2,Estádio Governador Plácido Castelo,38339
+Santos,2022,31,10/10/2022,20:00,Segunda,10,Juventude,Vitória,4,1,Mandante,Jose Mendonca da Silva Junior,25.8,5.1,180.3,7.8,27.9,4.3,178.0,7.0,Estádio Urbano Caldeira,9171
+Santos,2022,35,02/11/2022,19:00,Quarta,11,Atlético Goianiense,Vitória,3,2,Visitante,Anderson Daronco,26.2,5.7,181.2,5.4,27.8,3.5,181.1,5.5,Estádio Antônio Accioly,N.A
+Santos,2022,36,05/11/2022,16:30,Sábado,11,Avaí,Empate,1,1,Mandante,Caio Max Augusto Vieira,26.0,4.2,180.8,5.0,27.9,4.5,180.5,7.3,Estádio Urbano Caldeira,N.A
+São Paulo,2022,8,28/05/2022,19:00,Sábado,5,Ceará,Empate,2,2,Mandante,Bruno Arleu de Araujo,27.6,4.5,180.7,4.4,28.7,3.8,183.2,7.7,MorumBIS,32977
+São Paulo,2022,9,04/06/2022,19:00,Sábado,6,Avaí,Empate,1,1,Visitante,Anderson Daronco,27.9,4.3,179.2,5.2,28.6,5.2,179.6,6.9,Estádio da Ressacada,N.A
+São Paulo,2022,14,26/06/2022,18:00,Domingo,6,Juventude,Empate,0,0,Mandante,Andre Luiz de Freitas Castro,29.0,5.7,179.4,4.9,28.8,3.2,177.6,7.4,MorumBIS,20466
+São Paulo,2022,15,03/07/2022,16:00,Domingo,7,Atlético Goianiense,Vitória,2,1,Visitante,Wagner do Nascimento Magalhaes,26.9,4.6,179.6,5.2,27.1,2.8,181.4,5.6,Estádio Antônio Accioly,12089
+São Paulo,2022,27,18/09/2022,16:00,Domingo,9,Ceará,Vitória,2,0,Visitante,Maguielson Lima Barbosa,27.6,5.1,178.2,5.2,31.4,3.2,181.8,8.3,Estádio Governador Plácido Castelo,43000
+São Paulo,2022,28,25/09/2022,20:00,Domingo,9,Avaí,Vitória,4,0,Mandante,Bruno Arleu de Araujo,28.6,4.9,178.9,4.5,29.3,5.5,180.7,7.2,MorumBIS,36510
+São Paulo,2022,33,23/10/2022,16:00,Domingo,10,Juventude,Vitória,2,1,Visitante,Paulo Roberto Alves Junior,27.0,6.0,178.8,4.8,27.1,3.9,178.5,6.7,Estádio Alfredo Jaconi,N.A
+São Paulo,2022,34,27/10/2022,19:00,Quinta,10,Atlético Goianiense,Vitória,2,1,Mandante,Bruno Arleu de Araujo,27.8,5.7,180.6,6.2,27.5,3.7,180.6,5.2,MorumBIS,N.A
+Atlético Mineiro,2023,2,23/04/2023,16:00,Domingo,4,Santos,Empate,0,0,Visitante,Braulio Da Silva Machado,28.4,4.5,179.4,6.9,24.9,4.2,179.8,7.1,Estádio Urbano Caldeira,11233
+Atlético Mineiro,2023,7,20/05/2023,18:30,Sábado,5,Coritiba,Vitória,2,1,Visitante,Rodrigo Jose Pereira de Lima,30.4,3.7,180.5,6.2,28.1,4.3,181.5,7.5,Estádio Major Antônio Couto Pereira,20047
+Atlético Mineiro,2023,13,02/07/2023,16:00,Domingo,7,América Mineiro,Empate,2,2,Mandante,Wilton Pereira Sampaio,30.4,4.3,180.0,6.9,30.1,4.7,181.9,6.7,Governador Magalhães Pinto,34507
+Atlético Mineiro,2023,15,17/07/2023,20:00,Segunda,7,Goiás,Empate,0,0,Visitante,Raphael Claus,29.1,4.1,180.0,6.4,28.5,3.1,180.5,7.1,Estádio da Serrinha,12303
+Atlético Mineiro,2023,21,27/08/2023,16:00,Domingo,8,Santos,Vitória,2,0,Mandante,Rafael Rodrigo Klein,30.0,4.4,179.3,7.1,28.1,4.2,179.6,6.3,Arena MRV,29782
+Atlético Mineiro,2023,26,08/10/2023,18:30,Domingo,10,Coritiba,Derrota,1,2,Mandante,Marcelo de Lima Henrique,28.8,4.8,179.5,7.2,29.9,4.4,182.8,7.3,Governador Magalhães Pinto,38350
+Atlético Mineiro,2023,32,04/11/2023,19:30,Sábado,11,América Mineiro,Empate,1,1,Visitante,Rodrigo Jose Pereira de Lima,28.4,4.3,178.9,6.2,30.8,4.3,179.4,6.5,Arena Independência,5706
+Atlético Mineiro,2023,34,12/11/2023,18:30,Domingo,11,Goiás,Vitória,2,1,Mandante,Marcelo de Lima Henrique,27.4,4.0,180.2,6.7,28.6,2.8,181.8,5.7,Arena MRV,29173
+Bahia,2023,4,07/05/2023,16:00,Domingo,5,Coritiba,Vitória,3,1,Mandante,Bruno Mota Correia,26.8,2.6,181.2,6.6,27.9,5.2,180.7,7.5,Arena Fonte Nova,37936
+Bahia,2023,5,10/05/2023,19:00,Quarta,5,Santos,Derrota,0,3,Visitante,Wagner do Nascimento Magalhaes,26.6,4.1,180.4,8.0,26.5,5.0,180.7,7.0,Estádio Urbano Caldeira,7262
+Bahia,2023,7,20/05/2023,16:00,Sábado,5,Goiás,Empate,1,1,Mandante,Denis da Silva Ribeiro Serafim,26.5,3.7,181.1,7.3,27.9,3.3,179.5,5.6,Arena Fonte Nova,32519
+Bahia,2023,18,06/08/2023,18:30,Domingo,8,América Mineiro,Vitória,3,1,Mandante,Matheus Delgado Candançan,28.9,1.8,181.4,5.4,30.2,3.5,180.3,5.8,Arena Fonte Nova,34313
+Bahia,2023,23,14/09/2023,20:00,Quinta,9,Coritiba,Vitória,4,2,Visitante,Wagner do Nascimento Magalhaes,28.3,1.9,181.4,5.6,27.6,5.0,180.9,7.3,Estádio Major Antônio Couto Pereira,22961
+Bahia,2023,24,18/09/2023,20:00,Segunda,9,Santos,Derrota,1,2,Mandante,Ramon Abatti Abel,28.6,2.2,180.1,5.7,27.1,4.7,178.9,7.9,Arena Fonte Nova,41431
+Bahia,2023,26,07/10/2023,16:00,Sábado,10,Goiás,Vitória,6,4,Visitante,Raphael Claus,28.7,2.5,181.0,6.2,28.3,3.0,180.5,6.9,Estádio da Serrinha,9001
+Bahia,2023,37,03/12/2023,18:30,Domingo,12,América Mineiro,Derrota,2,3,Visitante,Marcelo de Lima Henrique,27.9,3.1,180.5,6.2,26.7,5.2,179.9,6.8,Arena Independência,2471
+Botafogo,2023,6,14/05/2023,18:30,Domingo,5,Goiás,Derrota,1,2,Visitante,Rafael Rodrigo Klein,29.4,3.0,182.1,6.0,28.6,3.6,180.5,5.4,Estádio da Serrinha,6674
+Botafogo,2023,8,28/05/2023,19:00,Domingo,5,América Mineiro,Vitória,2,0,Mandante,Raphael Claus,28.8,4.0,182.5,6.4,28.4,5.0,182.5,6.6,Estádio Nilton Santos,23708
+Botafogo,2023,16,23/07/2023,16:00,Domingo,7,Santos,Empate,2,2,Visitante,Ramon Abatti Abel,28.5,3.4,183.6,6.5,27.5,3.5,179.2,7.1,Estádio Urbano Caldeira,N.A
+Botafogo,2023,17,30/07/2023,16:00,Domingo,7,Coritiba,Vitória,4,1,Mandante,Joao Vitor Gobi,30.7,2.7,183.2,6.7,27.4,4.2,181.6,7.2,Estádio Nilton Santos,43071
+Botafogo,2023,25,02/10/2023,20:00,Segunda,10,Goiás,Empate,1,1,Mandante,Braulio Da Silva Machado,29.6,3.9,184.1,5.9,28.4,3.0,181.1,6.7,Estádio Nilton Santos,34294
+Botafogo,2023,27,18/10/2023,20:00,Quarta,10,América Mineiro,Vitória,2,1,Visitante,Anderson Daronco,29.3,3.6,183.9,6.2,30.9,4.7,181.7,7.6,Arena Independência,6230
+Botafogo,2023,35,26/11/2023,16:00,Domingo,11,Santos,Empate,1,1,Mandante,Wilton Pereira Sampaio,30.0,2.9,184.7,5.2,26.3,3.7,179.0,8.6,Estádio Nilton Santos,26548
+Botafogo,2023,36,29/11/2023,21:30,Quarta,11,Coritiba,Empate,1,1,Visitante,Rodrigo Jose Pereira de Lima,30.5,2.9,184.9,5.1,25.3,3.4,181.9,7.3,Estádio Major Antônio Couto Pereira,N.A
+Corinthians,2023,2,23/04/2023,19:00,Domingo,4,Goiás,Derrota,1,3,Visitante,Bruno Arleu de Araujo,28.6,6.0,182.3,6.9,27.9,3.2,180.7,5.4,Estádio da Serrinha,8508
+Corinthians,2023,9,03/06/2023,18:30,Sábado,6,América Mineiro,Derrota,0,2,Visitante,Anderson Daronco,27.0,5.7,180.0,6.8,30.1,5.4,180.8,5.6,Arena Independência,6701
+Corinthians,2023,11,21/06/2023,20:00,Quarta,6,Santos,Vitória,2,0,Visitante,Leandro Pedro Vuaden,26.9,5.5,179.2,7.9,27.3,3.2,177.1,8.9,Estádio Urbano Caldeira,12499
+Corinthians,2023,19,13/08/2023,16:00,Domingo,8,Coritiba,Vitória,3,1,Mandante,Ramon Abatti Abel,28.5,7.1,180.7,7.8,28.9,4.2,182.7,7.2,Neo Química Arena,42171
+Corinthians,2023,21,26/08/2023,21:00,Sábado,8,Goiás,Empate,1,1,Mandante,Paulo Cesar Zanovelli da Silva,25.4,5.8,180.8,6.6,28.3,3.0,181.1,6.7,Neo Química Arena,37316
+Corinthians,2023,28,22/10/2023,18:30,Domingo,10,América Mineiro,Empate,1,1,Mandante,Yuri Elino Ferreira Da Cruz,27.4,6.9,181.3,8.4,30.3,4.3,180.3,7.7,Neo Química Arena,38121
+Corinthians,2023,30,29/10/2023,18:30,Domingo,10,Santos,Empate,1,1,Mandante,Anderson Daronco,31.5,5.2,181.3,7.8,28.0,4.1,178.7,8.1,Neo Química Arena,42248
+Corinthians,2023,38,06/12/2023,21:30,Quarta,12,Coritiba,Vitória,2,0,Visitante,Jonathan Benkenstein Pinheiro,26.8,5.2,180.8,9.5,24.6,4.5,179.3,7.6,Estádio Major Antônio Couto Pereira,N.A
+Cruzeiro,2023,4,06/05/2023,16:00,Sábado,5,Santos,Vitória,2,1,Mandante,Bruno Arleu de Araujo,28.8,3.3,179.6,6.9,26.8,4.2,181.1,6.3,Governador Magalhães Pinto,21191
+Cruzeiro,2023,6,14/05/2023,18:30,Domingo,5,América Mineiro,Vitória,4,0,Visitante,Wilton Pereira Sampaio,28.7,3.2,178.8,6.1,31.3,4.1,180.7,6.9,Arena Independência,4295
+Cruzeiro,2023,15,16/07/2023,11:00,Domingo,7,Coritiba,Empate,0,0,Mandante,Leandro Pedro Vuaden,27.6,4.2,180.0,5.5,25.8,4.5,180.6,7.7,Governador Magalhães Pinto,22123
+Cruzeiro,2023,16,23/07/2023,16:00,Domingo,7,Goiás,Derrota,0,1,Mandante,Caio Max Augusto Vieira,28.6,3.3,179.6,4.9,29.1,3.2,180.9,6.9,Governador Magalhães Pinto,21688
+Cruzeiro,2023,23,14/09/2023,19:00,Quinta,9,Santos,Vitória,3,0,Visitante,Braulio Da Silva Machado,29.2,3.5,180.5,5.2,27.9,3.6,179.8,7.1,Estádio Urbano Caldeira,12244
+Cruzeiro,2023,25,01/10/2023,16:00,Domingo,10,América Mineiro,Empate,1,1,Mandante,Leandro Pedro Vuaden,28.9,3.2,180.1,5.5,29.8,4.4,180.5,6.4,Governador Magalhães Pinto,44279
+Cruzeiro,2023,34,11/11/2023,16:00,Sábado,11,Coritiba,Derrota,0,1,Visitante,Braulio Da Silva Machado,29.3,2.9,180.6,5.1,28.6,5.0,180.5,7.1,Estádio Major Antônio Couto Pereira,7243
+Cruzeiro,2023,35,27/11/2023,21:00,Segunda,11,Goiás,Vitória,1,0,Visitante,Ramon Abatti Abel,28.0,3.7,180.0,5.8,29.1,2.9,180.5,5.9,Estádio da Serrinha,9143
+Flamengo,2023,1,16/04/2023,16:00,Domingo,4,Coritiba,Vitória,3,0,Mandante,Rodrigo Jose Pereira de Lima,26.5,4.3,181.9,5.8,28.3,3.9,183.3,7.7,Estádio do Maracanã,42848
+Flamengo,2023,5,10/05/2023,20:00,Quarta,5,Goiás,Vitória,2,0,Mandante,Savio Pereira Sampaio,26.0,4.2,182.6,6.9,28.3,3.7,181.2,5.7,Estádio do Maracanã,44948
+Flamengo,2023,12,25/06/2023,18:30,Domingo,6,Santos,Vitória,3,2,Visitante,Wilton Pereira Sampaio,26.0,4.1,183.0,6.4,27.0,3.5,177.2,9.0,Estádio Urbano Caldeira,N.A
+Flamengo,2023,16,22/07/2023,16:00,Sábado,7,América Mineiro,Empate,1,1,Mandante,Rodrigo Jose Pereira de Lima,27.9,4.7,181.4,6.8,28.5,2.6,180.5,7.1,Estádio do Maracanã,60402
+Flamengo,2023,20,20/08/2023,16:00,Domingo,8,Coritiba,Vitória,3,2,Visitante,Raphael Claus,27.2,5.2,183.9,5.9,28.5,4.7,180.1,6.3,Estádio Major Antônio Couto Pereira,31851
+Flamengo,2023,24,20/09/2023,19:00,Quarta,9,Goiás,Empate,0,0,Visitante,Raphael Claus,27.5,4.2,183.5,6.8,28.0,3.0,180.0,6.7,Estádio da Serrinha,13799
+Flamengo,2023,31,01/11/2023,20:00,Quarta,11,Santos,Derrota,1,2,Mandante,Rafael Rodrigo Klein,27.2,2.9,183.3,6.7,27.6,4.2,179.6,9.1,Estádio do Maracanã,64708
+Flamengo,2023,35,26/11/2023,18:30,Domingo,11,América Mineiro,Vitória,3,0,Visitante,Rodrigo Jose Pereira de Lima,27.9,2.3,183.2,7.5,29.5,3.9,180.5,5.6,Parque do Sabiá,39900
+Fluminense,2023,1,15/04/2023,16:00,Sábado,4,América Mineiro,Vitória,3,0,Visitante,Braulio Da Silva Machado,27.7,7.1,178.7,7.0,32.1,3.7,179.6,8.3,Arena Independência,6653
+Fluminense,2023,10,11/06/2023,18:30,Domingo,6,Goiás,Empate,2,2,Visitante,Leandro Pedro Vuaden,27.8,6.4,179.0,6.7,28.8,4.0,181.5,5.0,Estádio da Serrinha,10260
+Fluminense,2023,16,24/07/2023,19:00,Segunda,7,Coritiba,Derrota,0,2,Visitante,Flavio Rodrigues De Souza,31.1,6.1,179.9,7.3,27.4,4.2,181.6,7.2,Estádio Major Antônio Couto Pereira,32872
+Fluminense,2023,17,29/07/2023,16:00,Sábado,7,Santos,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,29.1,6.0,177.3,7.3,27.1,3.6,178.9,6.6,Estádio do Maracanã,34211
+Fluminense,2023,20,19/08/2023,18:30,Sábado,8,América Mineiro,Vitória,3,1,Mandante,Flavio Rodrigues De Souza,32.4,6.1,178.2,6.9,30.8,4.7,182.4,7.0,Estádio do Maracanã,35562
+Fluminense,2023,29,25/10/2023,19:00,Quarta,10,Goiás,Vitória,5,3,Mandante,Leandro Pedro Vuaden,32.3,6.5,177.2,6.2,29.1,2.7,180.8,5.4,Estádio Raulino de Oliveira,4793
+Fluminense,2023,35,25/11/2023,21:00,Sábado,11,Coritiba,Vitória,2,1,Mandante,Matheus Delgado Candançan,30.2,7.0,177.7,6.0,25.6,3.4,180.4,8.1,Estádio do Maracanã,19919
+Fluminense,2023,36,29/11/2023,19:00,Quarta,11,Santos,Vitória,3,0,Visitante,Anderson Daronco,30.5,6.2,178.7,5.7,27.3,3.0,178.0,9.1,Estádio Urbano Caldeira,12855
+Grêmio,2023,1,16/04/2023,18:30,Domingo,4,Santos,Vitória,1,0,Mandante,Wilton Pereira Sampaio,28.0,4.8,180.8,5.2,26.1,4.2,181.0,7.7,Estádio Alfredo Jaconi,13997
+Grêmio,2023,11,22/06/2023,19:00,Quinta,6,América Mineiro,Vitória,3,1,Mandante,Edina Alves Batista,26.5,5.3,180.8,4.8,29.9,4.8,181.9,7.4,Arena do Grêmio,15864
+Grêmio,2023,12,25/06/2023,16:00,Domingo,6,Coritiba,Vitória,5,1,Mandante,Joao Vitor Gobi,29.1,4.2,180.6,4.8,26.0,3.5,182.3,7.1,Arena do Grêmio,37048
+Grêmio,2023,17,30/07/2023,18:30,Domingo,7,Goiás,Empate,1,1,Visitante,Paulo Cesar Zanovelli da Silva,26.4,5.1,183.1,5.1,29.1,3.2,180.9,6.9,Estádio da Serrinha,12311
+Grêmio,2023,20,20/08/2023,16:00,Domingo,8,Santos,Derrota,1,2,Visitante,Paulo Cesar Zanovelli da Silva,28.4,3.7,180.7,5.7,27.2,3.5,181.0,6.5,Estádio Urbano Caldeira,N.A
+Grêmio,2023,30,28/10/2023,19:00,Sábado,10,América Mineiro,Vitória,4,3,Visitante,Matheus Delgado Candançan,28.5,4.6,181.0,5.0,30.0,4.0,181.1,7.6,Arena Independência,3008
+Grêmio,2023,31,01/11/2023,20:00,Quarta,11,Coritiba,Vitória,2,1,Visitante,Marcelo de Lima Henrique,30.7,4.6,181.3,5.8,28.7,4.9,181.2,6.7,Estádio Major Antônio Couto Pereira,24308
+Grêmio,2023,36,30/11/2023,19:00,Quinta,11,Goiás,Vitória,2,1,Mandante,Marcelo de Lima Henrique,29.4,4.9,180.2,6.5,28.9,3.0,178.6,5.3,Arena do Grêmio,36875
+Internacional,2023,3,30/04/2023,18:30,Domingo,4,Goiás,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,28.1,5.4,180.8,7.7,27.9,3.2,180.7,5.4,Estádio Beira-Rio,29193
+Internacional,2023,9,03/06/2023,21:00,Sábado,6,Santos,Empate,1,1,Visitante,Paulo Cesar Zanovelli da Silva,27.8,4.2,179.9,6.7,27.0,4.1,179.0,9.2,Estádio Urbano Caldeira,9600
+Internacional,2023,11,22/06/2023,20:00,Quinta,6,Coritiba,Vitória,1,0,Visitante,Andre Luiz Skettino Policarpo Bento,29.3,4.9,180.7,7.2,26.3,3.9,183.2,6.7,Estádio Major Antônio Couto Pereira,25983
+Internacional,2023,12,25/06/2023,18:30,Domingo,6,América Mineiro,Vitória,2,1,Visitante,Flavio Rodrigues De Souza,28.8,5.0,181.8,7.2,31.0,5.1,181.9,7.7,Arena Independência,2249
+Internacional,2023,22,02/09/2023,16:00,Sábado,9,Goiás,Empate,0,0,Visitante,Braulio Da Silva Machado,31.8,2.4,175.7,5.7,28.4,3.0,181.1,6.7,Estádio da Serrinha,11038
+Internacional,2023,28,22/10/2023,16:00,Domingo,10,Santos,Vitória,7,1,Mandante,Paulo Cesar Zanovelli da Silva,29.4,4.8,177.8,6.6,28.7,5.4,180.7,7.1,Estádio Beira-Rio,36584
+Internacional,2023,30,29/10/2023,18:30,Domingo,10,Coritiba,Derrota,3,4,Mandante,Andre Luiz Skettino Policarpo Bento,28.6,4.4,178.6,6.4,27.7,4.6,181.0,6.9,Estádio Beira-Rio,36272
+Internacional,2023,31,01/11/2023,19:00,Quarta,11,América Mineiro,Empate,1,1,Mandante,Flavio Rodrigues De Souza,30.0,4.4,178.5,6.1,30.1,4.0,180.8,7.8,Estádio Beira-Rio,14961
+Palmeiras,2023,4,07/05/2023,18:30,Domingo,5,Goiás,Vitória,5,0,Visitante,Wagner do Nascimento Magalhaes,28.7,3.4,177.3,7.5,28.3,3.7,180.8,5.6,Estádio da Serrinha,13789
+Palmeiras,2023,7,20/05/2023,21:00,Sábado,5,Santos,Empate,0,0,Visitante,Raphael Claus,28.7,3.4,177.3,7.5,25.6,4.3,181.2,6.9,Estádio Urbano Caldeira,12641
+Palmeiras,2023,9,04/06/2023,18:30,Domingo,6,Coritiba,Vitória,3,1,Mandante,Felipe Fernandes de Lima,27.8,4.7,176.7,7.7,27.8,4.2,180.5,6.4,Nubank Parque,33570
+Palmeiras,2023,17,30/07/2023,16:00,Domingo,7,América Mineiro,Vitória,4,1,Visitante,Braulio Da Silva Machado,27.6,3.9,178.5,6.9,28.6,2.6,180.5,7.1,Arena Independência,5928
+Palmeiras,2023,23,15/09/2023,21:30,Sexta,9,Goiás,Vitória,1,0,Mandante,Savio Pereira Sampaio,28.8,4.2,179.2,7.3,28.7,2.3,182.2,5.9,Nubank Parque,38146
+Palmeiras,2023,26,08/10/2023,16:00,Domingo,10,Santos,Derrota,1,2,Mandante,Flavio Rodrigues De Souza,27.0,5.0,178.7,6.4,26.3,4.1,181.6,6.3,Nubank Parque,17049
+Palmeiras,2023,28,22/10/2023,18:30,Domingo,10,Coritiba,Vitória,2,0,Visitante,Rafael Rodrigo Klein,28.4,3.6,182.8,4.9,29.6,4.9,182.7,7.1,Estádio Major Antônio Couto Pereira,19387
+Palmeiras,2023,36,29/11/2023,21:30,Quarta,11,América Mineiro,Vitória,4,0,Mandante,Wilton Pereira Sampaio,27.3,5.2,179.6,6.7,29.3,5.2,180.2,6.0,Nubank Parque,29717
+Santos,2023,3,29/04/2023,18:30,Sábado,04,América Mineiro,Vitória,3,2,Mandante,Anderson Daronco,26.5,3.7,177.8,9.0,29.8,4.7,178.5,9.2,Estádio Urbano Caldeira,11844
+Santos,2023,10,10/06/2023,16:00,Sábado,06,Coritiba,Empate,0,0,Visitante,Bruno Mota Correia,27.2,3.7,178.2,9.0,26.4,5.1,182.0,7.5,Estádio Major Antônio Couto Pereira,25987
+Santos,2023,14,09/07/2023,11:00,Domingo,07,Goiás,Vitória,4,3,Mandante,Bruno Arleu de Araujo,25.9,4.2,179.5,6.9,28.6,3.4,178.3,5.2,Estádio Urbano Caldeira,N.A
+Santos,2023,22,03/09/2023,18:30,Domingo,09,América Mineiro,Derrota,0,2,Visitante,Leandro Pedro Vuaden,28.1,4.3,180.2,6.6,28.5,6.7,181.5,8.0,Arena Independência,3654
+Santos,2023,29,26/10/2023,21:30,Quinta,10,Coritiba,Vitória,2,1,Mandante,Wagner do Nascimento Magalhaes,27.2,4.7,178.9,7.9,29.4,5.2,181.6,7.2,Estádio Urbano Caldeira,12205
+Santos,2023,33,09/11/2023,19:00,Quinta,11,Goiás,Vitória,1,0,Visitante,Paulo Cesar Zanovelli da Silva,26.4,4.1,180.0,6.5,28.4,2.9,180.8,6.0,Estádio da Serrinha,11836
+São Paulo,2023,2,22/04/2023,18:30,Sábado,4,América Mineiro,Vitória,3,0,Mandante,Wagner do Nascimento Magalhaes,26.2,4.7,180.8,5.4,31.1,4.0,178.3,9.0,MorumBIS,41006
+São Paulo,2023,3,29/04/2023,16:30,Sábado,4,Coritiba,Empate,1,1,Visitante,Rafael Rodrigo Klein,26.3,4.4,179.7,6.0,27.0,4.5,180.7,7.5,Estádio Major Antônio Couto Pereira,25210
+São Paulo,2023,8,27/05/2023,21:00,Sábado,5,Goiás,Vitória,2,1,Mandante,Rafael Rodrigo Klein,27.4,5.2,180.7,6.2,28.5,3.2,179.8,5.7,MorumBIS,45429
+São Paulo,2023,15,16/07/2023,16:00,Domingo,7,Santos,Vitória,4,1,Mandante,Braulio Da Silva Machado,28.6,4.8,179.1,6.4,27.0,3.9,179.5,7.1,MorumBIS,58127
+São Paulo,2023,21,27/08/2023,16:00,Domingo,8,América Mineiro,Derrota,1,2,Visitante,Rodrigo Jose Pereira de Lima,25.4,5.0,179.5,5.7,30.8,4.8,181.9,8.1,Arena Independência,5105
+São Paulo,2023,22,27/09/2023,19:00,Quarta,9,Coritiba,Vitória,2,1,Mandante,Savio Pereira Sampaio,26.1,3.6,178.5,5.2,31.8,3.0,181.6,6.2,MorumBIS,31720
+São Paulo,2023,27,18/10/2023,21:30,Quarta,10,Goiás,Derrota,0,2,Visitante,Rodrigo Jose Pereira de Lima,28.2,5.4,179.0,6.5,29.1,2.7,181.2,6.1,Estádio da Serrinha,12685
+São Paulo,2023,34,12/11/2023,18:30,Domingo,11,Santos,Empate,0,0,Visitante,Raphael Claus,28.5,5.5,180.0,6.3,26.3,4.1,178.9,8.4,Estádio Urbano Caldeira,13442
+Vasco da Gama,2023,5,11/05/2023,19:00,Quinta,5,Coritiba,Empate,1,1,Visitante,Ramon Abatti Abel,25.5,3.9,180.8,5.3,27.6,4.7,181.2,6.8,Estádio Major Antônio Couto Pereira,20880
+Vasco da Gama,2023,6,14/05/2023,16:00,Domingo,5,Santos,Derrota,0,1,Mandante,Rodrigo Jose Pereira de Lima,24.5,3.1,181.5,4.9,25.6,4.4,181.3,6.9,Estádio São Januário,18476
+Vasco da Gama,2023,11,22/06/2023,20:00,Quinta,6,Goiás,Derrota,0,1,Mandante,Jean Pierre Goncalves Lima,23.9,4.5,181.6,4.0,28.2,3.2,181.2,5.1,Estádio São Januário,17647
+Vasco da Gama,2023,24,21/09/2023,19:00,Quinta,9,Coritiba,Vitória,5,1,Mandante,Flavio Rodrigues De Souza,28.8,4.9,179.6,6.4,29.4,4.0,183.0,6.7,Estádio São Januário,20321
+Vasco da Gama,2023,15,25/09/2023,20:00,Segunda,9,América Mineiro,Vitória,1,0,Visitante,Ramon Abatti Abel,28.8,4.9,179.6,6.4,29.7,5.6,183.0,7.3,Arena Independência,8498
+Vasco da Gama,2023,25,01/10/2023,16:00,Domingo,10,Santos,Derrota,1,4,Visitante,Anderson Daronco,26.6,4.9,181.1,5.6,27.2,4.7,178.9,7.9,Estádio Urbano Caldeira,N.A
+Vasco da Gama,2023,30,29/10/2023,16:00,Domingo,10,Goiás,Empate,1,1,Visitante,Flavio Rodrigues De Souza,29.8,4.3,181.4,6.1,28.5,3.0,181.4,6.3,Estádio da Serrinha,12904
+Vasco da Gama,2023,34,12/11/2023,18:30,Domingo,11,América Mineiro,Vitória,2,1,Mandante,Savio Pereira Sampaio,28.7,5.2,180.1,6.8,29.9,4.2,180.0,6.5,Estádio São Januário,19478
+Atlético Mineiro,2024,2,17/04/2024,20:00,Quarta,4,Criciúma,Empate,1,1,Mandante,Paulo Belence Alves Dos Prazeres Filho,28.8,4.2,180.5,6.3,31.2,3.6,181.9,5.2,Arena MRV,21726
+Atlético Mineiro,2024,4,27/04/2024,18:30,Sábado,4,Cuiabá,Vitória,3,0,Visitante,Savio Pereira Sampaio,27.9,4.4,179.5,7.0,28.0,4.6,182.8,6.3,Arena Pantanal,6711
+Atlético Mineiro,2024,13,30/06/2024,11:00,Domingo,6,Atlético Goianiense,Empate,1,1,Mandante,Jonathan Benkenstein Pinheiro,26.8,6.5,182.6,5.3,26.6,2.8,183.0,8.6,Arena MRV,36099
+Atlético Mineiro,2024,21,03/08/2024,20:00,Sábado,8,Criciúma,Derrota,1,2,Visitante,Jonathan Benkenstein Pinheiro,29.6,3.3,177.9,7.5,30.9,3.9,182.9,5.0,Estádio Heriberto Hülse,15642
+Atlético Mineiro,2024,23,17/08/2024,16:00,Sábado,8,Cuiabá,Empate,1,1,Mandante,Davi de Oliveira Lacerda,28.3,5.0,180.8,7.7,28.0,4.5,183.9,3.9,Arena MRV,36290
+Atlético Mineiro,2024,32,06/11/2024,21:00,Quarta,11,Atlético Goianiense,Derrota,0,1,Visitante,Jonathan Benkenstein Pinheiro,27.0,5.3,181.9,7.7,27.7,3.3,181.2,8.8,Estádio Antônio Accioly,3791
+Atlético Mineiro,2024,19,16/11/2024,18:30,Sábado,11,Athletico,Derrota,0,1,Visitante,Matheus Delgado Candançan,30.9,4.1,180.3,7.5,27.6,5.0,180.8,6.5,Arena da Baixada,40935
+Atlético Mineiro,2024,38,08/12/2024,16:00,Domingo,12,Athletico,Vitória,1,0,Mandante,Rafael Rodrigo Klein,30.6,4.3,181.3,5.4,27.7,5.9,181.2,5.3,Arena MRV,N.A
+Bahia,2024,9,16/06/2024,18:30,Domingo,6,Criciúma,Empate,2,2,Visitante,Flavio Rodrigues De Souza,29.1,4.0,180.9,5.6,30.3,3.6,180.0,7.6,Estádio Heriberto Hülse,8661
+Bahia,2024,16,10/07/2024,19:00,Quarta,7,Athletico,Vitória,3,1,Visitante,Felipe Fernandes de Lima,28.0,3.3,181.0,6.1,27.5,5.7,182.8,6.6,Arena da Baixada,23307
+Bahia,2024,17,13/07/2024,16:00,Sábado,7,Cuiabá,Derrota,1,2,Mandante,Davi de Oliveira Lacerda,28.7,3.6,179.3,6.9,28.3,4.3,183.0,4.9,Arena Fonte Nova,48602
+Bahia,2024,19,24/07/2024,21:30,Quarta,7,Atlético Goianiense,Empate,1,1,Visitante,Luciano da Silva Miranda Filho,29.9,3.7,182.1,5.2,26.2,2.8,181.5,10.6,Estádio Antônio Accioly,5777
+Bahia,2024,28,29/09/2024,18:30,Domingo,9,Criciúma,Vitória,1,0,Mandante,Edina Alves Batista,28.7,3.6,180.5,5.6,30.9,4.0,181.7,4.2,Arena Fonte Nova,24574
+Bahia,2024,35,24/11/2024,16:00,Domingo,11,Athletico,Empate,1,1,Mandante,Rodrigo Jose Pereira de Lima,27.3,3.9,180.3,7.0,26.0,4.4,180.8,5.9,Arena Fonte Nova,26307
+Bahia,2024,36,30/11/2024,19:30,Sábado,11,Cuiabá,Vitória,2,1,Visitante,David Lacerda,27.3,3.9,180.3,7.0,28.1,4.3,181.7,6.8,Arena Pantanal,2613
+Bahia,2024,38,08/12/2024,16:00,Domingo,12,Atlético Goianiense,Vitória,2,0,Mandante,Gustavo Ervino Bauermann,28.5,4.6,180.4,5.8,27.7,2.8,183.1,8.3,Arena Fonte Nova,48476
+Botafogo,2024,2,18/04/2024,21:30,Quinta,4,Atlético Goianiense,Vitória,1,0,Mandante,Luiz Flávio de Oliveira,26.9,5.1,182.5,5.0,26.8,2.9,182.5,6.7,Estádio Nilton Santos,7801
+Botafogo,2024,10,19/06/2024,19:00,Quarta,6,Athletico,Empate,1,1,Mandante,Ramon Abatti Abel,29.9,4.2,182.6,6.7,28.2,5.4,181.3,7.0,Estádio Nilton Santos,19589
+Botafogo,2024,11,22/06/2024,16:00,Sábado,6,Criciúma,Derrota,1,2,Visitante,Luiz Flávio de Oliveira,28.5,4.3,184.1,6.5,31.5,3.6,179.3,7.1,Estádio Heriberto Hülse,16256
+Botafogo,2024,14,03/07/2024,19:00,Quarta,7,Cuiabá,Vitória,2,1,Visitante,Paulo Cesar Zanovelli da Silva,28.1,5.1,183.9,5.6,29.3,4.3,181.1,6.3,Arena Pantanal,7849
+Botafogo,2024,21,03/08/2024,20:00,Sábado,8,Atlético Goianiense,Vitória,4,1,Visitante,Felipe Fernandes de Lima,25.9,4.7,182.5,6.7,28.1,3.6,183.3,6.2,Estádio Antônio Accioly,8618
+Botafogo,2024,29,05/10/2024,16:30,Sábado,10,Athletico,Vitória,1,0,Visitante,Flavio Rodrigues De Souza,28.0,3.3,181.5,8.0,26.1,4.0,181.4,6.8,Arena da Baixada,22726
+Botafogo,2024,30,18/10/2024,20:00,Sexta,10,Criciúma,Empate,1,1,Mandante,Matheus Delgado Candançan,27.4,2.9,181.5,8.0,30.8,3.3,180.4,5.6,Estádio do Maracanã,64727
+Botafogo,2024,33,09/11/2024,16:30,Sábado,11,Cuiabá,Empate,0,0,Mandante,Rodrigo Jose Pereira de Lima,28.1,3.3,181.5,8.0,28.4,4.4,182.4,6.4,Estádio Nilton Santos,41899
+Corinthians,2024,8,11/06/2024,19:00,Terça,6,Atlético Goianiense,Empate,2,2,Visitante,Paulo Cesar Zanovelli da Silva,25.5,3.9,182.2,9.6,26.7,2.7,184.7,7.0,Estádio Antônio Accioly,1208
+Corinthians,2024,11,23/06/2024,16:00,Domingo,6,Athletico,Empate,1,1,Visitante,Felipe Fernandes de Lima,24.2,3.2,180.8,5.8,28.6,5.5,182.0,6.7,Arena da Baixada,34682
+Corinthians,2024,12,26/06/2024,20:00,Quarta,6,Cuiabá,Empate,1,1,Mandante,Fabio Augusto Santos Sa Junior,24.3,3.7,180.2,4.7,28.8,4.1,181.5,6.5,Neo Química Arena,38475
+Corinthians,2024,17,16/07/2024,21:00,Terça,7,Criciúma,Vitória,2,1,Mandante,Jonathan Benkenstein Pinheiro,26.4,3.5,182.6,7.9,30.5,4.4,180.5,7.1,Neo Química Arena,43241
+Corinthians,2024,27,21/09/2024,16:00,Sábado,9,Atlético Goianiense,Vitória,3,0,Mandante,Bruno Arleu de Araujo,27.6,4.2,181.5,9.1,27.3,3.0,182.7,7.7,Neo Química Arena,46001
+Corinthians,2024,30,17/10/2024,20:00,Quinta,10,Athletico,Vitória,5,2,Mandante,Wilton Pereira Sampaio,27.1,4.0,179.8,7.4,27.2,4.9,180.6,6.1,Neo Química Arena,44399
+Corinthians,2024,31,28/10/2024,19:00,Segunda,10,Cuiabá,Vitória,1,0,Visitante,Bruno Arleu de Araujo,26.4,3.5,181.0,8.2,29.7,3.8,180.5,6.1,Arena Pantanal,16680
+Corinthians,2024,36,30/11/2024,19:30,Sábado,11,Criciúma,Vitória,4,2,Visitante,Anderson Daronco,27.5,4.1,181.4,8.5,30.5,3.7,181.9,5.5,Estádio Heriberto Hülse,18075
+Cruzeiro,2024,6,12/05/2024,16:00,Domingo,5,Atlético Goianiense,Vitória,1,0,Visitante,Rodrigo Jose Pereira de Lima,27.7,2.6,178.9,6.7,26.6,1.7,184.5,6.3,Estádio Antônio Accioly,7576
+Cruzeiro,2024,8,13/06/2024,19:00,Quinta,6,Cuiabá,Vitória,2,1,Mandante,Marcelo de Lima Henrique,26.9,3.6,178.5,7.0,28.0,4.4,181.6,6.5,Governador Magalhães Pinto,26595
+Cruzeiro,2024,12,26/06/2024,19:00,Quarta,6,Athletico,Vitória,2,0,Mandante,Davi de Oliveira Lacerda,27.0,3.3,177.6,7.6,28.2,5.4,182.4,7.1,Governador Magalhães Pinto,26465
+Cruzeiro,2024,14,03/07/2024,20:00,Quarta,7,Criciúma,Derrota,0,1,Visitante,Joao Vitor Gobi,27.2,3.5,178.1,7.6,31.0,4.3,179.4,6.9,Estádio Heriberto Hülse,12352
+Cruzeiro,2024,25,01/09/2024,11:00,Domingo,9,Atlético Goianiense,Vitória,3,1,Mandante,Gustavo Ervino Bauermann,27.9,3.8,180.2,8.0,28.9,2.6,182.8,6.0,Governador Magalhães Pinto,50000
+Cruzeiro,2024,27,22/09/2024,18:30,Domingo,9,Cuiabá,Empate,0,0,Visitante,Flavio Rodrigues De Souza,26.2,5.1,179.5,7.7,29.2,3.7,181.9,7.0,Arena Pantanal,5948
+Cruzeiro,2024,31,26/10/2024,18:30,Sábado,10,Athletico,Derrota,0,3,Visitante,Rodrigo Jose Pereira de Lima,26.9,4.1,177.5,7.6,26.6,5.5,183.1,6.7,Arena da Baixada,35959
+Cruzeiro,2024,33,09/11/2024,19:00,Sábado,11,Criciúma,Vitória,2,1,Mandante,Wagner do Nascimento Magalhaes,28.3,4.2,179.3,7.2,29.7,3.7,180.8,7.6,Governador Magalhães Pinto,29287
+Flamengo,2024,1,14/04/2024,16:00,Domingo,4,Atlético Goianiense,Vitória,2,1,Visitante,Andre Luiz Skettino Policarpo Bento,28.0,1.2,181.5,8.4,26.1,2.7,183.2,8.3,Estádio Antônio Accioly,31617
+Flamengo,2024,9,16/06/2024,16:00,Domingo,6,Athletico,Empate,1,1,Visitante,Anderson Daronco,27.8,4.9,185.3,5.7,28.4,5.6,182.6,6.4,Arena da Baixada,38641
+Flamengo,2024,15,06/07/2024,20:00,Sábado,7,Cuiabá,Empate,1,1,Mandante,Rodrigo Jose Pereira de Lima,28.7,3.9,183.8,6.7,27.9,4.7,182.9,4.8,Estádio do Maracanã,54948
+Flamengo,2024,18,20/07/2024,16:00,Sábado,7,Criciúma,Vitória,2,1,Mandante,Maguielson Lima Barbosa,28.4,3.7,182.3,8.2,30.3,3.7,181.7,5.2,Arena BRB Mané Garrincha,60127
+Flamengo,2024,20,28/07/2024,16:00,Domingo,7,Atlético Goianiense,Vitória,2,0,Mandante,Gustavo Ervino Bauermann,29.0,3.3,181.5,7.0,26.7,2.9,181.4,8.8,Estádio do Maracanã,61883
+Flamengo,2024,28,29/09/2024,20:00,Domingo,9,Athletico,Vitória,1,0,Mandante,Davi de Oliveira Lacerda,26.8,4.9,182.9,5.6,25.7,4.4,182.7,6.1,Estádio do Maracanã,30022
+Flamengo,2024,34,20/11/2024,19:00,Quarta,11,Cuiabá,Vitória,2,1,Visitante,Edina Alves Batista,27.9,4.3,183.5,7.4,29.4,4.1,182.0,6.6,Arena Pantanal,12891
+Flamengo,2024,37,04/12/2024,20:00,Quarta,12,Criciúma,Vitória,3,0,Visitante,Wilton Pereira Sampaio,27.4,5.5,183.3,6.6,30.6,2.6,178.5,7.3,Estádio Heriberto Hülse,18849
+Fluminense,2024,9,15/06/2024,21:00,Sábado,6,Atlético Goianiense,Derrota,1,2,Mandante,Gustavo Ervino Bauermann,32.7,7.0,178.3,5.8,27.1,3.1,183.3,7.5,Estádio do Maracanã,14485
+Fluminense,2024,16,11/07/2024,20:00,Quinta,7,Criciúma,Empate,1,1,Visitante,Anderson Daronco,30.4,6.9,178.5,6.9,30.3,4.1,181.0,7.2,Estádio Heriberto Hülse,11486
+Fluminense,2024,18,21/07/2024,20:00,Domingo,7,Cuiabá,Vitória,1,0,Visitante,Anderson Daronco,31.8,7.1,177.5,5.9,28.4,4.2,183.3,5.0,Arena Pantanal,13231
+Fluminense,2024,28,29/09/2024,16:00,Domingo,9,Atlético Goianiense,Derrota,0,1,Visitante,Ramon Abatti Abel,32.3,6.2,179.4,7.5,25.8,2.0,179.6,10.9,Estádio Antônio Accioly,7871
+Fluminense,2024,17,22/10/2024,19:30,Terça,10,Athletico,Vitória,1,0,Mandante,Braulio Da Silva Machado,30.3,7.1,179.5,6.4,27.2,5.0,183.1,6.1,Estádio do Maracanã,39465
+Fluminense,2024,35,26/11/2024,19:00,Terça,11,Criciúma,Empate,0,0,Mandante,Luiz Flávio de Oliveira,31.5,7.6,178.8,6.5,30.6,3.7,182.1,5.8,Estádio do Maracanã,41240
+Fluminense,2024,36,01/12/2024,18:30,Domingo,12,Athletico,Empate,1,1,Visitante,Eduardo Senna,30.2,7.6,179.2,6.2,27.3,5.1,180.5,6.0,Arena da Baixada,41375
+Fluminense,2024,37,05/12/2024,20:00,Quinta,12,Cuiabá,Vitória,1,0,Mandante,Rafael Rodrigo Klein,31.5,6.9,178.8,6.2,28.2,4.4,181.1,6.6,Estádio do Maracanã,59730
+Grêmio,2024,2,17/04/2024,19:00,Quarta,4,Athletico,Vitória,2,0,Mandante,Marcelo de Lima Henrique,29.2,5.2,177.7,9.4,28.0,5.3,182.6,6.1,Arena do Grêmio,13236
+Grêmio,2024,3,20/04/2024,18:30,Sábado,4,Cuiabá,Vitória,1,0,Mandante,Bruno Pereira Vasconcelos,26.5,5.1,179.0,8.5,28.8,4.6,181.5,6.2,Arena do Grêmio,22904
+Grêmio,2024,12,26/06/2024,20:00,Quarta,6,Atlético Goianiense,Empate,1,1,Visitante,Bruno Arleu de Araujo,29.5,4.0,179.6,6.7,27.3,2.8,183.9,6.1,Estádio Antônio Accioly,7319
+Grêmio,2024,21,04/08/2024,16:00,Domingo,8,Athletico,Vitória,2,0,Visitante,Matheus Delgado Candançan,26.9,5.4,177.7,6.4,25.6,3.4,183.2,7.7,Arena da Baixada,27205
+Grêmio,2024,22,10/08/2024,19:00,Sábado,8,Cuiabá,Vitória,3,1,Visitante,Bruno Pereira Vasconcelos,26.8,5.2,180.5,7.4,28.6,4.3,184.0,3.7,Arena Pantanal,9853
+Grêmio,2024,24,25/08/2024,16:00,Domingo,8,Criciúma,Vitória,1,0,Visitante,Lucas Paulo Torezin,29.7,4.2,177.8,7.7,31.0,3.9,181.8,5.6,Estádio Heriberto Hülse,17377
+Grêmio,2024,5,25/09/2024,19:00,Quarta,9,Criciúma,Derrota,1,2,Mandante,Davi de Oliveira Lacerda,28.9,4.7,178.0,8.1,30.2,3.4,180.1,7.1,Arena do Grêmio,18457
+Grêmio,2024,31,26/10/2024,16:30,Sábado,10,Atlético Goianiense,Vitória,3,1,Mandante,Edina Alves Batista,29.2,4.8,179.0,7.4,27.3,1.9,181.8,7.1,Arena do Grêmio,36959
+Internacional,2024,3,21/04/2024,16:00,Domingo,4,Athletico,Derrota,0,1,Visitante,Felipe Fernandes de Lima,27.7,4.4,179.0,5.6,27.7,5.2,182.4,6.6,Arena da Baixada,29784
+Internacional,2024,4,28/04/2024,20:00,Domingo,4,Atlético Goianiense,Empate,1,1,Mandante,Edina Alves Batista,28.3,4.7,178.0,5.9,26.6,2.8,183.8,7.5,Estádio Beira-Rio,28468
+Internacional,2024,7,01/06/2024,18:30,Sábado,6,Cuiabá,Vitória,1,0,Visitante,Anderson Ribeiro Goncalves,29.0,5.2,179.5,5.2,28.0,4.4,182.0,6.4,Arena Pantanal,5747
+Internacional,2024,13,30/06/2024,18:30,Domingo,6,Criciúma,Empate,1,1,Visitante,Wagner do Nascimento Magalhaes,29.5,5.7,182.3,5.9,29.5,3.7,180.3,7.0,Estádio Heriberto Hülse,14946
+Internacional,2024,22,11/08/2024,19:00,Domingo,8,Athletico,Empate,2,2,Mandante,Paulo Cesar Zanovelli da Silva,26.4,5.3,180.2,7.2,26.7,5.8,182.2,6.6,Estádio Beira-Rio,17136
+Internacional,2024,23,18/08/2024,16:00,Domingo,8,Atlético Goianiense,Derrota,0,1,Visitante,Flavio Rodrigues De Souza,28.2,5.7,178.0,6.8,28.6,3.0,181.1,9.6,Estádio Antônio Accioly,5460
+Internacional,2024,26,16/09/2024,20:00,Segunda,9,Cuiabá,Vitória,3,0,Mandante,Braulio Da Silva Machado,28.2,5.9,177.7,6.3,29.3,3.8,180.7,6.8,Estádio Beira-Rio,35366
+Internacional,2024,32,05/11/2024,21:30,Terça,11,Criciúma,Vitória,2,0,Mandante,Felipe Fernandes de Lima,27.2,3.0,179.2,6.5,30.6,4.0,183.0,4.0,Estádio Beira-Rio,29097
+Palmeiras,2024,5,05/05/2024,18:30,Domingo,5,Cuiabá,Vitória,2,0,Visitante,Bruno Arleu de Araujo,26.5,5.9,178.6,6.9,26.9,4.4,183.1,4.7,Arena Pantanal,10781
+Palmeiras,2024,6,12/05/2024,16:00,Domingo,5,Athletico,Derrota,0,2,Mandante,Braulio Da Silva Machado,27.5,5.7,178.5,6.2,27.2,5.0,181.6,6.5,Nubank Parque,12108
+Palmeiras,2024,7,02/06/2024,16:00,Domingo,6,Criciúma,Vitória,2,1,Visitante,Rafael Rodrigo Klein,27.5,5.3,179.8,6.4,31.3,4.2,180.9,7.0,Estádio Heriberto Hülse,19027
+Palmeiras,2024,16,11/07/2024,19:30,Quinta,7,Atlético Goianiense,Vitória,3,1,Mandante,Wagner do Nascimento Magalhaes,26.5,5.5,180.1,6.4,26.9,1.9,185.7,6.3,Nubank Parque,26897
+Palmeiras,2024,24,24/08/2024,18:30,Sábado,8,Cuiabá,Vitória,5,0,Mandante,Alex Gomes Stefano,26.3,5.1,181.8,5.6,27.0,4.9,183.5,3.7,Estádio Brinco de Ouro da Princesa,30956
+Palmeiras,2024,25,01/09/2024,18:30,Domingo,9,Athletico,Vitória,2,0,Visitante,Braulio Da Silva Machado,27.5,5.5,181.5,5.6,25.2,3.5,181.0,6.8,Arena da Baixada,28334
+Palmeiras,2024,26,15/09/2024,16:00,Domingo,9,Criciúma,Vitória,5,0,Mandante,Alex Gomes Stefano,27.6,5.5,181.5,5.6,29.2,3.6,181.0,7.0,Nubank Parque,37244
+Palmeiras,2024,35,23/11/2024,19:30,Sábado,11,Atlético Goianiense,Vitória,1,0,Visitante,Jonathan Benkenstein Pinheiro,28.0,5.9,179.6,6.3,26.6,1.6,182.3,8.1,Estádio Antônio Accioly,11216
+São Paulo,2024,3,21/04/2024,18:30,Domingo,4,Atlético Goianiense,Vitória,3,0,Visitante,Braulio Da Silva Machado,28.3,3.8,180.4,6.1,26.2,2.6,182.2,7.9,Estádio Antônio Accioly,8024
+São Paulo,2024,10,19/06/2024,20:00,Quarta,6,Cuiabá,Derrota,0,1,Mandante,Gustavo Ervino Bauermann,28.8,3.1,178.6,5.5,28.1,4.4,181.9,6.7,MorumBIS,33586
+São Paulo,2024,12,27/06/2024,20:00,Quinta,6,Criciúma,Vitória,2,1,Mandante,Bruno Pereira Vasconcelos,30.0,3.5,179.1,6.0,31.5,3.9,180.3,5.8,MorumBIS,28008
+São Paulo,2024,14,03/07/2024,21:30,Quarta,7,Athletico,Vitória,2,1,Visitante,Alex Gomes Stefano,30.1,3.5,178.3,6.3,27.4,5.6,183.5,6.5,Arena da Baixada,28632
+São Paulo,2024,22,11/08/2024,16:00,Domingo,8,Atlético Goianiense,Vitória,1,0,Mandante,Davi de Oliveira Lacerda,26.2,3.5,178.2,6.3,27.3,2.6,182.1,7.1,MorumBIS,46600
+São Paulo,2024,29,05/10/2024,19:00,Sábado,10,Cuiabá,Derrota,0,2,Visitante,Anderson Daronco,31.4,4.6,180.7,6.5,29.6,3.8,180.9,6.2,Arena Pantanal,11883
+São Paulo,2024,31,26/10/2024,21:00,Sábado,10,Criciúma,Empate,1,1,Visitante,Rafael Rodrigo Klein,30.4,3.8,179.4,7.5,29.9,4.0,181.5,6.9,Estádio Heriberto Hülse,17422
+São Paulo,2024,33,09/11/2024,21:00,Sábado,11,Athletico,Vitória,2,1,Mandante,Rafael Rodrigo Klein,29.8,3.9,180.3,7.4,24.2,3.8,182.6,5.8,MorumBIS,34777
+Vasco da Gama,2024,4,27/04/2024,16:00,Sábado,4,Criciúma,Derrota,0,4,Mandante,Caio Max Augusto Vieira,28.4,5.9,179.5,5.2,31.3,3.5,181.7,5.2,Estádio São Januário,17124
+Vasco da Gama,2024,5,05/05/2024,16:00,Domingo,5,Athletico,Derrota,0,1,Visitante,Anderson Daronco,28.7,4.0,180.3,6.0,26.6,4.8,181.7,6.4,Arena da Baixada,31192
+Vasco da Gama,2024,17,17/07/2024,19:00,Quarta,7,Atlético Goianiense,Vitória,1,0,Visitante,Matheus Delgado Candançan,27.7,4.5,181.2,6.0,27.1,2.1,182.4,9.4,Estádio Antônio Accioly,12089
+Vasco da Gama,2024,23,18/08/2024,16:00,Domingo,8,Criciúma,Empate,2,2,Visitante,Paulo Cesar Zanovelli da Silva,26.6,4.7,179.6,5.2,31.2,4.0,182.8,5.1,Estádio Heriberto Hülse,18403
+Vasco da Gama,2024,24,26/08/2024,21:00,Segunda,8,Athletico,Vitória,2,1,Mandante,Jonathan Benkenstein Pinheiro,28.5,5.2,180.1,6.6,26.9,5.0,180.3,7.9,Estádio São Januário,16433
+Vasco da Gama,2024,19,24/10/2024,19:00,Quinta,10,Cuiabá,Vitória,1,0,Mandante,Savio Pereira Sampaio,27.4,4.3,179.6,6.1,29.7,3.8,180.5,6.1,Estádio São Januário,16696
+Vasco da Gama,2024,36,30/11/2024,21:30,Sábado,11,Atlético Goianiense,Empate,2,2,Mandante,Lucas Paulo Torezin,26.7,4.9,180.6,6.1,27.1,1.3,183.6,7.0,Estádio São Januário,18270
+Vasco da Gama,2024,38,08/12/2024,16:00,Domingo,12,Cuiabá,Vitória,2,1,Visitante,Tiago Gomes da Silva,28.7,4.6,179.8,6.1,25.9,4.4,183.1,6.9,Arena Pantanal,7030
+Atlético Mineiro,2025,7,05/05/2025,20:00,Segunda,5,Juventude,Vitória,1,0,Visitante,Bruno Pereira Vasconcelos,27.3,4.0,179.7,6.6,29.9,4.9,178.2,6.9,Estádio Alfredo Jaconi,7486
+Atlético Mineiro,2025,11,01/06/2025,18:30,Domingo,6,Ceará,Vitória,1,0,Visitante,Alex Gomes Stefano,28.4,4.3,180.8,7.5,30.7,4.3,181.0,6.5,Estádio Governador Plácido Castelo,49955
+Atlético Mineiro,2025,26,30/09/2025,21:30,Terça,9,Juventude,Empate,0,0,Mandante,Lucas Casagrande,27.8,4.3,178.7,8.8,28.3,4.0,179.0,7.1,Arena MRV,26567
+Atlético Mineiro,2025,14,08/10/2025,19:00,Quarta,10,Sport Recife,Vitória,3,1,Mandante,Alex Gomes Stefano,30.9,3.1,178.1,8.8,29.2,4.8,182.3,8.3,Arena MRV,25093
+Atlético Mineiro,2025,30,25/10/2025,16:00,Sábado,10,Ceará,Vitória,1,0,Mandante,Bruno Arleu de Araujo,30.0,5.7,179.2,7.7,29.3,3.5,180.9,8.0,Arena MRV,33694
+Atlético Mineiro,2025,33,08/11/2025,16:00,Sábado,11,Sport Recife,Vitória,4,2,Visitante,Matheus Delgado Candançan,28.0,4.6,179.7,7.8,29.9,3.3,182.8,8.2,Ilha do Retiro,5095
+Atlético Mineiro,2025,16,12/11/2025,20:30,Quarta,11,Fortaleza,Empate,3,3,Mandante,Savio Pereira Sampaio,31.2,4.7,178.1,8.8,28.6,4.4,179.9,5.3,Arena MRV,39246
+Atlético Mineiro,2025,35,30/11/2025,18:30,Domingo,11,Fortaleza,Derrota,0,1,Visitante,Davi de Oliveira Lacerda,30.9,4.8,179.4,8.4,28.7,4.1,179.0,4.7,Estádio Governador Plácido Castelo,51793
+Bahia,2025,5,21/04/2025,20:00,Segunda,4,Ceará,Vitória,1,0,Mandante,Rafael Rodrigo Klein,27.5,3.1,179.7,6.3,30.6,4.1,180.3,7.1,Arena Fonte Nova,28047
+Bahia,2025,15,19/07/2025,16:00,Sábado,7,Fortaleza,Empate,1,1,Visitante,Wilton Pereira Sampaio,28.1,4.0,179.3,6.9,30.4,3.8,180.4,6.5,Estádio Governador Plácido Castelo,15954
+Bahia,2025,17,27/07/2025,18:30,Domingo,7,Juventude,Vitória,3,0,Mandante,Matheus Delgado Candançan,29.3,3.8,180.6,8.4,28.0,4.0,179.6,6.0,Arena Fonte Nova,32822
+Bahia,2025,18,02/08/2025,16:00,Sábado,8,Sport Recife,Empate,0,0,Visitante,Anderson Daronco,29.4,3.5,181.6,7.0,27.4,4.5,182.3,8.3,Ilha do Retiro,16080
+Bahia,2025,24,20/09/2025,18:30,Sábado,9,Ceará,Empate,1,1,Visitante,Lucas Casagrande,28.3,4.5,181.3,6.6,29.7,2.5,179.3,7.9,Estádio Governador Plácido Castelo,24873
+Bahia,2025,34,20/11/2025,18:00,Quinta,11,Fortaleza,Derrota,2,3,Mandante,Rafael Rodrigo Klein,28.6,3.0,180.7,7.8,27.3,3.1,179.6,5.4,Arena Fonte Nova,39941
+Bahia,2025,36,28/11/2025,19:00,Sexta,11,Juventude,Empate,1,1,Visitante,Fernando Antonio Mendes de Salles Nascimento Filho,29.3,3.7,180.4,7.8,29.8,5.6,179.6,4.2,Estádio Alfredo Jaconi,4536
+Bahia,2025,37,03/12/2025,20:00,Quarta,12,Sport Recife,Vitória,2,0,Mandante,Flavio Rodrigues De Souza,28.7,3.9,179.1,7.9,30.0,4.4,180.4,8.1,Arena Fonte Nova,39847
+Botafogo,2025,2,05/04/2025,21:00,Sábado,4,Juventude,Vitória,2,0,Mandante,Rodrigo Jose Pereira de Lima,26.7,3.4,182.2,9.8,27.6,4.9,179.4,7.6,Estádio Nilton Santos,10030
+Botafogo,2025,10,04/06/2025,20:00,Quarta,6,Ceará,Vitória,3,2,Mandante,Edina Alves Batista,27.4,3.9,182.2,9.0,30.7,4.3,181.0,6.5,Estádio Nilton Santos,19952
+Botafogo,2025,15,20/07/2025,17:30,Domingo,7,Sport Recife,Vitória,1,0,Visitante,Flavio Rodrigues De Souza,28.0,3.7,183.3,8.8,28.5,4.8,183.9,5.9,Ilha do Retiro,1309
+Botafogo,2025,19,09/08/2025,20:30,Sábado,8,Fortaleza,Vitória,5,0,Visitante,Anderson Daronco,26.7,4.6,179.4,8.4,28.1,4.8,181.8,6.7,Estádio Governador Plácido Castelo,30910
+Botafogo,2025,21,24/08/2025,18:30,Domingo,8,Juventude,Vitória,3,1,Visitante,Flavio Rodrigues De Souza,27.8,4.7,183.6,7.0,30.9,5.6,178.5,5.9,Estádio Alfredo Jaconi,7528
+Botafogo,2025,29,19/10/2025,18:30,Domingo,10,Ceará,Vitória,2,0,Visitante,Davi de Oliveira Lacerda,27.4,4.7,182.6,7.4,28.7,3.0,181.2,8.4,Estádio Governador Plácido Castelo,30021
+Botafogo,2025,34,18/11/2025,20:30,Terça,11,Sport Recife,Vitória,3,2,Mandante,Bruno Pereira Vasconcelos,27.7,2.9,181.8,9.0,30.9,3.5,181.8,8.0,Estádio Nilton Santos,12120
+Botafogo,2025,38,07/12/2025,16:00,Domingo,12,Fortaleza,Vitória,4,2,Mandante,Paulo Cesar Zanovelli da Silva,28.3,5.4,179.0,7.0,29.0,3.8,179.6,5.5,Estádio Nilton Santos,26032
+Corinthians,2025,5,19/04/2025,16:00,Sábado,4,Sport Recife,Vitória,2,1,Mandante,Anderson Daronco,27.8,4.7,182.9,5.3,26.7,3.1,182.0,4.7,Neo Química Arena,44996
+Corinthians,2025,14,16/07/2025,19:30,Quarta,7,Ceará,Vitória,1,0,Visitante,Paulo Cesar Zanovelli da Silva,26.0,4.1,180.7,7.6,29.5,3.0,180.2,7.1,Estádio Governador Plácido Castelo,35410
+Corinthians,2025,18,03/08/2025,16:00,Domingo,8,Fortaleza,Empate,1,1,Mandante,Felipe Fernandes de Lima,26.5,4.9,182.5,7.9,29.5,4.8,180.4,7.6,Neo Química Arena,34805
+Corinthians,2025,19,11/08/2025,20:00,Segunda,8,Juventude,Derrota,1,2,Visitante,Lucas Casagrande,27.2,3.8,182.0,8.5,28.7,5.0,180.6,8.0,Estádio Alfredo Jaconi,8679
+Corinthians,2025,24,21/09/2025,17:30,Domingo,9,Sport Recife,Derrota,0,1,Visitante,Savio Pereira Sampaio,28.4,3.9,181.5,8.4,28.5,4.8,181.3,8.8,Ilha do Retiro,25504
+Corinthians,2025,33,09/11/2025,16:00,Domingo,11,Ceará,Derrota,0,1,Mandante,Felipe Fernandes de Lima,26.4,4.9,178.7,7.5,28.8,3.7,180.4,7.5,Neo Química Arena,39926
+Corinthians,2025,37,03/12/2025,19:00,Quarta,12,Fortaleza,Derrota,1,2,Visitante,Savio Pereira Sampaio,25.8,5.5,181.4,8.5,29.1,3.9,179.0,4.7,Estádio Governador Plácido Castelo,56014
+Corinthians,2025,38,07/12/2025,16:00,Domingo,12,Juventude,Empate,1,1,Mandante,Felipe Fernandes de Lima,27.9,4.6,183.5,5.1,30.0,5.7,179.5,4.8,Neo Química Arena,31003
+Cruzeiro,2025,8,11/05/2025,16:00,Domingo,5,Sport Recife,Vitória,4,0,Visitante,Raphael Claus,30.1,5.0,180.0,7.8,28.0,3.4,182.8,4.7,Ilha do Retiro,16006
+Cruzeiro,2025,10,25/05/2025,20:30,Domingo,5,Fortaleza,Vitória,2,0,Visitante,Joao Vitor Gobi,28.4,4.7,179.5,7.8,31.1,3.8,180.1,5.4,Estádio Governador Plácido Castelo,12080
+Cruzeiro,2025,15,20/07/2025,16:00,Domingo,7,Juventude,Vitória,4,0,Mandante,Lucas Casagrande,27.5,4.3,179.4,7.4,29.5,4.1,179.3,5.2,Governador Magalhães Pinto,62170
+Cruzeiro,2025,17,27/07/2025,16:00,Domingo,7,Ceará,Derrota,1,2,Mandante,Raphael Claus,30.9,4.7,179.0,8.6,28.7,3.5,179.8,8.5,Governador Magalhães Pinto,52802
+Cruzeiro,2025,27,05/10/2025,20:30,Domingo,10,Sport Recife,Empate,1,1,Mandante,Jefferson Ferreira de Moraes,27.9,6.2,179.9,6.3,29.1,4.7,180.9,9.2,Governador Magalhães Pinto,6581
+Cruzeiro,2025,29,18/10/2025,21:00,Sábado,10,Fortaleza,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,26.2,5.3,179.7,6.9,29.4,4.1,178.2,5.1,Governador Magalhães Pinto,40410
+Cruzeiro,2025,34,20/11/2025,16:00,Quinta,11,Juventude,Empate,3,3,Visitante,Savio Pereira Sampaio,29.5,4.2,179.3,7.8,29.5,5.7,178.5,4.4,Estádio Alfredo Jaconi,12186
+Cruzeiro,2025,36,29/11/2025,21:00,Sábado,11,Ceará,Empate,1,1,Visitante,Savio Pereira Sampaio,29.1,4.8,180.8,7.2,28.1,2.9,181.7,7.7,Estádio Governador Plácido Castelo,29114
+Flamengo,2025,4,16/04/2025,21:30,Quarta,4,Juventude,Vitória,6,0,Mandante,Matheus Delgado Candançan,29.1,3.5,180.6,8.0,26.2,3.8,180.6,8.0,Estádio do Maracanã,31445
+Flamengo,2025,11,01/06/2025,18:30,Domingo,6,Fortaleza,Vitória,5,0,Mandante,Gustavo Ervino Bauermann,30.3,3.4,181.1,6.8,29.6,4.9,179.3,6.6,Estádio do Maracanã,61132
+Flamengo,2025,18,03/08/2025,18:30,Domingo,8,Ceará,Empate,1,1,Visitante,Rodrigo Jose Pereira de Lima,29.3,3.9,182.8,5.7,29.6,3.3,179.8,8.5,Estádio Governador Plácido Castelo,57887
+Flamengo,2025,23,14/09/2025,16:00,Domingo,9,Juventude,Vitória,2,0,Visitante,Raphael Claus,29.3,2.2,181.7,6.7,31.2,5.4,178.8,5.6,Estádio Alfredo Jaconi,15204
+Flamengo,2025,30,25/10/2025,19:30,Sábado,10,Fortaleza,Derrota,0,1,Visitante,Davi de Oliveira Lacerda,30.1,3.2,182.5,5.6,28.7,4.2,178.5,4.9,Estádio Governador Plácido Castelo,36815
+Flamengo,2025,31,01/11/2025,21:00,Sábado,11,Sport Recife,Vitória,3,0,Mandante,Fernando Antonio Mendes de Salles Nascimento Filho,29.3,3.0,181.9,6.7,31.1,3.1,181.7,7.1,Estádio do Maracanã,67598
+Flamengo,2025,12,15/11/2025,18:30,Sábado,11,Sport Recife,Vitória,5,1,Visitante,Rafael Rodrigo Klein,28.0,4.5,183.9,5.2,29.9,3.3,182.8,8.2,Ilha do Retiro,19706
+Flamengo,2025,37,03/12/2025,21:30,Quarta,12,Ceará,Vitória,1,0,Mandante,Rodrigo Jose Pereira de Lima,31.6,2.9,181.8,6.6,28.2,2.7,181.1,8.1,Estádio do Maracanã,73244
+Fluminense,2025,1,29/03/2025,18:30,Sábado,3,Fortaleza,Derrota,0,2,Visitante,Rodrigo Jose Pereira de Lima,30.5,6.8,177.6,4.8,33.4,2.3,179.0,5.8,Estádio Governador Plácido Castelo,19484
+Fluminense,2025,7,03/05/2025,18:30,Sábado,5,Sport Recife,Vitória,2,1,Mandante,Rafael Rodrigo Klein,30.3,6.0,179.3,7.2,27.5,4.8,181.3,4.9,Estádio do Maracanã,18754
+Fluminense,2025,9,18/05/2025,16:00,Domingo,5,Juventude,Empate,1,1,Visitante,Wilton Pereira Sampaio,30.7,6.6,177.9,5.8,29.8,4.5,178.2,5.7,Estádio Alfredo Jaconi,8120
+Fluminense,2025,20,16/08/2025,16:00,Sábado,8,Fortaleza,Vitória,2,1,Mandante,Rafael Rodrigo Klein,32.1,7.1,179.2,6.3,29.4,5.2,178.3,8.1,Estádio do Maracanã,28771
+Fluminense,2025,26,01/10/2025,19:00,Quarta,10,Sport Recife,Empate,2,2,Visitante,Raphael Claus,30.2,6.0,177.7,8.0,27.9,4.4,181.7,8.2,Ilha do Retiro,14172
+Fluminense,2025,28,16/10/2025,21:30,Quinta,10,Juventude,Vitória,1,0,Mandante,Jefferson Ferreira de Moraes,31.9,6.7,178.0,5.4,28.9,4.9,178.5,5.2,Estádio do Maracanã,15639
+Fluminense,2025,12,29/10/2025,19:00,Quarta,10,Ceará,Vitória,1,0,Mandante,Flavio Rodrigues De Souza,30.9,6.9,175.8,7.4,28.8,3.1,180.5,8.4,Estádio do Maracanã,21298
+Fluminense,2025,31,02/11/2025,16:00,Domingo,11,Ceará,Derrota,0,2,Visitante,Lucas Paulo Torezin,28.8,5.8,179.4,5.9,28.8,3.8,181.8,7.3,Estádio Governador Plácido Castelo,28700
+Grêmio,2025,2,05/04/2025,18:30,Sábado,4,Ceará,Derrota,0,2,Visitante,Edina Alves Batista,27.7,4.6,177.8,6.3,28.8,2.8,181.2,7.8,Estádio Governador Plácido Castelo,26777
+Grêmio,2025,11,01/06/2025,16:00,Domingo,6,Juventude,Vitória,2,0,Visitante,Raphael Claus,28.0,4.8,180.3,6.9,29.3,6.1,178.5,5.6,Estádio Alfredo Jaconi,9098
+Grêmio,2025,14,29/07/2025,20:30,Terça,7,Fortaleza,Vitória,2,1,Mandante,Alex Gomes Stefano,27.2,5.5,180.8,6.6,28.0,4.6,179.5,7.3,Arena do Grêmio,18695
+Grêmio,2025,19,10/08/2025,20:30,Domingo,8,Sport Recife,Derrota,0,1,Mandante,Yuri Elino Ferreira Da Cruz,28.2,5.7,179.6,6.5,28.6,4.7,181.8,8.7,Arena do Grêmio,35087
+Grêmio,2025,21,23/08/2025,21:00,Sábado,8,Ceará,Empate,0,0,Mandante,Davi de Oliveira Lacerda,31.3,5.3,180.0,5.6,29.9,2.9,179.0,8.9,Arena do Grêmio,25138
+Grêmio,2025,30,26/10/2025,16:00,Domingo,10,Juventude,Vitória,3,1,Mandante,Alex Gomes Stefano,29.1,4.7,179.6,7.0,30.1,3.9,178.4,4.6,Arena do Grêmio,32444
+Grêmio,2025,33,09/11/2025,20:30,Domingo,11,Fortaleza,Empate,2,2,Visitante,Jefferson Ferreira de Moraes,29.5,4.8,180.2,6.4,29.5,3.8,179.0,4.4,Estádio Governador Plácido Castelo,16025
+Grêmio,2025,38,07/12/2025,16:00,Domingo,12,Sport Recife,Vitória,4,0,Visitante,Edina Alves Batista,28.7,5.0,181.1,7.4,30.2,2.9,181.2,8.0,Ilha do Retiro,3339
+Internacional,2025,3,13/04/2025,20:00,Domingo,4,Fortaleza,Empate,0,0,Visitante,Flavio Rodrigues De Souza,26.9,2.6,178.6,6.6,30.4,5.1,180.5,7.0,Estádio Governador Plácido Castelo,16587
+Internacional,2025,6,26/04/2025,16:00,Sábado,4,Juventude,Vitória,3,1,Mandante,Flavio Rodrigues De Souza,27.8,4.9,179.5,6.1,29.2,4.7,178.1,7.5,Estádio Beira-Rio,35427
+Internacional,2025,10,25/05/2025,16:00,Domingo,5,Sport Recife,Empate,1,1,Visitante,Davi de Oliveira Lacerda,25.9,4.1,180.3,7.2,28.9,4.9,182.4,5.1,Ilha do Retiro,21921
+Internacional,2025,15,20/07/2025,11:00,Domingo,7,Ceará,Vitória,1,0,Mandante,Davi de Oliveira Lacerda,28.1,4.3,178.2,6.5,28.3,3.6,180.4,8.0,Estádio Beira-Rio,31976
+Internacional,2025,22,31/08/2025,20:30,Domingo,8,Fortaleza,Vitória,2,1,Mandante,Joao Vitor Gobi,27.1,4.0,179.4,7.8,29.4,4.1,179.1,6.3,Estádio Beira-Rio,9304
+Internacional,2025,25,27/09/2025,18:30,Sábado,9,Juventude,Empate,1,1,Visitante,Matheus Delgado Candançan,29.0,6.1,179.8,5.8,29.5,5.3,178.8,4.4,Estádio Alfredo Jaconi,8178
+Internacional,2025,29,19/10/2025,18:30,Domingo,10,Sport Recife,Vitória,2,0,Mandante,Lucas Paulo Torezin,27.0,2.0,179.5,7.7,28.7,4.7,181.8,9.3,Estádio Beira-Rio,23604
+Internacional,2025,34,20/11/2025,21:30,Quinta,11,Ceará,Vitória,2,1,Visitante,Rodrigo Jose Pereira de Lima,28.0,5.1,178.4,7.0,28.7,3.7,181.5,7.5,Estádio Governador Plácido Castelo,46036
+Palmeiras,2025,2,06/04/2025,18:30,Domingo,4,Sport Recife,Vitória,2,1,Visitante,Bruno Arleu de Araujo,27.0,4.4,184.1,5.1,29.1,3.5,181.6,4.8,Ilha do Retiro,26324
+Palmeiras,2025,5,20/04/2025,18:30,Domingo,4,Fortaleza,Vitória,2,1,Visitante,Paulo Cesar Zanovelli da Silva,26.5,5.1,182.9,5.0,30.1,5.3,180.5,7.0,Estádio Governador Plácido Castelo,23877
+Palmeiras,2025,19,10/08/2025,16:00,Domingo,8,Ceará,Vitória,2,1,Mandante,Lucas Paulo Torezin,26.9,4.7,180.7,5.3,29.5,3.1,180.3,8.6,Nubank Parque,23079
+Palmeiras,2025,21,25/08/2025,19:00,Segunda,8,Sport Recife,Vitória,3,0,Mandante,Paulo Cesar Zanovelli da Silva,28.0,4.6,181.5,5.6,28.3,5.2,180.5,8.6,Nubank Parque,36576
+Palmeiras,2025,24,20/09/2025,21:00,Sábado,9,Fortaleza,Vitória,4,1,Mandante,Alex Gomes Stefano,26.0,4.5,181.5,5.8,31.2,3.6,178.5,6.6,Nubank Parque,35324
+Palmeiras,2025,12,11/10/2025,19:00,Sábado,10,Juventude,Vitória,4,1,Mandante,Davi de Oliveira Lacerda,28.4,4.1,181.7,6.2,29.2,4.3,178.2,6.1,Nubank Parque,40407
+Palmeiras,2025,31,02/11/2025,18:30,Domingo,11,Juventude,Vitória,2,0,Visitante,Savio Pereira Sampaio,27.1,2.7,182.5,8.4,30.5,5.7,180.5,5.1,Estádio Alfredo Jaconi,6142
+Palmeiras,2025,38,07/12/2025,16:00,Domingo,12,Ceará,Vitória,3,1,Visitante,Bruno Arleu de Araujo,25.2,5.0,183.1,6.6,28.5,2.9,181.4,8.1,Estádio Governador Plácido Castelo,58013
+Santos,2025,8,12/05/2025,20:00,Segunda,5,Ceará,Empate,0,0,Mandante,Felipe Fernandes de Lima,29.2,4.7,179.7,8.7,30.4,4.5,181.1,6.5,Nubank Parque,35240
+Santos,2025,12,12/06/2025,19:30,Quinta,6,Fortaleza,Vitória,3,2,Visitante,Paulo Cesar Zanovelli da Silva,28.2,4.3,180.2,7.2,32.0,4.5,180.3,6.4,Estádio Governador Plácido Castelo,20381
+Santos,2025,17,26/07/2025,18:30,Sábado,7,Sport Recife,Empate,2,2,Visitante,Rafael Rodrigo Klein,27.8,5.3,180.7,6.9,28.5,4.8,182.4,8.2,Ilha do Retiro,24184
+Santos,2025,18,04/08/2025,20:00,Segunda,8,Juventude,Vitória,3,1,Mandante,Paulo Cesar Zanovelli da Silva,28.4,5.7,181.5,7.0,29.3,4.8,178.9,7.5,Estádio Urbano Caldeira,37485
+Santos,2025,27,05/10/2025,20:30,Domingo,10,Ceará,Derrota,0,3,Visitante,Anderson Daronco,29.2,3.6,179.6,6.4,28.2,2.8,180.4,8.5,Estádio Governador Plácido Castelo,25636
+Santos,2025,31,01/11/2025,16:00,Sábado,11,Fortaleza,Empate,1,1,Mandante,Anderson Daronco,27.8,3.2,180.4,7.2,28.7,4.2,178.5,4.9,Estádio Urbano Caldeira,13356
+Santos,2025,36,28/11/2025,21:30,Sexta,11,Sport Recife,Vitória,3,0,Mandante,Felipe Fernandes de Lima,29.1,4.4,181.2,6.1,29.9,3.3,182.8,8.2,Estádio Urbano Caldeira,14156
+Santos,2025,37,03/12/2025,19:30,Quarta,12,Juventude,Vitória,3,0,Visitante,Wilton Pereira Sampaio,28.5,4.1,180.6,5.9,29.7,5.6,179.7,4.5,Estádio Alfredo Jaconi,15343
+São Paulo,2025,1,29/03/2025,18:30,Sábado,3,Sport Recife,Empate,0,0,Mandante,Felipe Fernandes de Lima,31.2,3.5,180.5,7.2,29.1,3.4,181.3,5.2,MorumBIS,37856
+São Paulo,2025,6,26/04/2025,18:30,Sábado,4,Ceará,Empate,1,1,Visitante,Anderson Daronco,27.3,5.1,180.6,6.3,30.8,4.1,180.7,6.9,Estádio Governador Plácido Castelo,46929
+São Paulo,2025,7,02/05/2025,21:30,Sexta,5,Fortaleza,Empate,0,0,Mandante,Wagner do Nascimento Magalhaes,27.2,4.8,182.2,5.5,30.6,4.3,179.0,6.2,MorumBIS,39502
+São Paulo,2025,16,24/07/2025,19:00,Quinta,7,Juventude,Vitória,1,0,Visitante,Savio Pereira Sampaio,30.2,3.7,180.3,7.4,29.0,4.5,178.4,5.6,Estádio Alfredo Jaconi,6095
+São Paulo,2025,20,16/08/2025,18:30,Sábado,8,Sport Recife,Empate,2,2,Visitante,Lucas Paulo Torezin,25.2,3.3,181.8,7.4,28.6,4.7,181.8,8.7,Ilha do Retiro,26104
+São Paulo,2025,25,29/09/2025,20:00,Segunda,9,Ceará,Derrota,0,1,Mandante,Bruno Arleu de Araujo,30.6,4.4,181.0,5.9,28.0,2.9,180.3,8.6,MorumBIS,12342
+São Paulo,2025,26,02/10/2025,19:30,Quinta,10,Fortaleza,Vitória,2,0,Visitante,Anderson Daronco,28.8,5.9,181.3,5.3,29.8,4.4,179.8,5.4,Estádio Governador Plácido Castelo,35544
+São Paulo,2025,35,23/11/2025,16:00,Domingo,11,Juventude,Vitória,2,1,Mandante,Andre Luis Skettino Policarpo Bento,28.5,5.2,182.2,5.1,28.6,3.6,179.7,6.3,Estádio Urbano Caldeira,6468
+Vasco da Gama,2025,3,12/04/2025,21:00,Sábado,4,Sport Recife,Vitória,3,1,Mandante,Savio Pereira Sampaio,28.6,3.8,178.6,6.2,28.7,3.4,181.9,5.0,Estádio São Januário,15969
+Vasco da Gama,2025,4,15/04/2025,21:30,Terça,4,Ceará,Derrota,1,2,Visitante,Denis da Silva Ribeiro Serafim,28.6,4.4,178.7,6.1,29.4,3.0,181.7,7.4,Estádio Governador Plácido Castelo,22693
+Vasco da Gama,2025,9,17/05/2025,18:30,Sábado,5,Fortaleza,Vitória,3,0,Mandante,Anderson Daronco,27.6,5.3,180.3,6.3,29.6,4.6,179.8,6.0,Estádio São Januário,12451
+Vasco da Gama,2025,14,20/08/2025,19:00,Quarta,8,Juventude,Derrota,0,2,Visitante,Matheus Delgado Candançan,28.9,4.9,179.6,5.6,30.6,6.0,179.0,6.4,Estádio Alfredo Jaconi,8210
+Vasco da Gama,2025,22,31/08/2025,20:30,Domingo,8,Sport Recife,Vitória,3,2,Visitante,Raphael Claus,27.6,4.9,180.5,5.3,28.4,4.9,181.3,8.5,Ilha do Retiro,15434
+Vasco da Gama,2025,23,14/09/2025,20:30,Domingo,9,Ceará,Empate,2,2,Mandante,Matheus Delgado Candançan,26.8,5.2,181.5,5.4,28.0,2.9,180.3,8.6,Estádio São Januário,17497
+Vasco da Gama,2025,28,15/10/2025,21:30,Quarta,10,Fortaleza,Vitória,2,0,Visitante,Wilton Pereira Sampaio,26.2,4.5,178.7,5.6,29.2,3.6,178.5,5.2,Estádio Governador Plácido Castelo,27658
+Vasco da Gama,2025,33,08/11/2025,18:00,Sábado,11,Juventude,Derrota,1,3,Mandante,Fernando Antonio Mendes de Salles Nascimento Filho,25.9,4.1,178.7,5.6,30.5,5.0,180.6,4.9,Estádio São Januário,20000

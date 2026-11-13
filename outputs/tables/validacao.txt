@@ -1,0 +1,16 @@
+Partidas no recorte: 456 (esperado: 12 x 38 = 456)
+Primeira rodada sem histórico (forma = 1,5 ponto/jogo): 12
+Adversários sem posição final: 0
+Jogos contra Z4: 96; divergências com o arquivo Z4 do TCC: 0
+Campanhas com pontos diferentes da tabela oficial: 0 de 12
+Jogos por campanha: min 38, max 38
+Rodadas duplicadas: 0
+Resultado incoerente com o placar: 0
+Ausentes em idade_media_titular_time: 0
+Ausentes em altura_media_titular_time: 0
+Ausentes em idade_media_titular_adv: 0
+Ausentes em altura_media_titular_adv: 0
+Ausentes em publico: 15
+Público ausente ou zero: 135
+Árbitros com apóstrofo no nome: 2
+Linhas de confronto direto campeão x vice: 24
