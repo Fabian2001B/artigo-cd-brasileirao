@@ -4,9 +4,6 @@ Saídas: outputs/tables/metricas_modelos.csv, importancia_variaveis.csv,
 regras_arvore.txt, matriz_confusao_temporal.csv e as figuras fig3 (árvore)
 e fig4 (importância das variáveis).
 """
-import matplotlib
-
-matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -22,6 +19,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.tree import DecisionTreeClassifier, export_text
 
 from config import BASE_PROCESSADA, COR_CAMPEAO, FIGURAS, PREDITORAS, SEMENTE, TABELAS
+from estilo import BORDA, TINTA, TINTA_2, aplicar_estilo, saida_utf8
 
 NOMES = {
     "mandante": "Mandante", "posicao_adv": "Posição do adversário",
@@ -35,6 +33,11 @@ BINARIAS = {"mandante", "meio_semana", "campeao"}
 
 def num_br(v, casas=1):
     return f"{v:.{casas}f}".replace(".", ",")
+
+
+def nova_floresta():
+    return RandomForestClassifier(n_estimators=300, min_samples_leaf=10,
+                                  class_weight="balanced", random_state=SEMENTE)
 
 
 def desenhar_arvore(arvore, X, y, destino):
@@ -57,6 +60,7 @@ def desenhar_arvore(arvore, X, y, destino):
     prof_max = max(p for _, p in pos.values())
     fig, ax = plt.subplots(figsize=(6.4, 1.15 + 1.25 * prof_max))
     ax.axis("off")
+    ax.grid(False)
     escala_x = 1.0 / max(folhas[0] - 1, 1)
 
     def xy(no):
@@ -80,17 +84,17 @@ def desenhar_arvore(arvore, X, y, destino):
                 cond = f"{NOMES[var]} ≤ {num_br(t.threshold[no])}?"
             texto = f"{cond}\n{n} jogos, vitória em {taxa:.0f}%"
             cor = "white"
-        ax.text(x, yy, texto, ha="center", va="center", fontsize=7.5, color="#0b0b0b",
-                bbox=dict(boxstyle="round,pad=0.45", fc=cor, ec="#8a8984", lw=0.8))
+        ax.text(x, yy, texto, ha="center", va="center", fontsize=7.5, color=TINTA,
+                bbox=dict(boxstyle="round,pad=0.45", fc=cor, ec=BORDA, lw=0.8))
         if not folha:
             var = PREDITORAS[t.feature[no]]
             esq, dir_ = ("não", "sim") if var in BINARIAS else ("sim", "não")
             for filho, rot in [(t.children_left[no], esq), (t.children_right[no], dir_)]:
                 fx, fy = xy(filho)
                 ax.annotate("", xy=(fx, fy + 0.28), xytext=(x, yy - 0.28),
-                            arrowprops=dict(arrowstyle="-", color="#8a8984", lw=0.8))
+                            arrowprops=dict(arrowstyle="-", color=BORDA, lw=0.8))
                 ax.text((x + fx) / 2, (yy + fy) / 2, rot, ha="center", va="center",
-                        fontsize=7, color="#52514e",
+                        fontsize=7, color=TINTA_2,
                         bbox=dict(boxstyle="square,pad=0.1", fc="white", ec="none"))
     ax.set_xlim(-0.14, 1.14)
     ax.set_ylim(-prof_max - 0.45, 0.45)
@@ -114,6 +118,7 @@ def ajustar_arvore(X, y, cv):
 
 
 def main():
+    aplicar_estilo()
     df = pd.read_csv(BASE_PROCESSADA, encoding="utf-8")
     X, y = df[PREDITORAS], df["vitoria"]
     y3 = df["resultado"]
@@ -127,9 +132,7 @@ def main():
         f"Árvore de decisão (prof. {params['max_depth']}, folha {params['min_samples_leaf']})": arvore,
         "Regressão logística": make_pipeline(StandardScaler(), LogisticRegression(
             class_weight="balanced", max_iter=1000)),
-        "Floresta aleatória (300 árvores)": RandomForestClassifier(
-            n_estimators=300, min_samples_leaf=10, class_weight="balanced",
-            random_state=SEMENTE),
+        "Floresta aleatória (300 árvores)": nova_floresta(),
     }
 
     linhas = []
@@ -173,9 +176,7 @@ def main():
     # Importância das variáveis por permutação, medida no teste temporal
     # (2024-2025) com a floresta treinada em 2020-2023. A importância por
     # redução de impureza favorece variáveis contínuas e não foi usada.
-    rf_t = RandomForestClassifier(n_estimators=300, min_samples_leaf=10,
-                                  class_weight="balanced", random_state=SEMENTE
-                                  ).fit(X[treino], y[treino])
+    rf_t = nova_floresta().fit(X[treino], y[treino])
     perm = permutation_importance(rf_t, X[~treino], y[~treino], n_repeats=50,
                                   scoring="balanced_accuracy", random_state=SEMENTE)
     arvore.fit(X, y)
@@ -193,20 +194,19 @@ def main():
     desenhar_arvore(arvore, X, y, FIGURAS / "fig3_arvore")
 
     # Figura 4: importância por permutação.
-    plt.rcParams.update({"axes.spines.top": False, "axes.spines.right": False,
-                         "axes.spines.left": False, "font.size": 9})
     imp_o = imp.sort_values("permutacao_media")
     fig, ax = plt.subplots(figsize=(6.2, 2.9))
     pos = np.arange(len(imp_o))
     ax.barh(pos, imp_o["permutacao_media"] * 100, color=COR_CAMPEAO, height=0.6)
     ax.errorbar(imp_o["permutacao_media"] * 100, pos, xerr=imp_o["permutacao_dp"] * 100,
-                fmt="none", ecolor="#52514e", elinewidth=0.8, capsize=2)
+                fmt="none", ecolor=TINTA_2, elinewidth=0.8, capsize=2)
     ax.set_yticks(pos, [NOMES[v] for v in imp_o["variavel"]])
-    ax.axvline(0, color="#52514e", linewidth=0.8)
+    ax.axvline(0, color=TINTA_2, linewidth=0.8)
     ax.set_xlabel("Queda na acurácia balanceada ao embaralhar a variável (p.p.)")
     ax.xaxis.set_major_formatter(plt.FuncFormatter(lambda v, _: f"{v:.0f}".replace("-", "−")))
-    ax.grid(axis="x", color="#e4e3df", linewidth=0.6)
-    ax.set_axisbelow(True)
+    ax.grid(axis="y", visible=False)
+    ax.spines["left"].set_visible(False)
+    ax.tick_params(axis="y", length=0)
     fig.tight_layout()
     fig.savefig(FIGURAS / "fig4_importancia.png", dpi=300)
     fig.savefig(FIGURAS / "fig4_importancia.pdf")
@@ -216,8 +216,9 @@ def main():
     print(met.round(3).to_string(index=False))
     print(imp.round(3).to_string(index=False))
     print(regras)
-    print(open(TABELAS / "matriz_confusao_temporal.csv", encoding="utf-8").read())
+    print((TABELAS / "matriz_confusao_temporal.csv").read_text(encoding="utf-8"))
 
 
 if __name__ == "__main__":
+    saida_utf8()
     main()

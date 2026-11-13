@@ -3,38 +3,22 @@
 Gera tabelas de taxa de vitória por fator (campeões x vices) e as figuras
 fig1 (por faixa de posição do adversário) e fig2 (por condição de jogo).
 """
-import matplotlib
-
-matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
 from config import BASE_PROCESSADA, COR_CAMPEAO, COR_VICE, FIGURAS, TABELAS
-
-TINTA = "#0b0b0b"
-TINTA_2 = "#52514e"
-GRADE = "#e4e3df"
+from estilo import TINTA, aplicar_estilo, saida_utf8
 
 
-def estilo():
-    plt.rcParams.update({
-        "font.family": "DejaVu Sans", "font.size": 9,
-        "axes.edgecolor": GRADE, "axes.labelcolor": TINTA_2,
-        "xtick.color": TINTA_2, "ytick.color": TINTA_2,
-        "axes.spines.top": False, "axes.spines.right": False,
-        "axes.grid": True, "grid.color": GRADE, "grid.linewidth": 0.6,
-        "axes.axisbelow": True, "figure.dpi": 150,
-    })
-
-
-def barras_agrupadas(ax, rotulos, campeao, vice, n_c, n_v):
+def barras_agrupadas(ax, rotulos, campeao, vice):
+    """Barras lado a lado (campeões e vices) com o valor sobre cada barra."""
     x = np.arange(len(rotulos))
     w = 0.38
-    for desloc, vals, ns, cor, nome in [(-w / 2, campeao, n_c, COR_CAMPEAO, "Campeões"),
-                                         (w / 2, vice, n_v, COR_VICE, "Vice-campeões")]:
+    for desloc, vals, cor, nome in [(-w / 2, campeao, COR_CAMPEAO, "Campeões"),
+                                    (w / 2, vice, COR_VICE, "Vice-campeões")]:
         barras = ax.bar(x + desloc, vals, w - 0.03, color=cor, label=nome)
-        for b, v, n in zip(barras, vals, ns):
+        for b, v in zip(barras, vals):
             ax.text(b.get_x() + b.get_width() / 2, v + 1.2, f"{v:.0f}%",
                     ha="center", va="bottom", fontsize=7.5, color=TINTA)
     ax.set_xticks(x, rotulos)
@@ -51,16 +35,17 @@ def taxa(df, col):
 
 
 def main():
-    estilo()
+    aplicar_estilo()
     df = pd.read_csv(BASE_PROCESSADA, encoding="utf-8")
     FIGURAS.mkdir(parents=True, exist_ok=True)
 
-    # Tabela resumo por campanha.
+    # Tabela resumo por campanha (pontos totais, em casa e fora).
+    df["pts_casa"] = df["pontos"].where(df["mandante"] == 1, 0)
+    df["pts_fora"] = df["pontos"].where(df["mandante"] == 0, 0)
     camp = (df.groupby(["temporada", "papel", "time"])
               .agg(jogos=("pontos", "size"), pontos=("pontos", "sum"),
-                   vitorias=("vitoria", "sum"),
-                   pts_casa=("pontos", lambda s: s[df.loc[s.index, "mandante"] == 1].sum()),
-                   pts_fora=("pontos", lambda s: s[df.loc[s.index, "mandante"] == 0].sum()))
+                   vitorias=("vitoria", "sum"), pts_casa=("pts_casa", "sum"),
+                   pts_fora=("pts_fora", "sum"))
               .reset_index())
     camp.to_csv(TABELAS / "resumo_campanhas.csv", index=False, encoding="utf-8")
 
@@ -98,7 +83,7 @@ def main():
     c = t[t.papel == "Campeão"].set_index("faixa_adv").reindex(ordem)
     v = t[t.papel == "Vice"].set_index("faixa_adv").reindex(ordem)
     fig, ax = plt.subplots(figsize=(6.2, 3.0))
-    barras_agrupadas(ax, ordem, c["mean"], v["mean"], c["size"], v["size"])
+    barras_agrupadas(ax, ordem, c["mean"], v["mean"])
     ax.set_xlabel("Posição final do adversário na tabela")
     fig.tight_layout()
     fig.savefig(FIGURAS / "fig1_vitoria_por_adversario.png", dpi=300)
@@ -106,7 +91,7 @@ def main():
     plt.close(fig)
 
     # Figura 2: taxa de vitória por condição de jogo.
-    rot, cv, vv, nc, nv = [], [], [], [], []
+    rot, cv, vv = [], [], []
     for col, (sim, nao) in [("mandante", ("Mandante", "Visitante")),
                             ("meio_semana", ("Meio de\nsemana", "Fim de\nsemana")),
                             ("reta_final", ("Reta\nfinal", "Rodadas\n1-29"))]:
@@ -115,10 +100,8 @@ def main():
             rot.append(nome)
             cv.append(100 * s[s.papel == "Campeão"]["vitoria"].mean())
             vv.append(100 * s[s.papel == "Vice"]["vitoria"].mean())
-            nc.append((s.papel == "Campeão").sum())
-            nv.append((s.papel == "Vice").sum())
     fig, ax = plt.subplots(figsize=(6.2, 3.0))
-    barras_agrupadas(ax, rot, cv, vv, nc, nv)
+    barras_agrupadas(ax, rot, cv, vv)
     fig.tight_layout()
     fig.savefig(FIGURAS / "fig2_vitoria_por_condicao.png", dpi=300)
     fig.savefig(FIGURAS / "fig2_vitoria_por_condicao.pdf")
@@ -132,4 +115,5 @@ def main():
 
 
 if __name__ == "__main__":
+    saida_utf8()
     main()

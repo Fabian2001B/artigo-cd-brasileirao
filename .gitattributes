@@ -1,0 +1,2 @@
+# Mantém os dados exatamente como foram baixados (sem conversão de fim de linha).
+*.csv -text

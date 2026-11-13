@@ -3,12 +3,12 @@
 Gera data/processed/partidas_disputa_titulo.csv (uma linha por partida de um
 campeão ou vice) e outputs/tables/validacao.txt com as checagens feitas.
 """
-import numpy as np
 import pandas as pd
 
 from config import (
     BASE_PROCESSADA, CAMPANHAS, CLASSIFICACAO, DADOS_BRUTOS, TABELAS,
 )
+from estilo import saida_utf8
 
 PONTOS = {"Vitória": 3, "Empate": 1, "Derrota": 0}
 DIAS_UTEIS = {"Segunda", "Terça", "Quarta", "Quinta", "Sexta"}
@@ -49,7 +49,7 @@ def main():
     df = base[base["papel"].notna()].copy()
     log.append(f"Partidas no recorte: {len(df)} (esperado: 12 x 38 = 456)")
 
-    # Forma recente (calculada antes de qualquer filtro adicional).
+    # Forma recente: usa apenas jogos anteriores da mesma campanha.
     df["forma_recente"] = (
         df.groupby(["temporada", "time"], group_keys=False).apply(forma_recente)
     )
@@ -115,10 +115,9 @@ def main():
         "resultado", "gols_favor", "gols_sofridos", "pontos", "vitoria",
         "mandante", "campeao", "posicao_adv", "pontos_adv", "faixa_adv", "adv_z4",
         "forma_recente", "dif_idade", "dif_altura", "idade_media_titular_time",
-        "altura_media_titular_time", "rodada", "reta_final", "meio_semana",
+        "altura_media_titular_time", "reta_final", "meio_semana",
         "dia_semana", "hora", "publico", "confronto_direto", "arbitro", "estadio",
     ]
-    colunas = list(dict.fromkeys(colunas))
     BASE_PROCESSADA.parent.mkdir(parents=True, exist_ok=True)
     df[colunas].sort_values(["temporada", "papel", "rodada"]).to_csv(
         BASE_PROCESSADA, index=False, encoding="utf-8")
@@ -130,4 +129,5 @@ def main():
 
 
 if __name__ == "__main__":
+    saida_utf8()
     main()

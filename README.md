@@ -82,7 +82,8 @@ fins acadêmicos.
 │   ├── figures/      # figuras do artigo (PNG e PDF)
 │   └── tables/       # tabelas e métricas
 ├── src/
-│   ├── config.py
+│   ├── config.py       # caminhos, campanhas, preditoras e semente
+│   ├── estilo.py       # estilo comum das figuras
 │   ├── obter_dados.py
 │   ├── preparar.py
 │   ├── exploratoria.py

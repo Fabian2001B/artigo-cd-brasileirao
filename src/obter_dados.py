@@ -7,6 +7,7 @@ nada é baixado de novo.
 import urllib.request
 
 from config import ARQUIVOS_TCC, CLASSIFICACAO, DADOS_BRUTOS, TCC_COMMIT, TCC_REPO
+from estilo import saida_utf8
 
 
 def main():
@@ -30,4 +31,5 @@ def main():
 
 
 if __name__ == "__main__":
+    saida_utf8()
     main()
